@@ -1,4 +1,213 @@
 {
-  "generatedAt": "2026-09-18T02:38:30+00:00",
-  "assets": []
+  "generatedAt": "2026-09-18T12:33:50+00:00",
+  "assets": [
+    {
+      "key": "images/animals/cow/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 139038,
+      "sha256": "b6b2eb5e65882b64b081340b833703d15ec25b8ddd07cc0dfbe7902787e817fb"
+    },
+    {
+      "key": "images/animals/pig/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 112764,
+      "sha256": "7e569abbb39b346a7188d4ac21a2b407e175f6830d8a9b5e35f4bb1c86865a77"
+    },
+    {
+      "key": "images/categories/animals-farm/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 231890,
+      "sha256": "af4463cff727519a16ec5be17544c1c6c4add4f3403b3eb7878cd4717588ef8e"
+    },
+    {
+      "key": "images/categories/animals-pets/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 161930,
+      "sha256": "3048d17042efd2f850c5c3f4baaa71ef957b73dc3cbff690a05bedd7d48bf6ac"
+    },
+    {
+      "key": "images/categories/animals-sea/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 216306,
+      "sha256": "0a8ebc84b2a3c811cbfe38aeb1320cc039af0f53bc67fdee2e8794cfe8685af6"
+    },
+    {
+      "key": "images/categories/animals-wild/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 224662,
+      "sha256": "cea30c3f948ed3060c6b28681a2eced78ccc7ce0c64fad3f221dfaf4c66b6540"
+    },
+    {
+      "key": "images/categories/animals/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 683,
+      "bytes": 214410,
+      "sha256": "5647f7b6002f703be2144f2fb576a479fcd7c81c958268d620d60699c755dfae"
+    },
+    {
+      "key": "images/categories/body/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 683,
+      "bytes": 103470,
+      "sha256": "9d114eddd61dcf377c5fe2feecc992f40aeb062176c558211018df2d64940bc2"
+    },
+    {
+      "key": "images/categories/colors/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 683,
+      "bytes": 121074,
+      "sha256": "e2f436833895c6f793d973402dd6c1a8467358c98075f03eefe0456241bba935"
+    },
+    {
+      "key": "images/categories/fruits/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 683,
+      "bytes": 141844,
+      "sha256": "4de749f0448e3d8f7ba51c61a831ab783d98d84217de17a6a17bfbf3a54b9ff2"
+    },
+    {
+      "key": "images/categories/letters/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 683,
+      "bytes": 113002,
+      "sha256": "599589e0cf1cdd055ba75f2b56f52474b2af02101bd6bcbd2a5f20aa4ff544c2"
+    },
+    {
+      "key": "images/categories/numbers/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 683,
+      "bytes": 144846,
+      "sha256": "332712438bd9a47248c48a307ba7f0cf7bb8d80097183a4e775961ead1b413b5"
+    },
+    {
+      "key": "images/categories/shapes/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 683,
+      "bytes": 121074,
+      "sha256": "e2f436833895c6f793d973402dd6c1a8467358c98075f03eefe0456241bba935"
+    }
+  ]
 }
