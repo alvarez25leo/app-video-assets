@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:53:54+00:00",
+  "generatedAt": "2026-09-18T20:58:09+00:00",
   "assets": [
     {
       "key": "images/animals/bear/illustration",
@@ -674,6 +674,22 @@
       "sha256": "6806a121ca7ebfed684feaec3f8efab22b7c96a5322689271fe818a145cebfcc"
     },
     {
+      "key": "images/body/lungs/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 89720,
+      "sha256": "091cf9910cf0d6eac9de00082ddf47a897b65e087763e1b9b5464a2b2bb9c870"
+    },
+    {
       "key": "images/body/mouth/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -912,6 +928,38 @@
       "height": 683,
       "bytes": 98312,
       "sha256": "69c572b19be3c1daa966348d6ccc54f2d171a9f9afc28cfb1ba83bf9740f8df1"
+    },
+    {
+      "key": "images/fruits/apple/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 136200,
+      "sha256": "0809093b371ae9d882f595f4d17016dfff002d80f109748cf5ddcc29ee0f6c0e"
+    },
+    {
+      "key": "images/fruits/banana/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 59706,
+      "sha256": "767eadf2f90467088b55a1cf0f42fe349fda989ae1a100b4e10236f9f8f527cf"
     }
   ]
 }
