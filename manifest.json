@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-18T17:53:34+00:00",
+  "generatedAt": "2026-09-18T20:16:31+00:00",
   "assets": [
+    {
+      "key": "images/animals/bear/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 235502,
+      "sha256": "7ecdfdbff81cd520b24f3929859649c4663727fc45b464882b183f99d12e52a8"
+    },
     {
       "key": "images/animals/cat/illustration",
       "kind": "IMAGE",
@@ -50,22 +66,6 @@
       "sha256": "d4b0e6cbefc9cb3fc9cf195dd44e246d98ac3a64e39f5f6253d308d886c713e2"
     },
     {
-      "key": "images/animals/donkey/chatgpt-image-error",
-      "kind": "IMAGE",
-      "ext": "webp",
-      "mime": "image/webp",
-      "sizes": [
-        128,
-        256,
-        512,
-        1024
-      ],
-      "width": 1024,
-      "height": 546,
-      "bytes": 29832,
-      "sha256": "821d3b4e7add436b8377ed2af71d2db35638f4894b8b40db608f530a151ae258"
-    },
-    {
       "key": "images/animals/donkey/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -96,6 +96,38 @@
       "height": 1024,
       "bytes": 76690,
       "sha256": "30347bcab2803c6e836e30f7ddbe78e1335c35d85cdee2930bfd6f443c02ff13"
+    },
+    {
+      "key": "images/animals/elephant/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 155750,
+      "sha256": "912b30504aee0adc3f40942a920da2819c17d577b666750b8999216b78522b7e"
+    },
+    {
+      "key": "images/animals/giraffe/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 115886,
+      "sha256": "36e7e50d479bd252b2d32761b36c165f5388e3bcb727a675cfb971e4d251efb2"
     },
     {
       "key": "images/animals/goat/illustration",
@@ -144,6 +176,70 @@
       "height": 1024,
       "bytes": 181510,
       "sha256": "ef7e392f52893d6fd7bd3d5b77c36bcf5d86a9277f35ec90ca9e6d6d6b0cd4e5"
+    },
+    {
+      "key": "images/animals/hippo/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 196210,
+      "sha256": "637c301726b38c1c5f6406da8bae261a669f62425c7e161a2245f66c1b8b481f"
+    },
+    {
+      "key": "images/animals/horse/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 134624,
+      "sha256": "78b8bdcfb8ea5924f18d3076aaff43b722f7d4cdd3103a56b6df602e988ba5e6"
+    },
+    {
+      "key": "images/animals/lion/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 190284,
+      "sha256": "12cf1a8c69fb89c343ee8568a6869929d187a6da19ddd8de4e1cef862acddad8"
+    },
+    {
+      "key": "images/animals/monkey/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 344746,
+      "sha256": "2fb9e38f51d997f9be904eccbeb29cdb7b6953307533e0315021231259fdfe86"
     },
     {
       "key": "images/animals/parrot/illustration",
@@ -224,6 +320,38 @@
       "height": 1024,
       "bytes": 134406,
       "sha256": "2f8128a34170807fbd065adb09939211ca2ef622911c9d5424ae0f5c536ef935"
+    },
+    {
+      "key": "images/animals/tiger/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 253276,
+      "sha256": "bb0780a6e5569e9afd8a1c5aa96fbc0db34d95a04c7667acd84278a5598e6368"
+    },
+    {
+      "key": "images/animals/zebra/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 170202,
+      "sha256": "30e8ee9585b72f7b7d271321f55e842b341e5bb4cae5b255b81d5a5df9088f70"
     },
     {
       "key": "images/categories/animals-farm/cover",
