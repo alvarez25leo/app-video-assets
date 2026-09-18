@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T21:18:34+00:00",
+  "generatedAt": "2026-09-18T21:23:03+00:00",
   "assets": [
     {
       "key": "images/animals/bear/illustration",
@@ -1090,6 +1090,22 @@
       "sha256": "ca36e905ab71b5a75fe645443f7c484291ad0a78e683b4a3a00c344b231c6127"
     },
     {
+      "key": "images/medals/amigo-de-las-mascotas/medal",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 150616,
+      "sha256": "698b7bb618c5567cd9d4f4a4e6f2d2783777032b85fe9f83a091a2c54c21b024"
+    },
+    {
       "key": "images/medals/cinco-perfectas/medal",
       "kind": "IMAGE",
       "ext": "webp",
@@ -1104,6 +1120,38 @@
       "height": 1024,
       "bytes": 157520,
       "sha256": "2b4b47805e32666914400d76e48ed6f4b025dfaea28c4d06694ab4bcf87fcc75"
+    },
+    {
+      "key": "images/medals/cuenta-hasta-10/medal",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 139616,
+      "sha256": "45bbad8fa0fd0a2a72ac6827078991738fda65a2107e53343553d8408da8e64e"
+    },
+    {
+      "key": "images/medals/cuenta-hasta-5/medal",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 141734,
+      "sha256": "c8afae63f49d48d47a57aad7bbef63f756b18513ccf8e060b983469df54baf8b"
     },
     {
       "key": "images/medals/explorador-del-mar/medal",
