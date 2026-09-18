@@ -27,7 +27,7 @@ Números, colores, formas y letras **no necesitan imagen** (la app los dibuja).
 ```text
 Dibuja una vaca lechera blanca con manchas negras, nariz rosada y una campanita al cuello.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Cerdo · `animals/pig`
@@ -38,7 +38,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un cerdito rosado y regordete con hocico redondo y cola en espiral.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Gallo · `animals/rooster`
@@ -49,7 +49,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un gallo colorido con cresta roja, plumas doradas y cola verde tornasolada.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Caballo · `animals/horse`
@@ -60,7 +60,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un caballo marrón con crin oscura, de pie y amistoso.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Oveja · `animals/sheep`
@@ -71,7 +71,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja una oveja con lana blanca muy esponjosa y carita gris.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Cabra · `animals/goat`
@@ -82,7 +82,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja una cabra blanca con cuernitos cortos y barbita.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Pato · `animals/duck`
@@ -93,7 +93,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un pato blanco con pico y patas naranjas.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Burro · `animals/donkey`
@@ -104,7 +104,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un burrito gris con orejas largas y hocico claro.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 ### Animales salvajes (10)
@@ -117,7 +117,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un león con melena dorada y abundante, expresión simpática.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Elefante · `animals/elephant`
@@ -128,7 +128,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un elefante gris con orejas grandes y trompa levantada.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Jirafa · `animals/giraffe`
@@ -139,7 +139,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja una jirafa amarilla con manchas marrones y cuello largo (debe entrar completa en el cuadro).
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Cebra · `animals/zebra`
@@ -150,7 +150,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja una cebra con rayas blancas y negras bien definidas.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Mono · `animals/monkey`
@@ -161,7 +161,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un monito marrón sonriente sosteniendo un plátano.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Tigre · `animals/tiger`
@@ -172,7 +172,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un tigre naranja con rayas negras, carita tierna.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Oso · `animals/bear`
@@ -183,7 +183,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un oso pardo sentado, suave y abrazable.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Hipopótamo · `animals/hippo`
@@ -194,7 +194,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un hipopótamo gris lila, redondito y feliz.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Cocodrilo · `animals/crocodile`
@@ -205,7 +205,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un cocodrilo verde simpático con la boca cerrada y sonrisa amable.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Rinoceronte · `animals/rhino`
@@ -216,7 +216,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un rinoceronte gris con un cuerno redondeado.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 ### Animales marinos (8)
@@ -229,7 +229,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un delfín celeste saltando alegre.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Pez payaso · `animals/clownfish`
@@ -240,7 +240,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un pez payaso naranja con franjas blancas.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Tortuga · `animals/turtle`
@@ -251,7 +251,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja una tortuga marina verde con caparazón de patrón hexagonal.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Pulpo · `animals/octopus`
@@ -262,7 +262,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un pulpo rosado con ocho tentáculos ondulados.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Ballena · `animals/whale`
@@ -273,7 +273,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja una ballena azul redondeada soltando un chorrito de agua.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Cangrejo · `animals/crab`
@@ -284,7 +284,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un cangrejo rojo con pinzas levantadas saludando.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Estrella de mar · `animals/starfish`
@@ -295,7 +295,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja una estrella de mar naranja con cinco brazos y textura de puntitos.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Foca · `animals/seal`
@@ -306,7 +306,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja una foca gris aplaudiendo con sus aletas.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 ### Mascotas (6)
@@ -319,7 +319,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un perrito beagle marrón y blanco con la lengua afuera.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Gato · `animals/cat`
@@ -330,7 +330,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un gatito gris atigrado sentado.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Conejo · `animals/rabbit`
@@ -341,7 +341,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un conejito blanco con orejas largas y nariz rosada.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Hámster · `animals/hamster`
@@ -352,7 +352,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un hámster dorado y redondito con los cachetes llenos.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Loro · `animals/parrot`
@@ -363,7 +363,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un loro verde con cabeza amarilla y pico curvo.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Pececito · `animals/goldfish`
@@ -374,7 +374,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un pececito dorado con aletas grandes y transparentes.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 ### Cuerpo humano (15)
@@ -387,7 +387,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja la cabeza sonriente de un niño de dibujo animado, de frente.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Ojos · `body/eyes`
@@ -398,7 +398,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja dos ojos grandes y brillantes de dibujo animado con cejas, sin el resto de la cara.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Nariz · `body/nose`
@@ -409,7 +409,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja la cara de un niño de dibujo animado con la nariz resaltada por un brillo suave.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Boca · `body/mouth`
@@ -420,7 +420,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja una boca sonriente de dibujo animado mostrando dientes blancos.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Orejas · `body/ears`
@@ -431,7 +431,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja la cabeza de un niño de dibujo animado de perfil con la oreja resaltada por un brillo suave.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Dientes · `body/teeth`
@@ -442,7 +442,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un diente blanco sonriente con brillo, estilo mascota de cepillado.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Lengua · `body/tongue`
@@ -453,7 +453,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja una boca de dibujo animado sacando la lengua de forma graciosa.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Manos · `body/hands`
@@ -464,7 +464,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja dos manos infantiles abiertas saludando.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Dedos · `body/fingers`
@@ -475,7 +475,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja una mano infantil mostrando los cinco dedos abiertos.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Brazos · `body/arms`
@@ -486,7 +486,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un niño de dibujo animado mostrando los brazos fuertes, pose alegre.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Piernas · `body/legs`
@@ -497,7 +497,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un niño de dibujo animado corriendo, con las piernas resaltadas por un brillo suave.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Pies · `body/feet`
@@ -508,7 +508,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja dos pies infantiles descalzos, tiernos.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Cerebro · `body/brain`
@@ -519,7 +519,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un cerebro rosado amistoso de caricatura con carita sonriente (no realista).
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Corazón · `body/heart`
@@ -530,7 +530,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un corazón anatómico de caricatura, rojo y amistoso, con carita sonriente (no realista).
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Pulmones · `body/lungs`
@@ -541,7 +541,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja dos pulmones rosados de caricatura con carita sonriente (no realistas).
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 ### Frutas (9)
@@ -554,7 +554,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja una manzana roja brillante con una hoja verde.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Plátano · `fruits/banana`
@@ -565,7 +565,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un plátano amarillo maduro.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Fresa · `fruits/strawberry`
@@ -576,7 +576,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja una fresa roja con semillitas y hojas verdes.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Naranja · `fruits/orange`
@@ -587,7 +587,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja una naranja con una hoja verde.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Uvas · `fruits/grapes`
@@ -598,7 +598,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja un racimo de uvas moradas.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Pera · `fruits/pear`
@@ -609,7 +609,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja una pera verde.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Sandía · `fruits/watermelon`
@@ -620,7 +620,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja una tajada de sandía roja con semillas negras.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Piña · `fruits/pineapple`
@@ -631,7 +631,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja una piña con corona de hojas verdes.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Cerezas · `fruits/cherries`
@@ -642,7 +642,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Dibuja dos cerezas rojas unidas por el tallo.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 ## 2. Portadas de categorías
@@ -655,7 +655,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), tierna y 
 ```text
 Portada para la categoría infantil «Animales»: un gallo, una vaca y un perrito juntos en el pasto verde, felices.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
 
 #### Animales de granja
@@ -666,7 +666,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), colores v
 ```text
 Portada para la categoría infantil «Animales de granja»: una granja con granero rojo, una vaca, un gallo y un cerdito en primer plano.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
 
 #### Animales salvajes
@@ -677,7 +677,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), colores v
 ```text
 Portada para la categoría infantil «Animales salvajes»: un león, un elefante y una jirafa en la sabana africana con árboles de acacia.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
 
 #### Animales marinos
@@ -688,7 +688,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), colores v
 ```text
 Portada para la categoría infantil «Animales marinos»: un delfín, un pez payaso y una tortuga marina bajo el mar con corales.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
 
 #### Mascotas
@@ -699,7 +699,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), colores v
 ```text
 Portada para la categoría infantil «Mascotas»: un perrito, un gatito y un conejito en una sala acogedora.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
 
 #### Números
@@ -710,7 +710,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), colores v
 ```text
 Portada para la categoría infantil «Números»: los números 1, 2 y 3 en 3D, gorditos y de colores (rojo, amarillo, azul), con destellos.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
 
 #### Colores
@@ -721,7 +721,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), colores v
 ```text
 Portada para la categoría infantil «Colores»: una paleta de pintor de madera con manchas de colores y un pincel.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
 
 #### Formas
@@ -732,7 +732,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), colores v
 ```text
 Portada para la categoría infantil «Formas»: una esfera roja, un cubo azul, una estrella amarilla y una pirámide verde en 3D.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
 
 #### ABC
@@ -743,7 +743,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), colores v
 ```text
 Portada para la categoría infantil «ABC»: las letras A, B y C en 3D, gorditas y de colores (rojo, azul, verde).
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
 
 #### Cuerpo humano
@@ -754,7 +754,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), colores v
 ```text
 Portada para la categoría infantil «Cuerpo humano»: un niño de dibujo animado sonriente con los brazos abiertos.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
 
 #### Frutas
@@ -765,7 +765,7 @@ Estilo: ilustración 3D de animación infantil (tipo película Pixar), colores v
 ```text
 Portada para la categoría infantil «Frutas»: una canasta con manzanas, plátanos, uvas y fresas.
 
-Estilo: ilustración 3D de animación infantil (tipo película Pixar), colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
 
 ## 3. Medallas
