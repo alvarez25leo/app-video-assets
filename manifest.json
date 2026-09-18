@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T21:02:16+00:00",
+  "generatedAt": "2026-09-18T21:10:35+00:00",
   "assets": [
     {
       "key": "images/animals/bear/illustration",
@@ -962,6 +962,22 @@
       "sha256": "767eadf2f90467088b55a1cf0f42fe349fda989ae1a100b4e10236f9f8f527cf"
     },
     {
+      "key": "images/fruits/cherries/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 164542,
+      "sha256": "5a1deb5770cf17b10bbd77d83d5bdf5333825c6c5fa8d512f6592fc0ce371163"
+    },
+    {
       "key": "images/fruits/grapes/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -994,6 +1010,38 @@
       "sha256": "4bcc6ac1ab78c08c4d48f0dafc6505defcdfb89decea4ef072c94229d45db229"
     },
     {
+      "key": "images/fruits/pear/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 104044,
+      "sha256": "cb73ee8dff778f07d711a1d85219721aa85123cbcc3f7a3668dcb34184a2ef6e"
+    },
+    {
+      "key": "images/fruits/pineapple/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 160922,
+      "sha256": "f498cc6eb97d714bc21c811f4cdc468c559c75d40ac9e6f65717417523f0a6cb"
+    },
+    {
       "key": "images/fruits/strawberry/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -1008,6 +1056,54 @@
       "height": 1024,
       "bytes": 150848,
       "sha256": "2dbb75ec33789d51d3bc5fb04b95f6f600065799f98f55ab1a11e8608e5d15b5"
+    },
+    {
+      "key": "images/fruits/watermelon/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 185852,
+      "sha256": "0813e50eaddacebfbc3b0c4d31bab778f8ada9dfe84e0052cbecb2e2ef7f0081"
+    },
+    {
+      "key": "images/medals/explorador/medal",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 155368,
+      "sha256": "08d8c3440dba12301784db952ea03acf06fa21214de3f36dc948a18a16fbfffd"
+    },
+    {
+      "key": "images/medals/primeros-pasos/medal",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 132288,
+      "sha256": "1e97449093aba069f189008b432c345afae5845428f184d1168556bd9cd46e10"
     }
   ]
 }
