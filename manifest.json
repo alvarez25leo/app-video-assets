@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:16:31+00:00",
+  "generatedAt": "2026-09-18T20:20:38+00:00",
   "assets": [
     {
       "key": "images/animals/bear/illustration",
@@ -50,6 +50,22 @@
       "sha256": "b6b2eb5e65882b64b081340b833703d15ec25b8ddd07cc0dfbe7902787e817fb"
     },
     {
+      "key": "images/animals/crocodile/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 161802,
+      "sha256": "0d12244d0d797931bd5cb69754357cd29ccadc57d6767734c6bfaec9d379176c"
+    },
+    {
       "key": "images/animals/dog/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -64,6 +80,22 @@
       "height": 1024,
       "bytes": 154038,
       "sha256": "d4b0e6cbefc9cb3fc9cf195dd44e246d98ac3a64e39f5f6253d308d886c713e2"
+    },
+    {
+      "key": "images/animals/dolphin/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 69418,
+      "sha256": "fae0e364e6645a001fe83ee63f4daab2ad37a4488937cb0e5bdd0f07359556b3"
     },
     {
       "key": "images/animals/donkey/illustration",
@@ -288,6 +320,22 @@
       "height": 1024,
       "bytes": 118892,
       "sha256": "ddabd13a9bcdc0b7f30ce469b49e9cf9b11f454180cea1c8fdd7331312b8ef5c"
+    },
+    {
+      "key": "images/animals/rhino/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 201306,
+      "sha256": "5033cafce38355965e7904ecfb5c941dfcf6f0b8139b27dbc3f622a76af004c1"
     },
     {
       "key": "images/animals/rooster/illustration",
