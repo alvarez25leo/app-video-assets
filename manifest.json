@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T13:06:37+00:00",
+  "generatedAt": "2026-09-18T17:53:34+00:00",
   "assets": [
     {
       "key": "images/animals/cat/illustration",
@@ -48,6 +48,38 @@
       "height": 1024,
       "bytes": 154038,
       "sha256": "d4b0e6cbefc9cb3fc9cf195dd44e246d98ac3a64e39f5f6253d308d886c713e2"
+    },
+    {
+      "key": "images/animals/donkey/chatgpt-image-error",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 546,
+      "bytes": 29832,
+      "sha256": "821d3b4e7add436b8377ed2af71d2db35638f4894b8b40db608f530a151ae258"
+    },
+    {
+      "key": "images/animals/donkey/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 166300,
+      "sha256": "25ee8b5e530b83f74b82602e702e89a512bf22737e8e18c7d246c8e7cc13f4ce"
     },
     {
       "key": "images/animals/duck/illustration",

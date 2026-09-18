@@ -75,9 +75,17 @@ learning-assets/
    ```bash
    python3 tools/learning-assets/generate_prompts.py
    ```
-2. **Genera cada imagen** con el skill `chatgpt-image-generator` usando el bloque de `PROMPTS.md` y guárdala en
-   la ruta que indica (siempre bajo `_originals/`). Puedes ir de a poco: mientras falte una imagen, la app
-   muestra el emoji del item.
+2. **Genera las imágenes** en lote con el skill `chatgpt-image-generator` (deja antes su servidor corriendo:
+   `python3 .agents/skills/chatgpt-image-generator/scripts/chatgpt_image.py --serve`, un solo "Permitir"):
+   ```bash
+   python3 tools/learning-assets/generate_images.py --dry-run                # qué falta
+   python3 tools/learning-assets/generate_images.py --only images/animals    # un grupo (o sin filtro: todo)
+   ```
+   Se salta lo ya hecho, descansa 20 s cada 3 imágenes (y redimensiona mientras), espera si ChatGPT marca
+   límite de uso y descarta imágenes repetidas. Si ChatGPT rechaza un prompt ("similitud con contenido de
+   terceros"), el skill lo reescribe y reintenta; el prompt que funcionó queda en
+   `tools/learning-assets/prompt-overrides.json` y `generate_prompts.py` lo usa desde entonces. Registro en
+   `_originals/generation-log.txt`. Mientras falte una imagen, la app muestra el emoji del item.
 3. **Genera tamaños + manifest**:
    ```bash
    python3 tools/learning-assets/build_assets.py            # incremental
