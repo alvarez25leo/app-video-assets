@@ -102,7 +102,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Dibuja un burrito gris con orejas largas y hocico claro.
+Dibuja un burrito bebé de pelaje marrón claro y suave, panza color crema, orejas largas con puntas oscuras, crin corta y esponjosa y una florcita amarilla en una oreja, sentado y sonriendo con la boca cerrada.
 
 Estilo: ilustración 3D de animación infantil con diseño de personaje original, tierna y amigable, colores vivos, formas redondeadas, ojos grandes y expresivos, sonrisa suave. Un solo sujeto de cuerpo entero, centrado, mirando al frente y ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
