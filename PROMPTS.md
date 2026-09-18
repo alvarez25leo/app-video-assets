@@ -2,7 +2,7 @@
 
 > Archivo generado por `tools/learning-assets/generate_prompts.py` a partir de `backend/learning-content`.
 > No lo edites a mano: cambia el contenido o el script y vuelve a generarlo.
-> **88 imágenes** en total.
+> **252 imágenes** en total.
 
 **Cómo usarlo:** cada bloque es **una imagen**. Pásale el prompt al skill `chatgpt-image-generator` y guarda el PNG
 exactamente en la ruta indicada. Cuando tengas un lote, corre:
@@ -120,6 +120,8 @@ IMPORTANTE: diseño de personaje 100 % original. No debe parecerse a ningún per
 Crea una imagen de un león adulto de pelaje arena claro con una melena redonda y esponjosa color naranja rojizo que le rodea la cara como un sol, sentado en cuatro patas y con la boca cerrada.
 
 Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+
+IMPORTANTE: diseño de personaje 100 % original. No debe parecerse a ningún personaje conocido de películas, series, videojuegos, libros ni marcas (ni en la forma, ni en los colores característicos, ni en la expresión). Solo debe reconocerse como el animal u objeto descrito.
 ```
 
 #### Elefante · `animals/elephant`
@@ -500,6 +502,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 Crea una imagen de un niño de dibujo animado corriendo, con las piernas resaltadas por un brillo suave.
 
 Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+
+IMPORTANTE: diseño de personaje 100 % original. No debe parecerse a ningún personaje conocido de películas, series, videojuegos, libros ni marcas (ni en la forma, ni en los colores característicos, ni en la expresión). Solo debe reconocerse como el animal u objeto descrito.
+Para diferenciarlo aún más de personajes famosos: proporciones propias (cuerpo redondeado, cabeza algo más pequeña), colores naturales y suaves, expresión serena con una sonrisa pequeña de boca cerrada, pose de tres cuartos y ningún accesorio típico de personajes conocidos.
 ```
 
 #### Pies · `body/feet`
@@ -511,6 +516,8 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 Crea una imagen de dos pies infantiles descalzos, tiernos.
 
 Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+
+IMPORTANTE: diseño de personaje 100 % original. No debe parecerse a ningún personaje conocido de películas, series, videojuegos, libros ni marcas (ni en la forma, ni en los colores característicos, ni en la expresión). Solo debe reconocerse como el animal u objeto descrito.
 ```
 
 #### Cerebro · `body/brain`
@@ -647,6 +654,1540 @@ Crea una imagen de dos cerezas rojas unidas por el tallo.
 Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
+### Flores del jardín (10)
+
+#### Rosa · `flowers/rose`
+
+- **Guardar en:** `learning-assets/_originals/images/flowers/rose/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una rosa.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Girasol · `flowers/sunflower`
+
+- **Guardar en:** `learning-assets/_originals/images/flowers/sunflower/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un girasol.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Tulipán · `flowers/tulip`
+
+- **Guardar en:** `learning-assets/_originals/images/flowers/tulip/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un tulipán.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Margarita · `flowers/daisy`
+
+- **Guardar en:** `learning-assets/_originals/images/flowers/daisy/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una margarita.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Clavel · `flowers/carnation`
+
+- **Guardar en:** `learning-assets/_originals/images/flowers/carnation/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un clavel.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Violeta · `flowers/violet`
+
+- **Guardar en:** `learning-assets/_originals/images/flowers/violet/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una violeta.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Geranio · `flowers/geranium`
+
+- **Guardar en:** `learning-assets/_originals/images/flowers/geranium/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un geranio.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Dalia · `flowers/dahlia`
+
+- **Guardar en:** `learning-assets/_originals/images/flowers/dahlia/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una dalia.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Hortensia · `flowers/hydrangea`
+
+- **Guardar en:** `learning-assets/_originals/images/flowers/hydrangea/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una hortensia.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Crisantemo · `flowers/chrysanthemum`
+
+- **Guardar en:** `learning-assets/_originals/images/flowers/chrysanthemum/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un crisantemo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Flores del mundo (10)
+
+#### Orquídea · `flowers/orchid`
+
+- **Guardar en:** `learning-assets/_originals/images/flowers/orchid/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una orquídea.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Lirio · `flowers/iris`
+
+- **Guardar en:** `learning-assets/_originals/images/flowers/iris/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un lirio.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Lavanda · `flowers/lavender`
+
+- **Guardar en:** `learning-assets/_originals/images/flowers/lavender/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una lavanda.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Jazmín · `flowers/jasmine`
+
+- **Guardar en:** `learning-assets/_originals/images/flowers/jasmine/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un jazmín.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Hibisco · `flowers/hibiscus`
+
+- **Guardar en:** `learning-assets/_originals/images/flowers/hibiscus/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un hibisco.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Amapola · `flowers/poppy`
+
+- **Guardar en:** `learning-assets/_originals/images/flowers/poppy/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una amapola.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Azucena · `flowers/white-lily`
+
+- **Guardar en:** `learning-assets/_originals/images/flowers/white-lily/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una azucena.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Bugambilia · `flowers/bougainvillea`
+
+- **Guardar en:** `learning-assets/_originals/images/flowers/bougainvillea/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una bugambilia.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Flor de loto · `flowers/lotus`
+
+- **Guardar en:** `learning-assets/_originals/images/flowers/lotus/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una flor de loto.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Campanilla · `flowers/bellflower`
+
+- **Guardar en:** `learning-assets/_originals/images/flowers/bellflower/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una campanilla.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Plantas curiosas (6)
+
+#### Cactus · `plants/cactus`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/cactus/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un cactus.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Sábila · `plants/aloe`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/aloe/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una sábila.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Helecho · `plants/fern`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/fern/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un helecho.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Bambú · `plants/bamboo`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/bamboo/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un bambú.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Palmera · `plants/palm-tree`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/palm-tree/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una palmera.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Algodón · `plants/cotton`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/cotton/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un algodón.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Hierbas que huelen rico (5)
+
+#### Menta · `plants/mint`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/mint/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una menta.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Albahaca · `plants/basil`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/basil/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una albahaca.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Romero · `plants/rosemary`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/rosemary/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un romero.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Manzanilla · `plants/chamomile`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/chamomile/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una manzanilla.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Hierbabuena · `plants/spearmint`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/spearmint/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una hierbabuena.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Del huerto (9)
+
+#### Maíz · `plants/corn`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/corn/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un maíz.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Trigo · `plants/wheat`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/wheat/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un trigo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Arroz · `plants/rice`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/rice/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un arroz.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Papa · `plants/potato`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/potato/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una papa.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Tomate · `plants/tomato`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/tomato/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un tomate.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Zanahoria · `plants/carrot`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/carrot/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una zanahoria.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Lechuga · `plants/lettuce`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/lettuce/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una lechuga.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Calabaza · `plants/pumpkin`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/pumpkin/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una calabaza.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Frijol · `plants/bean`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/bean/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un frijol.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Árboles y plantas frutales (10)
+
+#### Planta de fresa · `plants/strawberry-plant`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/strawberry-plant/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una planta de fresa.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Planta de café · `plants/coffee-plant`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/coffee-plant/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una planta de café.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Árbol de cacao · `plants/cacao-tree`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/cacao-tree/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un árbol de cacao.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Planta de uva · `plants/grapevine`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/grapevine/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una planta de uva.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Planta de piña · `plants/pineapple-plant`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/pineapple-plant/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una planta de piña.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Platanera · `plants/banana-plant`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/banana-plant/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una platanera.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Árbol de papaya · `plants/papaya-tree`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/papaya-tree/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un árbol de papaya.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Naranjo · `plants/orange-tree`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/orange-tree/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un naranjo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Limonero · `plants/lemon-tree`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/lemon-tree/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un limonero.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Manzano · `plants/apple-tree`
+
+- **Guardar en:** `learning-assets/_originals/images/plants/apple-tree/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un manzano.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Nos cuidan (8)
+
+#### Médico · `professions/doctor`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/doctor/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un médico con bata blanca, estetoscopio al cuello y una tablilla con papeles en la mano; piel morena clara, cabello castaño corto y lentes redondos.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Enfermera · `professions/nurse`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/nurse/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una enfermera con uniforme celeste de hospital, gorrito blanco y un termómetro en la mano; piel oscura y cabello rizado recogido.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Dentista · `professions/dentist`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/dentist/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un dentista con bata blanca y mascarilla bajada al cuello, sosteniendo un cepillo de dientes gigante; piel clara y cabello rubio corto.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Veterinario · `professions/vet`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/vet/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un veterinario con uniforme verde, estetoscopio al cuello y un perrito café en brazos; piel morena y cabello negro corto.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Bombero · `professions/firefighter`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/firefighter/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un bombero con traje rojo con franjas reflectantes, casco amarillo y una manguera enrollada en las manos (sin fuego); piel clara y bigote castaño.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Policía · `professions/police`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/police/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un policía con uniforme azul, gorra, chaleco reflectante amarillo y un silbato en la mano (sin armas ni esposas); piel oscura y cabello corto.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Maestra · `professions/teacher`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/teacher/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una maestra con suéter de colores, sosteniendo un libro abierto y un lápiz grande; piel morena clara, cabello negro largo y lentes.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Salvavidas · `professions/lifeguard`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/lifeguard/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un salvavidas con camiseta roja, short amarillo, un silbato al cuello y una boya naranja bajo el brazo; piel bronceada y cabello rubio despeinado.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Construyen y arreglan (8)
+
+#### Mecánico · `professions/mechanic`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/mechanic/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un mecánico con overol azul con manchitas de grasa y una llave inglesa grande en la mano; piel morena y cabello negro corto.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Constructor · `professions/builder`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/builder/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un constructor con casco amarillo, chaleco naranja reflectante, botas y un martillo en la mano; piel clara y barba corta castaña.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Carpintero · `professions/carpenter`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/carpenter/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un carpintero con delantal de cuero y un lápiz detrás de la oreja, sosteniendo una tabla de madera y un serrucho; piel morena y cabello canoso corto.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Electricista · `professions/electrician`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/electrician/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un electricista con overol gris, casco blanco y guantes, sosteniendo un foco encendido (sin cables sueltos ni chispas); piel oscura y sonrisa amplia.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Plomero · `professions/plumber`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/plumber/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un plomero con overol verde oscuro, sin gorra y con cinturón de herramientas, sosteniendo una llave para tubos junto a un tubo curvo; piel morena, cabello rizado corto y sin bigote.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Ingeniero · `professions/engineer`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/engineer/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un ingeniero con casco blanco, camisa celeste arremangada y un plano enrollado bajo el brazo; piel clara, cabello castaño y lentes.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Arquitecto · `professions/architect`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/architect/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un arquitecto con camisa de cuadros, sosteniendo la maqueta de una casita y una escuadra; piel morena y cabello negro peinado.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Programador · `professions/programmer`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/programmer/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un programador con sudadera naranja y audífonos al cuello, sosteniendo una laptop abierta sin logotipo; piel clara y cabello pelirrojo corto.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Del campo a la mesa (7)
+
+#### Agricultor · `professions/farmer`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/farmer/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un agricultor con sombrero de paja, camisa a cuadros, overol de mezclilla y una canasta con verduras; piel morena y bigote negro.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Granjero · `professions/rancher`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/rancher/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un granjero con sombrero vaquero, botas de hule y una cubeta de leche, con una gallinita a sus pies; piel clara y barba rubia.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Apicultor · `professions/beekeeper`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/beekeeper/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un apicultor con traje blanco de protección y sombrero con velo, sosteniendo un panal con miel dorada y unas abejitas simpáticas alrededor.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Pescador · `professions/fisher`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/fisher/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un pescador con impermeable amarillo y botas, sosteniendo una caña de pescar con un pez plateado; piel oscura y barba corta canosa.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Panadero · `professions/baker`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/baker/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un panadero con gorro alto blanco y delantal, sosteniendo una charola de pan recién horneado; piel clara, mejillas rosadas y bigote castaño.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Cocinera · `professions/chef`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/chef/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una cocinera con gorro de chef y filipina blancos, sosteniendo un cucharón junto a una olla humeante; piel morena y cabello rizado recogido.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Agrónomo · `professions/agronomist`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/agronomist/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un agrónomo con chaleco beige de muchos bolsillos y sombrero, observando con una lupa una plantita en maceta; piel morena clara y lentes.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Viajan y exploran (5)
+
+#### Conductor de autobús · `professions/bus-driver`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/bus-driver/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un conductor de autobús con camisa azul y gorra de chofer, sosteniendo un volante; piel oscura y sonrisa amplia.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Taxista · `professions/taxi-driver`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/taxi-driver/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un taxista con camisa amarilla y gorra, mostrando unas llaves de auto; piel clara y cabello castaño con entradas.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Piloto · `professions/pilot`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/pilot/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un piloto de avión con uniforme azul marino y gorra con alitas doradas, sosteniendo un avioncito de juguete; piel morena y bigote fino.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Astronauta · `professions/astronaut`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/astronaut/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un astronauta con traje espacial blanco con detalles naranjas y sin logotipos, con el casco bajo el brazo y saludando; piel clara y cabello castaño corto.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Marinero · `professions/sailor`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/sailor/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un marinero con camiseta a rayas azules y blancas, gorra blanca de marinero y un ancla pequeña en la mano; piel bronceada y barba negra corta.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Nos atienden (5)
+
+#### Cartero · `professions/mail-carrier`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/mail-carrier/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un cartero con uniforme azul, gorra y un bolso de cuero lleno de cartas, entregando un sobre; piel morena y cabello negro corto.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Repartidor · `professions/delivery-driver`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/delivery-driver/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un repartidor con chaleco verde y gorra, sosteniendo una caja de cartón sin marcas; piel clara y cabello rubio.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Vendedor · `professions/seller`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/seller/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un vendedor del mercado con delantal verde, junto a una canasta de frutas de colores y ofreciendo una manzana; piel morena y bigote negro.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Peluquera · `professions/hairdresser`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/hairdresser/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una peluquera con delantal negro, sosteniendo unas tijeras y un peine; piel clara y cabello corto color morado.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Sastre · `professions/tailor`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/tailor/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un sastre con cinta métrica al cuello, sosteniendo unas tijeras grandes y una tela de colores; piel oscura, lentes pequeños y cabello canoso.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Arte y deporte (10)
+
+#### Pintor · `professions/painter`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/painter/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un pintor con boina y delantal lleno de manchas de colores, sosteniendo una paleta y un pincel; piel clara y bigote castaño.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Músico · `professions/musician`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/musician/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un músico con camisa de colores tocando una guitarra acústica; piel morena y cabello negro rizado.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Cantante · `professions/singer`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/singer/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un cantante con chaqueta brillante sosteniendo un micrófono, con notas musicales flotando a su alrededor; piel oscura y cabello corto.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Bailarina · `professions/dancer`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/dancer/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una bailarina de ballet con tutú rosa y zapatillas de punta, girando de puntitas; piel morena y cabello recogido en un chongo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Actor · `professions/actor`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/actor/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un actor de teatro con capa roja y sombrero de plumas, sosteniendo dos máscaras de teatro, una feliz y una triste; piel clara y cabello negro peinado.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Fotógrafo · `professions/photographer`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/photographer/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un fotógrafo con chaleco de bolsillos y gorra al revés, sosteniendo una cámara de fotos antigua; piel morena clara.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Escritor · `professions/writer`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/writer/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un escritor con suéter de lana, sosteniendo un libro y una pluma, con hojas de papel volando; piel clara, barba castaña y lentes.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Periodista · `professions/journalist`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/journalist/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un periodista con saco, sosteniendo un micrófono de reportero sin logotipos y una libreta; piel oscura y cabello corto.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Entrenador · `professions/coach`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/coach/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un entrenador con ropa deportiva, gorra, un silbato al cuello y una tablilla; piel morena y cabello negro.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Futbolista · `professions/soccer-player`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/soccer-player/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un futbolista con uniforme verde y blanco sin números ni escudos, pateando un balón de fútbol; piel oscura y cabello rizado.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Estudian la naturaleza (7)
+
+#### Científico · `professions/scientist`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/scientist/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un científico con bata blanca y lentes de seguridad, sosteniendo un matraz con un líquido de colores que burbujea; piel clara y cabello castaño corto.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Biólogo · `professions/biologist`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/biologist/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un biólogo con chaleco caqui y gorra, mirando una mariposa con una lupa; piel morena y cabello negro corto.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Arqueólogo · `professions/archaeologist`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/archaeologist/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un arqueólogo con gorra caqui con protector para el cuello, pañuelo y una brocha, sosteniendo un hueso de dinosaurio; piel clara y barba corta.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Geólogo · `professions/geologist`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/geologist/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un geólogo con casco naranja y chaleco, sosteniendo un martillo pequeño y una roca con cristales brillantes; piel morena y barba corta.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Meteorólogo · `professions/meteorologist`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/meteorologist/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un meteorólogo con camisa celeste, sosteniendo un paraguas y señalando una nubecita con sol; piel clara y lentes.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Guardaparque · `professions/park-ranger`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/park-ranger/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un guardaparque con uniforme verde, sombrero de ala ancha y binoculares al cuello, con una ardillita en el hombro; piel morena.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Jardinero · `professions/gardener`
+
+- **Guardar en:** `learning-assets/_originals/images/professions/gardener/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un jardinero con overol verde, guantes y sombrero de paja, sosteniendo una regadera junto a unas flores; piel oscura y sonrisa amplia.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### En la calle (9)
+
+#### Auto · `vehicles/car`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/car/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un auto.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Taxi · `vehicles/taxi`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/taxi/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un taxi.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Autobús · `vehicles/bus`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/bus/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un autobús.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Camioneta · `vehicles/pickup`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/pickup/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una camioneta.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Camión · `vehicles/truck`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/truck/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un camión.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Motocicleta · `vehicles/motorcycle`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/motorcycle/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una motocicleta.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Bicicleta · `vehicles/bicycle`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/bicycle/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una bicicleta.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Triciclo · `vehicles/tricycle`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/tricycle/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un triciclo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Scooter · `vehicles/scooter`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/scooter/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un scooter.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Ayudan y rescatan (5)
+
+#### Ambulancia · `vehicles/ambulance`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/ambulance/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una ambulancia.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Camión de bomberos · `vehicles/fire-truck`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/fire-truck/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un camión de bomberos.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Patrulla de policía · `vehicles/police-car`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/police-car/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una patrulla de policía.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Camión de basura · `vehicles/garbage-truck`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/garbage-truck/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un camión de basura.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Grúa · `vehicles/tow-truck`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/tow-truck/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una grúa.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### En la obra y el campo (6)
+
+#### Excavadora · `vehicles/excavator`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/excavator/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una excavadora.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Tractor · `vehicles/tractor`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/tractor/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un tractor.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Volquete · `vehicles/dump-truck`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/dump-truck/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un volquete.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Mezcladora de cemento · `vehicles/cement-mixer`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/cement-mixer/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una mezcladora de cemento.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Apisonadora · `vehicles/road-roller`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/road-roller/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una apisonadora.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Montacargas · `vehicles/forklift`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/forklift/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un montacargas.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Sobre rieles (3)
+
+#### Tren · `vehicles/train`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/train/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un tren.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Metro · `vehicles/subway`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/subway/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un metro.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Tranvía · `vehicles/tram`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/tram/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un tranvía.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### En el aire (5)
+
+#### Avión · `vehicles/airplane`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/airplane/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un avión.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Helicóptero · `vehicles/helicopter`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/helicopter/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un helicóptero.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Avioneta · `vehicles/small-plane`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/small-plane/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una avioneta.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Globo aerostático · `vehicles/hot-air-balloon`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/hot-air-balloon/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un globo aerostático.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Cohete espacial · `vehicles/rocket`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/rocket/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un cohete espacial.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### En el agua (8)
+
+#### Barco · `vehicles/ship`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/ship/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un barco.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Lancha · `vehicles/motorboat`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/motorboat/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una lancha.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Velero · `vehicles/sailboat`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/sailboat/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un velero.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Ferry · `vehicles/ferry`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/ferry/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un ferry.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Submarino · `vehicles/submarine`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/submarine/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un submarino.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Moto acuática · `vehicles/water-scooter`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/water-scooter/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una moto acuática.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Canoa · `vehicles/canoe`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/canoe/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una canoa.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Kayak · `vehicles/kayak`
+
+- **Guardar en:** `learning-assets/_originals/images/vehicles/kayak/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un kayak.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
 ## 2. Portadas de categorías
 
 #### Animales
@@ -766,6 +2307,248 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 
 ```text
 Crea una imagen de portada para la categoría infantil «Frutas»: una canasta con manzanas, plátanos, uvas y fresas.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Profesiones
+
+- **Guardar en:** `learning-assets/_originals/images/categories/professions/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Profesiones»: varios personajes de distintas profesiones juntos y sonriendo (un médico, un bombero, un astronauta, una cocinera y un constructor) frente a una ciudad colorida.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Nos cuidan
+
+- **Guardar en:** `learning-assets/_originals/images/categories/professions-care/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Nos cuidan»: un médico, una enfermera, un bombero y un policía sonriendo juntos frente a un pequeño hospital y una estación de bomberos.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Construyen y arreglan
+
+- **Guardar en:** `learning-assets/_originals/images/categories/professions-build/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Construyen y arreglan»: un constructor, un carpintero y un mecánico trabajando juntos en una casita a medio construir.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Del campo a la mesa
+
+- **Guardar en:** `learning-assets/_originals/images/categories/professions-food/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Del campo a la mesa»: un agricultor, un panadero y una cocinera frente a un huerto y una granja, con una canasta de verduras y pan.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Viajan y exploran
+
+- **Guardar en:** `learning-assets/_originals/images/categories/professions-travel/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Viajan y exploran»: un piloto, un astronauta y un marinero saludando, con un avión, un cohete y un barco de fondo.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Nos atienden
+
+- **Guardar en:** `learning-assets/_originals/images/categories/professions-service/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Nos atienden»: un cartero, un repartidor y una peluquera en una calle alegre de barrio con tiendas de colores, sin letreros.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Arte y deporte
+
+- **Guardar en:** `learning-assets/_originals/images/categories/professions-art/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Arte y deporte»: un pintor, un músico, una bailarina y un futbolista en un escenario alegre con luces de colores.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Estudian la naturaleza
+
+- **Guardar en:** `learning-assets/_originals/images/categories/professions-nature/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Estudian la naturaleza»: un científico, un biólogo y un guardaparque explorando un bosque con mariposas y flores.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Vehículos
+
+- **Guardar en:** `learning-assets/_originals/images/categories/vehicles/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Vehículos»: una escena alegre sobre vehículos.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### En la calle
+
+- **Guardar en:** `learning-assets/_originals/images/categories/vehicles-street/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «En la calle»: una escena alegre sobre en la calle.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Ayudan y rescatan
+
+- **Guardar en:** `learning-assets/_originals/images/categories/vehicles-rescue/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Ayudan y rescatan»: una escena alegre sobre ayudan y rescatan.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### En la obra y el campo
+
+- **Guardar en:** `learning-assets/_originals/images/categories/vehicles-work/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «En la obra y el campo»: una escena alegre sobre en la obra y el campo.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Sobre rieles
+
+- **Guardar en:** `learning-assets/_originals/images/categories/vehicles-rail/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Sobre rieles»: una escena alegre sobre sobre rieles.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### En el aire
+
+- **Guardar en:** `learning-assets/_originals/images/categories/vehicles-air/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «En el aire»: una escena alegre sobre en el aire.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### En el agua
+
+- **Guardar en:** `learning-assets/_originals/images/categories/vehicles-water/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «En el agua»: una escena alegre sobre en el agua.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Flores y plantas
+
+- **Guardar en:** `learning-assets/_originals/images/categories/plants/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Flores y plantas»: una escena alegre sobre flores y plantas.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Flores del jardín
+
+- **Guardar en:** `learning-assets/_originals/images/categories/plants-garden/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Flores del jardín»: una escena alegre sobre flores del jardín.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Flores del mundo
+
+- **Guardar en:** `learning-assets/_originals/images/categories/plants-world/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Flores del mundo»: una escena alegre sobre flores del mundo.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Plantas curiosas
+
+- **Guardar en:** `learning-assets/_originals/images/categories/plants-special/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Plantas curiosas»: una escena alegre sobre plantas curiosas.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Hierbas que huelen rico
+
+- **Guardar en:** `learning-assets/_originals/images/categories/plants-herbs/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Hierbas que huelen rico»: una escena alegre sobre hierbas que huelen rico.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Del huerto
+
+- **Guardar en:** `learning-assets/_originals/images/categories/plants-veggies/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Del huerto»: una escena alegre sobre del huerto.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Árboles y plantas frutales
+
+- **Guardar en:** `learning-assets/_originals/images/categories/plants-fruit/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Árboles y plantas frutales»: una escena alegre sobre árboles y plantas frutales.
 
 Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
@@ -999,6 +2782,72 @@ Estilo: medalla/insignia 3D brillante de videojuego infantil, redonda, con cinta
 
 ```text
 Crea una imagen de una medalla de bronce cálido para premiar a un niño: «¡A jugar con animales!» (Superaste el nivel 2 de animales.). En el centro, un ícono grande y simple que represente 🎯 (dibujado en 3D, no el emoji literal).
+
+Estilo: medalla/insignia 3D brillante de videojuego infantil, redonda, con cinta, relieve y destellos suaves. FONDO TRANSPARENTE (PNG con canal alfa), sin texto ni números salvo que se pida, sin marcas de agua. Cuadrado 1024×1024. Debe entenderse en miniatura (128 px).
+```
+
+#### Cuando sea grande (silver)
+
+- **Guardar en:** `learning-assets/_originals/images/medals/cuando-sea-grande/medal.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una medalla de plata brillante para premiar a un niño: «Cuando sea grande» (Aprendiste 10 profesiones.). En el centro, un ícono grande y simple que represente 👩‍🚀 (dibujado en 3D, no el emoji literal).
+
+Estilo: medalla/insignia 3D brillante de videojuego infantil, redonda, con cinta, relieve y destellos suaves. FONDO TRANSPARENTE (PNG con canal alfa), sin texto ni números salvo que se pida, sin marcas de agua. Cuadrado 1024×1024. Debe entenderse en miniatura (128 px).
+```
+
+#### Experto en profesiones (gold)
+
+- **Guardar en:** `learning-assets/_originals/images/medals/experto-en-profesiones/medal.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una medalla de oro brillante para premiar a un niño: «Experto en profesiones» (Aprendiste 30 profesiones.). En el centro, un ícono grande y simple que represente 🏆 (dibujado en 3D, no el emoji literal).
+
+Estilo: medalla/insignia 3D brillante de videojuego infantil, redonda, con cinta, relieve y destellos suaves. FONDO TRANSPARENTE (PNG con canal alfa), sin texto ni números salvo que se pida, sin marcas de agua. Cuadrado 1024×1024. Debe entenderse en miniatura (128 px).
+```
+
+#### Sobre ruedas (silver)
+
+- **Guardar en:** `learning-assets/_originals/images/medals/sobre-ruedas/medal.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una medalla de plata brillante para premiar a un niño: «Sobre ruedas» (Aprendiste 10 vehículos.). En el centro, un ícono grande y simple que represente 🚗 (dibujado en 3D, no el emoji literal).
+
+Estilo: medalla/insignia 3D brillante de videojuego infantil, redonda, con cinta, relieve y destellos suaves. FONDO TRANSPARENTE (PNG con canal alfa), sin texto ni números salvo que se pida, sin marcas de agua. Cuadrado 1024×1024. Debe entenderse en miniatura (128 px).
+```
+
+#### Experto en vehículos (gold)
+
+- **Guardar en:** `learning-assets/_originals/images/medals/experto-en-vehiculos/medal.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una medalla de oro brillante para premiar a un niño: «Experto en vehículos» (Aprendiste 25 vehículos.). En el centro, un ícono grande y simple que represente 🚀 (dibujado en 3D, no el emoji literal).
+
+Estilo: medalla/insignia 3D brillante de videojuego infantil, redonda, con cinta, relieve y destellos suaves. FONDO TRANSPARENTE (PNG con canal alfa), sin texto ni números salvo que se pida, sin marcas de agua. Cuadrado 1024×1024. Debe entenderse en miniatura (128 px).
+```
+
+#### Pequeño jardinero (silver)
+
+- **Guardar en:** `learning-assets/_originals/images/medals/pequeno-jardinero/medal.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una medalla de plata brillante para premiar a un niño: «Pequeño jardinero» (Aprendiste 10 flores y plantas.). En el centro, un ícono grande y simple que represente 🌱 (dibujado en 3D, no el emoji literal).
+
+Estilo: medalla/insignia 3D brillante de videojuego infantil, redonda, con cinta, relieve y destellos suaves. FONDO TRANSPARENTE (PNG con canal alfa), sin texto ni números salvo que se pida, sin marcas de agua. Cuadrado 1024×1024. Debe entenderse en miniatura (128 px).
+```
+
+#### Experto en plantas (gold)
+
+- **Guardar en:** `learning-assets/_originals/images/medals/experto-en-plantas/medal.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una medalla de oro brillante para premiar a un niño: «Experto en plantas» (Aprendiste 30 flores y plantas.). En el centro, un ícono grande y simple que represente 🌻 (dibujado en 3D, no el emoji literal).
 
 Estilo: medalla/insignia 3D brillante de videojuego infantil, redonda, con cinta, relieve y destellos suaves. FONDO TRANSPARENTE (PNG con canal alfa), sin texto ni números salvo que se pida, sin marcas de agua. Cuadrado 1024×1024. Debe entenderse en miniatura (128 px).
 ```
