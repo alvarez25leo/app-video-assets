@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T21:10:35+00:00",
+  "generatedAt": "2026-09-18T21:14:54+00:00",
   "assets": [
     {
       "key": "images/animals/bear/illustration",
@@ -1074,6 +1074,22 @@
       "sha256": "0813e50eaddacebfbc3b0c4d31bab778f8ada9dfe84e0052cbecb2e2ef7f0081"
     },
     {
+      "key": "images/medals/cinco-perfectas/medal",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 157520,
+      "sha256": "2b4b47805e32666914400d76e48ed6f4b025dfaea28c4d06694ab4bcf87fcc75"
+    },
+    {
       "key": "images/medals/explorador/medal",
       "kind": "IMAGE",
       "ext": "webp",
@@ -1090,6 +1106,22 @@
       "sha256": "08d8c3440dba12301784db952ea03acf06fa21214de3f36dc948a18a16fbfffd"
     },
     {
+      "key": "images/medals/perfecto/medal",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 117668,
+      "sha256": "ee55fb59ccfc71588be8a328cec6bc6c14a759cc6e9009a19efe573f801b6560"
+    },
+    {
       "key": "images/medals/primeros-pasos/medal",
       "kind": "IMAGE",
       "ext": "webp",
@@ -1104,6 +1136,22 @@
       "height": 1024,
       "bytes": 132288,
       "sha256": "1e97449093aba069f189008b432c345afae5845428f184d1168556bd9cd46e10"
+    },
+    {
+      "key": "images/medals/super-explorador/medal",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 141354,
+      "sha256": "6e3f876f0904695e497d30e771b7b964a43866ce21ac74a08154e7393863c4d8"
     }
   ]
 }
