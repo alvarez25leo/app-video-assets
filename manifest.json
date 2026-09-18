@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:33:23+00:00",
+  "generatedAt": "2026-09-18T20:38:00+00:00",
   "assets": [
     {
       "key": "images/animals/bear/illustration",
@@ -514,6 +514,22 @@
       "sha256": "30e8ee9585b72f7b7d271321f55e842b341e5bb4cae5b255b81d5a5df9088f70"
     },
     {
+      "key": "images/body/ears/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 162808,
+      "sha256": "c2527db23bdc8c5d586b94c988427de9fce0e0bf4ec479afe72df281aa4bb1d0"
+    },
+    {
       "key": "images/body/eyes/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -544,6 +560,38 @@
       "height": 1024,
       "bytes": 157230,
       "sha256": "fa98714e2a73b75b32e0a2fa6443a50c7db426a0e3bf3fcc0aa320777f0c5145"
+    },
+    {
+      "key": "images/body/mouth/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 67582,
+      "sha256": "bd2cf76f8d2375bdb6ed7afdb6695120d089a54ee029694420b99c44f2fa3d93"
+    },
+    {
+      "key": "images/body/nose/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 157964,
+      "sha256": "e21a481d313564b4bf0580a8b7d1f68f90ca141d7a251f5aefb5ff346de1707a"
     },
     {
       "key": "images/categories/animals-farm/cover",
