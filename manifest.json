@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:24:45+00:00",
+  "generatedAt": "2026-09-18T20:29:13+00:00",
   "assets": [
     {
       "key": "images/animals/bear/illustration",
@@ -64,6 +64,22 @@
       "height": 1024,
       "bytes": 139038,
       "sha256": "b6b2eb5e65882b64b081340b833703d15ec25b8ddd07cc0dfbe7902787e817fb"
+    },
+    {
+      "key": "images/animals/crab/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 204304,
+      "sha256": "d1cc2a9a1c1492adde96560e0e04a52d77294feb46bd58f16f04c444465d8b8b"
     },
     {
       "key": "images/animals/crocodile/illustration",
@@ -402,6 +418,22 @@
       "sha256": "2f8128a34170807fbd065adb09939211ca2ef622911c9d5424ae0f5c536ef935"
     },
     {
+      "key": "images/animals/starfish/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 127324,
+      "sha256": "0c5bf65b49a248b28c2d3012e98e2ecf1e0d9879ea32ea0a56fbcccf76c8bdea"
+    },
+    {
       "key": "images/animals/tiger/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -432,6 +464,22 @@
       "height": 1024,
       "bytes": 167352,
       "sha256": "683562f73abdf328be5878b84244410d9a74f0e72532f869d14733182d514b88"
+    },
+    {
+      "key": "images/animals/whale/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 148474,
+      "sha256": "7fb62e355293d69af6772d373c378e31d74c2169924cd359a46dda45c013d65c"
     },
     {
       "key": "images/animals/zebra/illustration",
