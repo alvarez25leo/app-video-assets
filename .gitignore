@@ -1,0 +1,3 @@
+# Originales pesados (PNG/WAV): se quedan en tu Mac. Se publica solo lo generado por build_assets.py.
+_originals/
+.DS_Store

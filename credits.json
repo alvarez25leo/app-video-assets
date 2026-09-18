@@ -1,0 +1,13 @@
+{
+  "_readme": "Licencias de archivos que NO son propios. Clave = ruta sin extensión ni tamaño. Los sonidos (audio/*/*/sound) se tratan como material de terceros y NO se publican hasta tener verified: true. Imágenes y pronunciaciones generadas por ti/IA no necesitan entrada aquí.",
+  "assets": {
+    "_ejemplo:audio/animals/cow/sound": {
+      "origin": "THIRD_PARTY",
+      "license": "CC0-1.0",
+      "author": "Nombre del autor en Freesound",
+      "sourceUrl": "https://freesound.org/people/.../sounds/12345/",
+      "attribution": "Cow moo by Autor (CC0)",
+      "verified": true
+    }
+  }
+}
