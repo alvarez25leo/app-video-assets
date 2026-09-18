@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T21:23:03+00:00",
+  "generatedAt": "2026-09-18T21:32:56+00:00",
   "assets": [
     {
       "key": "images/animals/bear/illustration",
@@ -1074,6 +1074,22 @@
       "sha256": "0813e50eaddacebfbc3b0c4d31bab778f8ada9dfe84e0052cbecb2e2ef7f0081"
     },
     {
+      "key": "images/medals/abc-inicial/medal",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 131620,
+      "sha256": "93673f81d09cad751eece1a6caf88bd9370165c011e1f57668d09b9f2dc277e9"
+    },
+    {
       "key": "images/medals/amigo-de-la-granja/medal",
       "kind": "IMAGE",
       "ext": "webp",
@@ -1106,6 +1122,22 @@
       "sha256": "698b7bb618c5567cd9d4f4a4e6f2d2783777032b85fe9f83a091a2c54c21b024"
     },
     {
+      "key": "images/medals/arcoiris/medal",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 127918,
+      "sha256": "7b47a1699df9ddee051da7abbc66d69766c73509367633fc8d69336d77b66352"
+    },
+    {
       "key": "images/medals/cinco-perfectas/medal",
       "kind": "IMAGE",
       "ext": "webp",
@@ -1120,6 +1152,22 @@
       "height": 1024,
       "bytes": 157520,
       "sha256": "2b4b47805e32666914400d76e48ed6f4b025dfaea28c4d06694ab4bcf87fcc75"
+    },
+    {
+      "key": "images/medals/contador/medal",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 178430,
+      "sha256": "2a635db9d0eea6b14a6ab40de93e1044e12973d229c03d0adc5921fe1186be50"
     },
     {
       "key": "images/medals/cuenta-hasta-10/medal",
@@ -1186,6 +1234,38 @@
       "sha256": "08d8c3440dba12301784db952ea03acf06fa21214de3f36dc948a18a16fbfffd"
     },
     {
+      "key": "images/medals/fruteria/medal",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 150298,
+      "sha256": "b26dce639a7b6ab7387d92e080cf701eeba4e4460a9a2a27e156ca08693981b5"
+    },
+    {
+      "key": "images/medals/maestro-de-formas/medal",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 127316,
+      "sha256": "ed4e51403a9580b357591294116aa516cd3a380c1b50476825ff5473bf905488"
+    },
+    {
       "key": "images/medals/perfecto/medal",
       "kind": "IMAGE",
       "ext": "webp",
@@ -1232,6 +1312,22 @@
       "height": 1024,
       "bytes": 149412,
       "sha256": "64e7572696d626d0245e869dfa0c3bce36a570de94fbe78dac01e2b367b12d19"
+    },
+    {
+      "key": "images/medals/sumador/medal",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 151332,
+      "sha256": "462e502f646d83fea466257daee1f3bcda3858f8f165655d989a37cbd05f6f23"
     },
     {
       "key": "images/medals/super-explorador/medal",
