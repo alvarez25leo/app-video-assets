@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:42:13+00:00",
+  "generatedAt": "2026-09-18T20:53:54+00:00",
   "assets": [
     {
       "key": "images/animals/bear/illustration",
@@ -514,6 +514,38 @@
       "sha256": "30e8ee9585b72f7b7d271321f55e842b341e5bb4cae5b255b81d5a5df9088f70"
     },
     {
+      "key": "images/body/arms/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 113842,
+      "sha256": "b7abcbbb51dc831cc95d504ffe4ea875e9ed642f6d1782cfd31c6f7a63a5a9de"
+    },
+    {
+      "key": "images/body/brain/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 103208,
+      "sha256": "03dd2992b0c8189f5261c7448c1dfd62ec30326553f03d3093c9aa68312ede7f"
+    },
+    {
       "key": "images/body/ears/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -546,6 +578,38 @@
       "sha256": "de2c161f6e759d50651a7bedba40ac56177b081d775deee01bbd5b272a0cb48d"
     },
     {
+      "key": "images/body/feet/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 84410,
+      "sha256": "011031f5bbbe8a3aa73dfb73838bfdc35342656d4a3a208ceb34dab552ec16c4"
+    },
+    {
+      "key": "images/body/fingers/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 88414,
+      "sha256": "9aca39eb2ccb27dac59bf9ba73ed2f0a393a34c19bbd519e27af52a761c0bab0"
+    },
+    {
       "key": "images/body/hands/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -576,6 +640,38 @@
       "height": 1024,
       "bytes": 157230,
       "sha256": "fa98714e2a73b75b32e0a2fa6443a50c7db426a0e3bf3fcc0aa320777f0c5145"
+    },
+    {
+      "key": "images/body/heart/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 116484,
+      "sha256": "f6f4c46a710e52ab1bd740933acf21d8ba6eb7248683354953ed7ed522104bfe"
+    },
+    {
+      "key": "images/body/legs/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 110762,
+      "sha256": "6806a121ca7ebfed684feaec3f8efab22b7c96a5322689271fe818a145cebfcc"
     },
     {
       "key": "images/body/mouth/illustration",
