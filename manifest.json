@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:20:38+00:00",
+  "generatedAt": "2026-09-18T20:24:45+00:00",
   "assets": [
     {
       "key": "images/animals/bear/illustration",
@@ -32,6 +32,22 @@
       "height": 1024,
       "bytes": 197694,
       "sha256": "96082f312d34b09236dff7c146904124dae6db2a82dd933bb0ada45a8b9a9a06"
+    },
+    {
+      "key": "images/animals/clownfish/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 110868,
+      "sha256": "1f6b4549859fc76e8cae2137286e56a057d90180898109d83eb4b52358bffbbb"
     },
     {
       "key": "images/animals/cow/illustration",
@@ -274,6 +290,22 @@
       "sha256": "2fb9e38f51d997f9be904eccbeb29cdb7b6953307533e0315021231259fdfe86"
     },
     {
+      "key": "images/animals/octopus/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 189404,
+      "sha256": "ae44360251c7c8d490f6dc161eb1249dc1c79581eafb68afd0ad4373a37c7cda"
+    },
+    {
       "key": "images/animals/parrot/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -384,6 +416,22 @@
       "height": 1024,
       "bytes": 253276,
       "sha256": "bb0780a6e5569e9afd8a1c5aa96fbc0db34d95a04c7667acd84278a5598e6368"
+    },
+    {
+      "key": "images/animals/turtle/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 167352,
+      "sha256": "683562f73abdf328be5878b84244410d9a74f0e72532f869d14733182d514b88"
     },
     {
       "key": "images/animals/zebra/illustration",
