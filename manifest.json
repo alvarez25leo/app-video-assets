@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:58:09+00:00",
+  "generatedAt": "2026-09-18T21:02:16+00:00",
   "assets": [
     {
       "key": "images/animals/bear/illustration",
@@ -960,6 +960,54 @@
       "height": 1024,
       "bytes": 59706,
       "sha256": "767eadf2f90467088b55a1cf0f42fe349fda989ae1a100b4e10236f9f8f527cf"
+    },
+    {
+      "key": "images/fruits/grapes/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 170956,
+      "sha256": "7d744c1b7b1def95f2b6409beb2406068129c2ff2c8b77ef46b343dbe32bcc1c"
+    },
+    {
+      "key": "images/fruits/orange/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 153614,
+      "sha256": "4bcc6ac1ab78c08c4d48f0dafc6505defcdfb89decea4ef072c94229d45db229"
+    },
+    {
+      "key": "images/fruits/strawberry/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 150848,
+      "sha256": "2dbb75ec33789d51d3bc5fb04b95f6f600065799f98f55ab1a11e8608e5d15b5"
     }
   ]
 }
