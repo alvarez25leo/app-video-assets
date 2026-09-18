@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T21:14:54+00:00",
+  "generatedAt": "2026-09-18T21:18:34+00:00",
   "assets": [
     {
       "key": "images/animals/bear/illustration",
@@ -1074,6 +1074,22 @@
       "sha256": "0813e50eaddacebfbc3b0c4d31bab778f8ada9dfe84e0052cbecb2e2ef7f0081"
     },
     {
+      "key": "images/medals/amigo-de-la-granja/medal",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 135354,
+      "sha256": "ca36e905ab71b5a75fe645443f7c484291ad0a78e683b4a3a00c344b231c6127"
+    },
+    {
       "key": "images/medals/cinco-perfectas/medal",
       "kind": "IMAGE",
       "ext": "webp",
@@ -1088,6 +1104,22 @@
       "height": 1024,
       "bytes": 157520,
       "sha256": "2b4b47805e32666914400d76e48ed6f4b025dfaea28c4d06694ab4bcf87fcc75"
+    },
+    {
+      "key": "images/medals/explorador-del-mar/medal",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 147782,
+      "sha256": "c3d1e9d1a00395c6b71af370630dcfc36bc54e9427925a0802d3684dfc6dbdce"
     },
     {
       "key": "images/medals/explorador/medal",
@@ -1136,6 +1168,22 @@
       "height": 1024,
       "bytes": 132288,
       "sha256": "1e97449093aba069f189008b432c345afae5845428f184d1168556bd9cd46e10"
+    },
+    {
+      "key": "images/medals/rey-de-la-selva/medal",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 149412,
+      "sha256": "64e7572696d626d0245e869dfa0c3bce36a570de94fbe78dac01e2b367b12d19"
     },
     {
       "key": "images/medals/super-explorador/medal",
