@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T21:35:05+00:00",
+  "generatedAt": "2026-09-18T21:43:08+00:00",
   "assets": [
     {
       "key": "images/animals/bear/illustration",
@@ -1138,6 +1138,22 @@
       "sha256": "7b47a1699df9ddee051da7abbc66d69766c73509367633fc8d69336d77b66352"
     },
     {
+      "key": "images/medals/bilingue/medal",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 142644,
+      "sha256": "7a5bea973345213df5562c7ea3b7ba75c2093a7fa0f66e522a2281e671f2ab41"
+    },
+    {
       "key": "images/medals/cinco-perfectas/medal",
       "kind": "IMAGE",
       "ext": "webp",
@@ -1264,6 +1280,38 @@
       "height": 1024,
       "bytes": 127316,
       "sha256": "ed4e51403a9580b357591294116aa516cd3a380c1b50476825ff5473bf905488"
+    },
+    {
+      "key": "images/medals/mi-cuerpo/medal",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 118870,
+      "sha256": "50352f76b50387c54bc65eb8f218c259345d6251de955e44d713f294aff5465d"
+    },
+    {
+      "key": "images/medals/nivel-animales/medal",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 150366,
+      "sha256": "70fbdbc07d783bfc3c281ce3c8eb00b9bcc3975b0cb10d1068cb70d3c93b43d1"
     },
     {
       "key": "images/medals/oido-de-oro/medal",
