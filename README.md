@@ -114,7 +114,45 @@ Números, colores, formas y letras los **dibuja la app** a partir de `attributes
 | `sound.m4a` | sonido del animal/vehículo | Solo para las actividades "¿Quién hace este sonido?". Sin sonidos, esas actividades se ocultan solas. |
 | `name.es.m4a`, `name.en.m4a` | pronunciación | No. Si falta, la app usa la voz del sistema (iOS `AVSpeechSynthesizer`) con el nombre del item. |
 
-`build_assets.py` convierte WAV/MP3/AIFF a **AAC mono 64 kbps (.m4a)** con `afconvert` (viene en macOS).
+`build_assets.py` convierte WAV/MP3/AIFF a **AAC mono 64 kbps a 44,1 kHz (.m4a)** con `afconvert` (viene en
+macOS). Se remuestrea siempre a 44,1 kHz: algunos originales vienen a 11 kHz y AAC no los acepta a 64 kbps.
+
+### Librería de sonidos de animales
+
+Los sonidos y pronunciaciones llegan como una **librería** (161 animales) que no se publica tal cual. Se guarda
+como fuente en `_originals/audio-library/` y un script la lleva a la estructura del catálogo:
+
+```
+_originals/audio-library/                    ← librería original (no va a git ni a Pages)
+├── sounds/<hábitat>/<nombre>.mp3            sonido: farm, forest, jungle, ocean, lake_lagoon, mountain,
+│                                              savannah_desert, city_countryside, insects, dinosaurs
+├── voices/<idioma>/<nombre>.mp3             nombre dicho en es, en, de, fr, it, ja, ko, pt_BR, pt_PT
+├── games/sounds/                            efectos de interfaz (clic, voltear carta, ganar, música)
+└── SOURCE.json                              origen y licencia de toda la librería (lo completas tú)
+          │  python3 tools/learning-assets/import_audio_library.py
+          ▼
+_originals/audio/animals/<slug>/sound.mp3, name.es.mp3, name.en.mp3
+          │  python3 tools/learning-assets/build_assets.py
+          ▼
+audio/animals/<slug>/sound.m4a, name.es.m4a, name.en.m4a     ← lo que se publica y usa la app
+```
+
+- **Nombre → slug**: `guinea_pig` → `guinea-pig`. Los animales que ya existían con otro nombre van en `ALIASES`
+  del script (`hippopotamus` → `hippo`, `rhinoceros` → `rhino`).
+- **Hábitat → categoría**: la carpeta de la librería no decide la categoría; cada animal está en
+  `backend/learning-content/items/animals.json`. Los hábitats nuevos son subcategorías de Animales: Bosque,
+  Selva, Lagos y ríos, Montaña, Campo y ciudad, Insectos y Dinosaurios. Sabana/desierto va a "Animales
+  salvajes" y océano a "Animales marinos". El canguro va a Salvajes y el canario y el cuy a Mascotas.
+- **Idiomas**: solo se importan los de la app (`es`, `en`). Los otros 7 quedan en la librería; para sumar uno,
+  agrégalo a `LANGUAGES` del script y al catálogo.
+- **Sin usar por ahora**: `games/sounds/` y `sounds/next.mp3` (efectos de interfaz; no son de ningún animal).
+- **Animales sin sonido** en la librería (pez payaso, cangrejo, pececito, hámster, mono, pulpo, estrella de mar):
+  la app usa la voz del sistema para el nombre y no muestra "Escuchar sonido".
+- **Licencia**: el script copia `SOURCE.json` a `credits.json` para cada archivo. Con `"verified": false` todo
+  queda en REVIEW (no se publica). Cuando confirmes la licencia: `"verified": true` en `SOURCE.json`, reimporta
+  y corre `pnpm learning:sync`.
+- **Sonido nuevo**: agrégalo a la librería con el mismo nombre en `sounds/` y `voices/<idioma>/`, registra el
+  animal en `animals.json` si no existe y vuelve a correr los tres comandos.
 
 ### Licencias (aprendisaje.md §66–67)
 
