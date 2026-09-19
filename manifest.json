@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T20:51:06+00:00",
+  "generatedAt": "2026-09-19T20:55:44+00:00",
   "assets": [
     {
       "key": "images/animals/antelope/illustration",
@@ -546,6 +546,38 @@
       "sha256": "12cf1a8c69fb89c343ee8568a6869929d187a6da19ddd8de4e1cef862acddad8"
     },
     {
+      "key": "images/animals/llama/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 131038,
+      "sha256": "a3d078f3de1cdb57eee0a2de834be70846e008c71dbb737610cf2337e3cc9dc7"
+    },
+    {
+      "key": "images/animals/meerkat/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 139558,
+      "sha256": "769c06bbb337f504334cfcc0d30c03db02ef8ce62fd9555968bcf5bae3bbc6f8"
+    },
+    {
       "key": "images/animals/monkey/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -576,6 +608,22 @@
       "height": 1024,
       "bytes": 189404,
       "sha256": "ae44360251c7c8d490f6dc161eb1249dc1c79581eafb68afd0ad4373a37c7cda"
+    },
+    {
+      "key": "images/animals/ostrich/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 145960,
+      "sha256": "41aeba96fad4334d193143732d01bb4fa6a3ebb5d77293365866a9d5c6c62ca2"
     },
     {
       "key": "images/animals/parrot/illustration",
