@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T21:21:34+00:00",
+  "generatedAt": "2026-09-19T21:30:00+00:00",
   "assets": [
     {
       "key": "images/animals/antelope/illustration",
@@ -146,6 +146,22 @@
       "sha256": "15879760605c25da3a6b09f36c41bd05be54fd4f84c599b3881f9c1e4e471c88"
     },
     {
+      "key": "images/animals/bobcat/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 227730,
+      "sha256": "824ac94ba61e0b8e2c8c4f6207fd094c30e671c6ec7085ee31034d82fa7731a0"
+    },
+    {
       "key": "images/animals/buffalo/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -226,6 +242,22 @@
       "sha256": "89a91cdad5fe8a59ba2228f7552bcc14fb8ace91a1772d438d1f4cf9864a12c4"
     },
     {
+      "key": "images/animals/cardinal/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 138860,
+      "sha256": "a6a37cffdcb27f9f3124bb40f23eb63e347c54e169e68ba8b3be3fbcfd35c84f"
+    },
+    {
       "key": "images/animals/cat/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -240,6 +272,22 @@
       "height": 1024,
       "bytes": 197694,
       "sha256": "96082f312d34b09236dff7c146904124dae6db2a82dd933bb0ada45a8b9a9a06"
+    },
+    {
+      "key": "images/animals/chaffinch/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 187112,
+      "sha256": "0fcc800f96b373a9d6bac1a39242c16b5ea4ba99da13fe6b5851f303fbb59e2e"
     },
     {
       "key": "images/animals/cheetah/illustration",
@@ -338,6 +386,22 @@
       "sha256": "0d12244d0d797931bd5cb69754357cd29ccadc57d6767734c6bfaec9d379176c"
     },
     {
+      "key": "images/animals/deer/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 140304,
+      "sha256": "a0cb93ccb4d6924e655fbd33b37b6d564f7ce62602bca0fe3341565efba9ec2e"
+    },
+    {
       "key": "images/animals/dog/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -416,6 +480,38 @@
       "height": 1024,
       "bytes": 155750,
       "sha256": "912b30504aee0adc3f40942a920da2819c17d577b666750b8999216b78522b7e"
+    },
+    {
+      "key": "images/animals/eurasian-jay/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 169690,
+      "sha256": "6101ba424f757af53cf94588929b6ceefbf44e582bba011d387ae626540ffc86"
+    },
+    {
+      "key": "images/animals/fox/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 192448,
+      "sha256": "551806496cfee5fff25c9e4fbb7c661bacbc9dfe05113e801a57db2d88d3561f"
     },
     {
       "key": "images/animals/giraffe/illustration",
