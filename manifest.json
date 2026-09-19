@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T22:18:56+00:00",
+  "generatedAt": "2026-09-19T22:23:59+00:00",
   "assets": [
     {
       "key": "images/animals/antelope/illustration",
@@ -562,6 +562,22 @@
       "sha256": "6101ba424f757af53cf94588929b6ceefbf44e582bba011d387ae626540ffc86"
     },
     {
+      "key": "images/animals/flamingo/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 87324,
+      "sha256": "075709b865fc888c5b8ecc6b4f0f0735dea162525187c498a3008cabe59fb981"
+    },
+    {
       "key": "images/animals/fox/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -576,6 +592,22 @@
       "height": 1024,
       "bytes": 192448,
       "sha256": "551806496cfee5fff25c9e4fbb7c661bacbc9dfe05113e801a57db2d88d3561f"
+    },
+    {
+      "key": "images/animals/frog/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 208742,
+      "sha256": "e7d43ec60295cfbdfdf002192e8233f24e34f6137577282e5425240abb8f2658"
     },
     {
       "key": "images/animals/gecko/illustration",
@@ -960,6 +992,22 @@
       "height": 1024,
       "bytes": 87476,
       "sha256": "a87a69bc452c547d8814f3fadebfadee2b151b251920231399096e5526bead0c"
+    },
+    {
+      "key": "images/animals/kingfisher/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 176748,
+      "sha256": "4fd55c6b05d109478a446eb7907453275261833de2d204559384d6951227e458"
     },
     {
       "key": "images/animals/koala/illustration",
