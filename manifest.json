@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T22:42:09+00:00",
+  "generatedAt": "2026-09-19T22:46:40+00:00",
   "assets": [
     {
       "key": "images/animals/antelope/illustration",
@@ -1010,6 +1010,22 @@
       "sha256": "df48077e75b4279d03d713aa0107330a8e2ca9e05f3777f64e2756514695dbdc"
     },
     {
+      "key": "images/animals/ibex/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 178352,
+      "sha256": "749861fc3f5e6308b183a08245eabcc1cffdb6a5ec4323be0210af63568ece50"
+    },
+    {
       "key": "images/animals/jackal/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -1184,6 +1200,22 @@
       "height": 1024,
       "bytes": 311160,
       "sha256": "3d5ad568667a9194b9f39ecd29c3322cfba95b50e622d5d0475c6506656130be"
+    },
+    {
+      "key": "images/animals/marmot/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 278430,
+      "sha256": "0c4bc4f2c20444b41f0cd9731f9733fd3b4a1c6cb52931fbfa4ec79634183a15"
     },
     {
       "key": "images/animals/meerkat/illustration",
@@ -1392,6 +1424,22 @@
       "height": 1024,
       "bytes": 115050,
       "sha256": "912ae9b304725c53541cec6b0f65693397d1c6deeeb4cea27c0779a1e9716e4d"
+    },
+    {
+      "key": "images/animals/peregrine-falcon/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 175374,
+      "sha256": "7b0371da0a8aa35185d76a3356e01eb0f8850166bfccc8cc018e51c803025f86"
     },
     {
       "key": "images/animals/pheasant/illustration",
