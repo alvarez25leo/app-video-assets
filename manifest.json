@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T20:46:53+00:00",
+  "generatedAt": "2026-09-19T20:51:06+00:00",
   "assets": [
     {
       "key": "images/animals/antelope/illustration",
@@ -480,6 +480,54 @@
       "height": 1024,
       "bytes": 134624,
       "sha256": "78b8bdcfb8ea5924f18d3076aaff43b722f7d4cdd3103a56b6df602e988ba5e6"
+    },
+    {
+      "key": "images/animals/hyena/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 233190,
+      "sha256": "df48077e75b4279d03d713aa0107330a8e2ca9e05f3777f64e2756514695dbdc"
+    },
+    {
+      "key": "images/animals/jackal/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 192118,
+      "sha256": "e1399b888735130ebcf55303f3651e1b27101f696ed208d7cc4f13ca56df27e3"
+    },
+    {
+      "key": "images/animals/kangaroo/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 131650,
+      "sha256": "58a61bd976e049d15480d42a7c2354048c7b99fc20453f0b8947fb5e264c1a39"
     },
     {
       "key": "images/animals/lion/illustration",
