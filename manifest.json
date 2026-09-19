@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T22:08:56+00:00",
+  "generatedAt": "2026-09-19T22:18:56+00:00",
   "assets": [
     {
       "key": "images/animals/antelope/illustration",
@@ -96,6 +96,22 @@
       "height": 1024,
       "bytes": 235502,
       "sha256": "7ecdfdbff81cd520b24f3929859649c4663727fc45b464882b183f99d12e52a8"
+    },
+    {
+      "key": "images/animals/beaver/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 188206,
+      "sha256": "7f03b29d388c7a62a3c55561d789eb1333970f044dc3d552ff32150821c5b768"
     },
     {
       "key": "images/animals/beluga/illustration",
@@ -416,6 +432,22 @@
       "height": 1024,
       "bytes": 130520,
       "sha256": "74ea1bc5c1991252bc795ba053497cc41a395c1606161876961037f09b298c6a"
+    },
+    {
+      "key": "images/animals/curlew/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 140360,
+      "sha256": "c10fffe42464c20e6b69fc8498e345272851015da22e18b3349bc6bb49ff8a1b"
     },
     {
       "key": "images/animals/deer/illustration",
@@ -1298,6 +1330,22 @@
       "sha256": "3c46fb5632c43c507e8c995117e99068c274cf175093dfcffda306fde5631e59"
     },
     {
+      "key": "images/animals/red-panda/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 259076,
+      "sha256": "2f12828f6f69ff0d4a536c4334b54e7b86958ce1a70d979dc61e0e708f31380e"
+    },
+    {
       "key": "images/animals/rhino/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -1442,6 +1490,22 @@
       "sha256": "2f8128a34170807fbd065adb09939211ca2ef622911c9d5424ae0f5c536ef935"
     },
     {
+      "key": "images/animals/sloth/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 268082,
+      "sha256": "4743c972bbe530ba1cc225efa6b9c0efd9ff1751d35c45856d5e30dae0546578"
+    },
+    {
       "key": "images/animals/starfish/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -1456,6 +1520,22 @@
       "height": 1024,
       "bytes": 127324,
       "sha256": "0c5bf65b49a248b28c2d3012e98e2ecf1e0d9879ea32ea0a56fbcccf76c8bdea"
+    },
+    {
+      "key": "images/animals/tapir/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 189598,
+      "sha256": "0ce8ab11fe2870bf3debb3e1275237ce9e3c41e15c112acb6bc3051b65a25df8"
     },
     {
       "key": "images/animals/tawny-frogmouth/illustration",
@@ -1488,6 +1568,22 @@
       "height": 1024,
       "bytes": 253276,
       "sha256": "bb0780a6e5569e9afd8a1c5aa96fbc0db34d95a04c7667acd84278a5598e6368"
+    },
+    {
+      "key": "images/animals/toucan/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 133180,
+      "sha256": "c65725a0a19fc4e55c1e753eedfba3dc215ba2819eebce76e5bb1073d311370a"
     },
     {
       "key": "images/animals/turkey/illustration",
