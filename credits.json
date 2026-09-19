@@ -8,6 +8,4353 @@
       "sourceUrl": "https://freesound.org/people/.../sounds/12345/",
       "attribution": "Cow moo by Autor (CC0)",
       "verified": true
+    },
+    "audio/animals/coyote/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/coyote/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/coyote/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/crow/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/crow/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/crow/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/ferret/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/ferret/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/ferret/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/gopher/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/gopher/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/gopher/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/groundhog/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/groundhog/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/groundhog/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/hedgehog/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/hedgehog/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/hedgehog/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/hoopoe/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/hoopoe/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/hoopoe/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/kangaroo/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/kangaroo/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/kangaroo/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/linnet/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/linnet/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/linnet/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/magpie/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/magpie/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/magpie/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/merlin/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/merlin/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/merlin/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/mole/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/mole/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/mole/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/mouse/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/mouse/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/mouse/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/pigeon/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/pigeon/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/pigeon/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/prairie-dog/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/prairie-dog/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/prairie-dog/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/rattlesnake/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/rattlesnake/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/rattlesnake/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/sparrow/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/sparrow/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/sparrow/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/swallow/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/swallow/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/swallow/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/western-meadowlark/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/western-meadowlark/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/western-meadowlark/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/ankylosaurus/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/ankylosaurus/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/ankylosaurus/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/archaeopteryx/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/archaeopteryx/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/archaeopteryx/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/brachiosaurus/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/brachiosaurus/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/brachiosaurus/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/ceratosaurus/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/ceratosaurus/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/ceratosaurus/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/coelophysis/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/coelophysis/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/coelophysis/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/mosasaurus/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/mosasaurus/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/mosasaurus/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/pteranodon/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/pteranodon/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/pteranodon/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/stegosaurus/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/stegosaurus/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/stegosaurus/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/triceratops/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/triceratops/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/triceratops/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/tyrannosaurus/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/tyrannosaurus/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/tyrannosaurus/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/bull/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/bull/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/bull/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cat/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cat/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cat/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/chicken/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/chicken/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/chicken/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cow/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cow/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cow/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/dog/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/dog/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/dog/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/donkey/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/donkey/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/donkey/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/duck/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/duck/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/duck/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/goat/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/goat/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/goat/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/goose/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/goose/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/goose/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/guinea-pig/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/guinea-pig/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/guinea-pig/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/guineafowl/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/guineafowl/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/guineafowl/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/horse/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/horse/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/horse/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/peacock/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/peacock/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/peacock/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/pig/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/pig/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/pig/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/quail/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/quail/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/quail/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/rabbit/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/rabbit/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/rabbit/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/rooster/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/rooster/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/rooster/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/sheep/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/sheep/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/sheep/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/turkey/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/turkey/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/turkey/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/badger/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/badger/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/badger/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/bat/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/bat/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/bat/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/bear/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/bear/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/bear/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/bison/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/bison/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/bison/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/blackbird/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/blackbird/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/blackbird/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/bobcat/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/bobcat/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/bobcat/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cardinal/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cardinal/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cardinal/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/chaffinch/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/chaffinch/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/chaffinch/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/deer/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/deer/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/deer/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/eurasian-jay/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/eurasian-jay/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/eurasian-jay/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/fox/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/fox/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/fox/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/grey-squirrel/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/grey-squirrel/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/grey-squirrel/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/hummingbird/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/hummingbird/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/hummingbird/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/kookaburra/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/kookaburra/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/kookaburra/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/moose/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/moose/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/moose/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/nightingale/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/nightingale/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/nightingale/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/pheasant/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/pheasant/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/pheasant/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/porcupine/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/porcupine/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/porcupine/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/raccoon/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/raccoon/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/raccoon/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/robin/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/robin/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/robin/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/roe-deer/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/roe-deer/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/roe-deer/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/tawny-frogmouth/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/tawny-frogmouth/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/tawny-frogmouth/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/wild-boar/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/wild-boar/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/wild-boar/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/wolf/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/wolf/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/wolf/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/bee/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/bee/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/bee/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/beetle/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/beetle/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/beetle/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/bumblebee/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/bumblebee/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/bumblebee/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/butterfly/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/butterfly/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/butterfly/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cicada/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cicada/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cicada/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cricket/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cricket/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cricket/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/fly/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/fly/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/fly/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/mosquito/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/mosquito/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/mosquito/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/tarantula/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/tarantula/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/tarantula/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/chimpanzee/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/chimpanzee/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/chimpanzee/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cuckoo/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cuckoo/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cuckoo/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/gecko/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/gecko/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/gecko/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/giant-anteater/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/giant-anteater/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/giant-anteater/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/giant-panda/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/giant-panda/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/giant-panda/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/gibbon/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/gibbon/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/gibbon/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/gorilla/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/gorilla/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/gorilla/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/jaguar/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/jaguar/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/jaguar/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/koala/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/koala/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/koala/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/marmoset/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/marmoset/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/marmoset/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/okapi/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/okapi/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/okapi/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/orangutan/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/orangutan/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/orangutan/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/parrot/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/parrot/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/parrot/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/red-panda/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/red-panda/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/red-panda/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/sloth/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/sloth/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/sloth/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/tapir/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/tapir/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/tapir/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/toucan/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/toucan/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/toucan/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/beaver/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/beaver/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/beaver/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/crocodile/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/crocodile/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/crocodile/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/curlew/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/curlew/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/curlew/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/flamingo/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/flamingo/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/flamingo/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/frog/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/frog/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/frog/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/kingfisher/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/kingfisher/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/kingfisher/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/loon/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/loon/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/loon/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/nutria/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/nutria/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/nutria/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/otter/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/otter/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/otter/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/sandpiper/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/sandpiper/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/sandpiper/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/stork/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/stork/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/stork/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/swan/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/swan/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/swan/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/toad/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/toad/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/toad/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/chinchilla/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/chinchilla/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/chinchilla/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cougar/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cougar/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cougar/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/eagle/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/eagle/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/eagle/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/great-horned-owl/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/great-horned-owl/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/great-horned-owl/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/hawk/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/hawk/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/hawk/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/ibex/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/ibex/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/ibex/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/marmot/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/marmot/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/marmot/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/peregrine-falcon/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/peregrine-falcon/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/peregrine-falcon/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/ptarmigan/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/ptarmigan/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/ptarmigan/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/snow-leopard/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/snow-leopard/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/snow-leopard/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/stoat/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/stoat/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/stoat/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/yak/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/yak/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/yak/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/beluga/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/beluga/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/beluga/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/dolphin/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/dolphin/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/dolphin/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/hermit-crab/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/hermit-crab/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/hermit-crab/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/killer-whale/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/killer-whale/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/killer-whale/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/pelican/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/pelican/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/pelican/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/penguin/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/penguin/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/penguin/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/sea-elephant/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/sea-elephant/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/sea-elephant/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/sea-lion/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/sea-lion/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/sea-lion/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/seagull/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/seagull/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/seagull/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/seal/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/seal/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/seal/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/turtle/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/turtle/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/turtle/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/walrus/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/walrus/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/walrus/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/whale/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/whale/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/whale/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/antelope/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/antelope/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/antelope/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/armadillo/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/armadillo/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/armadillo/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/baboon/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/baboon/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/baboon/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/buffalo/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/buffalo/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/buffalo/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/camel/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/camel/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/camel/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/canary/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/canary/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/canary/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/capybara/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/capybara/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/capybara/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cheetah/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cheetah/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/cheetah/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/elephant/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/elephant/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/elephant/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/giraffe/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/giraffe/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/giraffe/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/gnu/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/gnu/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/gnu/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/goshawk/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/goshawk/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/goshawk/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/hippo/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/hippo/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/hippo/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/hyena/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/hyena/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/hyena/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/jackal/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/jackal/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/jackal/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/lion/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/lion/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/lion/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/llama/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/llama/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/llama/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/meerkat/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/meerkat/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/meerkat/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/ostrich/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/ostrich/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/ostrich/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/python/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/python/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/python/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/rhino/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/rhino/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/rhino/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/tiger/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/tiger/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/tiger/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/vulture/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/vulture/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/vulture/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/wildcat/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/wildcat/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/wildcat/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/zebra/sound": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/zebra/name.es": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
+    },
+    "audio/animals/zebra/name.en": {
+      "origin": "THIRD_PARTY",
+      "license": null,
+      "author": null,
+      "sourceUrl": null,
+      "attribution": null,
+      "verified": false,
+      "library": "audio-library"
     }
   }
 }
