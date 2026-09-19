@@ -2,7 +2,7 @@
 
 > Archivo generado por `tools/learning-assets/generate_prompts.py` a partir de `backend/learning-content`.
 > No lo edites a mano: cambia el contenido o el script y vuelve a generarlo.
-> **252 imágenes** en total.
+> **395 imágenes** en total.
 
 **Cómo usarlo:** cada bloque es **una imagen**. Pásale el prompt al skill `chatgpt-image-generator` y guarda el PNG
 exactamente en la ruta indicada. Cuando tengas un lote, corre:
@@ -17,7 +17,7 @@ Números, colores, formas y letras **no necesitan imagen** (la app los dibuja).
 
 ## 1. Items (animales, frutas, cuerpo)
 
-### Animales de granja (8)
+### Animales de granja (15)
 
 #### Vaca · `animals/cow`
 
@@ -109,7 +109,84 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 IMPORTANTE: diseño de personaje 100 % original. No debe parecerse a ningún personaje conocido de películas, series, videojuegos, libros ni marcas (ni en la forma, ni en los colores característicos, ni en la expresión). Solo debe reconocerse como el animal u objeto descrito.
 ```
 
-### Animales salvajes (10)
+#### Toro · `animals/bull`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/bull/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un toro.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Gallina · `animals/chicken`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/chicken/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una gallina.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Ganso · `animals/goose`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/goose/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un ganso.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Gallina de Guinea · `animals/guineafowl`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/guineafowl/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una gallina de Guinea.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Pavo real · `animals/peacock`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/peacock/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un pavo real.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Pavo · `animals/turkey`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/turkey/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un pavo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Codorniz · `animals/quail`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/quail/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una codorniz.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Animales salvajes (28)
 
 #### León · `animals/lion`
 
@@ -223,7 +300,205 @@ Crea una imagen de un rinoceronte bebé gris claro con un cuerno corto y redonde
 Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
-### Animales marinos (8)
+#### Antílope · `animals/antelope`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/antelope/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un antílope.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Armadillo · `animals/armadillo`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/armadillo/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un armadillo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Babuino · `animals/baboon`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/baboon/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un babuino.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Búfalo · `animals/buffalo`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/buffalo/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un búfalo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Camello · `animals/camel`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/camel/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un camello.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Capibara · `animals/capybara`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/capybara/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un capibara.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Guepardo · `animals/cheetah`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/cheetah/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un guepardo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Ñu · `animals/gnu`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/gnu/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un ñu.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Azor · `animals/goshawk`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/goshawk/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un azor.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Hiena · `animals/hyena`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/hyena/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una hiena.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Chacal · `animals/jackal`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/jackal/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un chacal.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Canguro · `animals/kangaroo`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/kangaroo/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un canguro.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Llama · `animals/llama`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/llama/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una llama.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Suricata · `animals/meerkat`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/meerkat/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una suricata.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Avestruz · `animals/ostrich`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/ostrich/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un avestruz.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Pitón · `animals/python`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/python/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una pitón.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Buitre · `animals/vulture`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/vulture/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un buitre.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Gato montés · `animals/wildcat`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/wildcat/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un gato montés.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Animales marinos (17)
 
 #### Delfín · `animals/dolphin`
 
@@ -313,7 +588,106 @@ Crea una imagen de una foca bebé de pelaje blanco y esponjoso con ojos oscuros,
 Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
-### Mascotas (6)
+#### Beluga · `animals/beluga`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/beluga/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una beluga.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Cangrejo ermitaño · `animals/hermit-crab`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/hermit-crab/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un cangrejo ermitaño.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Orca · `animals/killer-whale`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/killer-whale/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una orca.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Pelícano · `animals/pelican`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/pelican/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un pelícano.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Pingüino · `animals/penguin`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/penguin/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un pingüino.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Elefante marino · `animals/sea-elephant`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/sea-elephant/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un elefante marino.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### León marino · `animals/sea-lion`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/sea-lion/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un león marino.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Gaviota · `animals/seagull`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/seagull/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una gaviota.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Morsa · `animals/walrus`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/walrus/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una morsa.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Mascotas (8)
 
 #### Perro · `animals/dog`
 
@@ -377,6 +751,1142 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 
 ```text
 Crea una imagen de un pececito dorado con aletas grandes y transparentes.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Cuyo · `animals/guinea-pig`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/guinea-pig/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un cuyo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Canario · `animals/canary`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/canary/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un canario.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Animales del bosque (23)
+
+#### Tejón · `animals/badger`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/badger/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un tejón.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Murciélago · `animals/bat`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/bat/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un murciélago.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Bisonte · `animals/bison`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/bison/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un bisonte.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Mirlo · `animals/blackbird`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/blackbird/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un mirlo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Lince rojo · `animals/bobcat`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/bobcat/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un lince rojo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Cardenal · `animals/cardinal`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/cardinal/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un cardenal.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Pinzón · `animals/chaffinch`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/chaffinch/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un pinzón.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Venado · `animals/deer`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/deer/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un venado.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Arrendajo · `animals/eurasian-jay`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/eurasian-jay/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un arrendajo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Zorro · `animals/fox`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/fox/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un zorro.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Ardilla · `animals/grey-squirrel`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/grey-squirrel/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una ardilla.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Colibrí · `animals/hummingbird`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/hummingbird/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un colibrí.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Cucaburra · `animals/kookaburra`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/kookaburra/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una cucaburra.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Alce · `animals/moose`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/moose/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un alce.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Ruiseñor · `animals/nightingale`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/nightingale/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un ruiseñor.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Faisán · `animals/pheasant`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/pheasant/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un faisán.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Puercoespín · `animals/porcupine`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/porcupine/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un puercoespín.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Mapache · `animals/raccoon`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/raccoon/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un mapache.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Petirrojo · `animals/robin`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/robin/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un petirrojo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Corzo · `animals/roe-deer`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/roe-deer/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un corzo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Podargo · `animals/tawny-frogmouth`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/tawny-frogmouth/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un podargo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Jabalí · `animals/wild-boar`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/wild-boar/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un jabalí.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Lobo · `animals/wolf`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/wolf/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un lobo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Animales de la selva (16)
+
+#### Chimpancé · `animals/chimpanzee`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/chimpanzee/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un chimpancé.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Cuco · `animals/cuckoo`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/cuckoo/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un cuco.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Geco · `animals/gecko`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/gecko/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un geco.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Oso hormiguero · `animals/giant-anteater`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/giant-anteater/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un oso hormiguero.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Oso panda · `animals/giant-panda`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/giant-panda/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un oso panda.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Gibón · `animals/gibbon`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/gibbon/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un gibón.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Gorila · `animals/gorilla`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/gorilla/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un gorila.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Jaguar · `animals/jaguar`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/jaguar/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un jaguar.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Koala · `animals/koala`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/koala/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un koala.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Tití · `animals/marmoset`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/marmoset/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un tití.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Okapi · `animals/okapi`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/okapi/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un okapi.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Orangután · `animals/orangutan`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/orangutan/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un orangután.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Panda rojo · `animals/red-panda`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/red-panda/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un panda rojo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Perezoso · `animals/sloth`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/sloth/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un perezoso.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Tapir · `animals/tapir`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/tapir/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un tapir.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Tucán · `animals/toucan`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/toucan/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un tucán.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Lagos y ríos (12)
+
+#### Castor · `animals/beaver`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/beaver/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un castor.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Zarapito · `animals/curlew`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/curlew/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un zarapito.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Flamenco · `animals/flamingo`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/flamingo/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un flamenco.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Rana · `animals/frog`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/frog/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una rana.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Martín pescador · `animals/kingfisher`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/kingfisher/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un martín pescador.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Colimbo · `animals/loon`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/loon/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un colimbo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Coipo · `animals/nutria`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/nutria/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un coipo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Nutria · `animals/otter`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/otter/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una nutria.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Andarríos · `animals/sandpiper`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/sandpiper/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un andarríos.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Cigüeña · `animals/stork`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/stork/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una cigüeña.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Cisne · `animals/swan`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/swan/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un cisne.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Sapo · `animals/toad`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/toad/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un sapo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Animales de la montaña (12)
+
+#### Chinchilla · `animals/chinchilla`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/chinchilla/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una chinchilla.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Puma · `animals/cougar`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/cougar/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un puma.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Águila · `animals/eagle`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/eagle/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un águila.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Búho · `animals/great-horned-owl`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/great-horned-owl/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un búho.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Gavilán · `animals/hawk`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/hawk/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un gavilán.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Íbice · `animals/ibex`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/ibex/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un íbice.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Marmota · `animals/marmot`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/marmot/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una marmota.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Halcón peregrino · `animals/peregrine-falcon`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/peregrine-falcon/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un halcón peregrino.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Perdiz nival · `animals/ptarmigan`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/ptarmigan/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una perdiz nival.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Leopardo de las nieves · `animals/snow-leopard`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/snow-leopard/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un leopardo de las nieves.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Armiño · `animals/stoat`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/stoat/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un armiño.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Yak · `animals/yak`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/yak/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un yak.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Campo y ciudad (18)
+
+#### Coyote · `animals/coyote`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/coyote/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un coyote.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Cuervo · `animals/crow`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/crow/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un cuervo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Hurón · `animals/ferret`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/ferret/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un hurón.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Tuza · `animals/gopher`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/gopher/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una tuza.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Marmota americana · `animals/groundhog`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/groundhog/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una marmota americana.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Erizo · `animals/hedgehog`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/hedgehog/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un erizo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Abubilla · `animals/hoopoe`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/hoopoe/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una abubilla.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Pardillo · `animals/linnet`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/linnet/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un pardillo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Urraca · `animals/magpie`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/magpie/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una urraca.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Esmerejón · `animals/merlin`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/merlin/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un esmerejón.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Topo · `animals/mole`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/mole/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un topo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Ratón · `animals/mouse`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/mouse/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un ratón.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Paloma · `animals/pigeon`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/pigeon/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una paloma.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Perrito de la pradera · `animals/prairie-dog`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/prairie-dog/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un perrito de la pradera.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Serpiente de cascabel · `animals/rattlesnake`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/rattlesnake/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una serpiente de cascabel.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Gorrión · `animals/sparrow`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/sparrow/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un gorrión.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Golondrina · `animals/swallow`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/swallow/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una golondrina.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Pradero · `animals/western-meadowlark`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/western-meadowlark/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un pradero.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Insectos (9)
+
+#### Abeja · `animals/bee`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/bee/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una abeja.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Escarabajo · `animals/beetle`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/beetle/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un escarabajo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Abejorro · `animals/bumblebee`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/bumblebee/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un abejorro.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Mariposa · `animals/butterfly`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/butterfly/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una mariposa.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Cigarra · `animals/cicada`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/cicada/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una cigarra.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Grillo · `animals/cricket`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/cricket/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un grillo.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Mosca · `animals/fly`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/fly/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una mosca.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Mosquito · `animals/mosquito`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/mosquito/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un mosquito.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Tarántula · `animals/tarantula`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/tarantula/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de una tarántula.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+### Dinosaurios (10)
+
+#### Anquilosaurio · `animals/ankylosaurus`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/ankylosaurus/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un anquilosaurio.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Arqueoptérix · `animals/archaeopteryx`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/archaeopteryx/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un arqueoptérix.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Braquiosaurio · `animals/brachiosaurus`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/brachiosaurus/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un braquiosaurio.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Ceratosaurio · `animals/ceratosaurus`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/ceratosaurus/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un ceratosaurio.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Celofisis · `animals/coelophysis`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/coelophysis/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un celofisis.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Mosasaurio · `animals/mosasaurus`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/mosasaurus/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un mosasaurio.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Pteranodonte · `animals/pteranodon`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/pteranodon/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un pteranodonte.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Estegosaurio · `animals/stegosaurus`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/stegosaurus/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un estegosaurio.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Triceratops · `animals/triceratops`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/triceratops/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un triceratops.
+
+Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+```
+
+#### Tiranosaurio · `animals/tyrannosaurus`
+
+- **Guardar en:** `learning-assets/_originals/images/animals/tyrannosaurus/illustration.png`
+- **Tamaño:** 1024×1024, fondo transparente
+
+```text
+Crea una imagen de un tiranosaurio.
 
 Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
@@ -2549,6 +4059,83 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 
 ```text
 Crea una imagen de portada para la categoría infantil «Árboles y plantas frutales»: una escena alegre sobre árboles y plantas frutales.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Animales del bosque
+
+- **Guardar en:** `learning-assets/_originals/images/categories/animals-forest/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Animales del bosque»: una escena alegre sobre animales del bosque.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Animales de la selva
+
+- **Guardar en:** `learning-assets/_originals/images/categories/animals-jungle/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Animales de la selva»: una escena alegre sobre animales de la selva.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Lagos y ríos
+
+- **Guardar en:** `learning-assets/_originals/images/categories/animals-lake/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Lagos y ríos»: una escena alegre sobre lagos y ríos.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Animales de la montaña
+
+- **Guardar en:** `learning-assets/_originals/images/categories/animals-mountain/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Animales de la montaña»: una escena alegre sobre animales de la montaña.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Campo y ciudad
+
+- **Guardar en:** `learning-assets/_originals/images/categories/animals-countryside/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Campo y ciudad»: una escena alegre sobre campo y ciudad.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Insectos
+
+- **Guardar en:** `learning-assets/_originals/images/categories/animals-insects/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Insectos»: una escena alegre sobre insectos.
+
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+```
+
+#### Dinosaurios
+
+- **Guardar en:** `learning-assets/_originals/images/categories/animals-dinosaurs/cover.png`
+- **Tamaño:** 1024×1024, con fondo
+
+```text
+Crea una imagen de portada para la categoría infantil «Dinosaurios»: una escena alegre sobre dinosaurios.
 
 Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```

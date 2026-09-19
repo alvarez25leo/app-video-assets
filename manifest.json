@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T19:58:50+00:00",
+  "generatedAt": "2026-09-19T20:30:24+00:00",
   "assets": [
     {
       "key": "images/animals/bear/illustration",
@@ -18,6 +18,22 @@
       "sha256": "7ecdfdbff81cd520b24f3929859649c4663727fc45b464882b183f99d12e52a8"
     },
     {
+      "key": "images/animals/bull/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 138436,
+      "sha256": "c2fde873d802ebe49cdc4c2bcdf497a76cd08f2f60f39a944927d54af4d62600"
+    },
+    {
       "key": "images/animals/cat/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -32,6 +48,22 @@
       "height": 1024,
       "bytes": 197694,
       "sha256": "96082f312d34b09236dff7c146904124dae6db2a82dd933bb0ada45a8b9a9a06"
+    },
+    {
+      "key": "images/animals/chicken/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 119164,
+      "sha256": "8bbca6a620805db4045216304048081d16b857a87b3f3e0c06f887485e29003b"
     },
     {
       "key": "images/animals/clownfish/illustration",
@@ -224,6 +256,38 @@
       "height": 1024,
       "bytes": 180294,
       "sha256": "e31ea1b6af2746f1555cc84de30b0480ee694edc9c6fcc8c467eab673284ca9a"
+    },
+    {
+      "key": "images/animals/goose/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 75460,
+      "sha256": "d1e069b5355efb6874c177e7862e9b313d1e0e741f1c2907366ee56d36d7d55e"
+    },
+    {
+      "key": "images/animals/guineafowl/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 177542,
+      "sha256": "bc8eff5eea715446bb8088b02213f379fffb666646f598656c5f6f7474af274a"
     },
     {
       "key": "images/animals/hamster/illustration",
