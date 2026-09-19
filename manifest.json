@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T21:34:03+00:00",
+  "generatedAt": "2026-09-19T21:38:41+00:00",
   "assets": [
     {
       "key": "images/animals/antelope/illustration",
@@ -882,6 +882,38 @@
       "sha256": "2fb9e38f51d997f9be904eccbeb29cdb7b6953307533e0315021231259fdfe86"
     },
     {
+      "key": "images/animals/moose/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 173546,
+      "sha256": "e2bb0f29e7ec4c7f0c75241b99c5022eeb531dfac290387f8ee7d383bd7ecc52"
+    },
+    {
+      "key": "images/animals/nightingale/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 171868,
+      "sha256": "51b4dfb3e4b3857212dd52fa0e0e12c4eb3e7c2076c0c31240565e9870fc3f26"
+    },
+    {
       "key": "images/animals/octopus/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -960,6 +992,22 @@
       "height": 1024,
       "bytes": 115050,
       "sha256": "912ae9b304725c53541cec6b0f65693397d1c6deeeb4cea27c0779a1e9716e4d"
+    },
+    {
+      "key": "images/animals/pheasant/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 176916,
+      "sha256": "70682c80acc9c4acf67226e7a0c7a3b91e66ad9c933a245bf568ff0c46680457"
     },
     {
       "key": "images/animals/pig/illustration",
