@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T21:04:59+00:00",
+  "generatedAt": "2026-09-19T21:09:11+00:00",
   "assets": [
     {
       "key": "images/animals/antelope/illustration",
@@ -690,6 +690,38 @@
       "sha256": "9cd13e077024628fa472191bd690e0d15451130131a42199562c1eaeec465256"
     },
     {
+      "key": "images/animals/pelican/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 100258,
+      "sha256": "bd3c94e47964e474b549b7f166df04f5bf169556e1a69ce023e41b8526da7db8"
+    },
+    {
+      "key": "images/animals/penguin/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 115050,
+      "sha256": "912ae9b304725c53541cec6b0f65693397d1c6deeeb4cea27c0779a1e9716e4d"
+    },
+    {
       "key": "images/animals/pig/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -784,6 +816,22 @@
       "height": 1024,
       "bytes": 214438,
       "sha256": "7191969258e650b44e9cc5fdc61d7d5ba1b3a87176d56b269638c28eef62dafa"
+    },
+    {
+      "key": "images/animals/sea-elephant/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 128546,
+      "sha256": "e63f38a8fb6ef01fc02150ae03481d259fe5d235d5c72ebfb60fef46beed4194"
     },
     {
       "key": "images/animals/seal/illustration",
