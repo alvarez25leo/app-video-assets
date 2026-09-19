@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T03:28:14+00:00",
+  "generatedAt": "2026-09-19T15:10:33+00:00",
   "assets": [
     {
       "key": "images/animals/bear/illustration",
@@ -5755,6 +5755,402 @@
       "durationMs": 2638,
       "bytes": 24900,
       "sha256": "2c4221d0a79c934dd200089957d3d2644c009fbf9932e8f474039fa76f9e094b"
+    },
+    {
+      "key": "audio/pipo/es/acierto-excelente",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 1153,
+      "bytes": 38129,
+      "sha256": "58310216a8f736e8299a9c0c2e227b1f8ec896a650e23bfab9c754de7835ff4f"
+    },
+    {
+      "key": "audio/pipo/es/acierto-genial",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 921,
+      "bytes": 37276,
+      "sha256": "4fa365efc4b07daa6f9f3f858dec9ecd64af872cc0bb09857c9641ab41c7a13c"
+    },
+    {
+      "key": "audio/pipo/es/acierto-lo-lograste",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 1407,
+      "bytes": 39359,
+      "sha256": "b46d337a20f63e0bb2cd3c6ecc050b973d9e5e6cf40ee222dfe7eb64b5d6f0ac"
+    },
+    {
+      "key": "audio/pipo/es/acierto-muy-bien",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 856,
+      "bytes": 36802,
+      "sha256": "ab4a8c4afcf7375c72950b8b7e19f1bbaf0dd5dee875d0d7ed792c485b40f910"
+    },
+    {
+      "key": "audio/pipo/es/acierto-super",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 413,
+      "bytes": 35045,
+      "sha256": "04b35f9d2ff514c44e79498d9dba30b2af95b86bab46bac86ca307b5a905e108"
+    },
+    {
+      "key": "audio/pipo/es/album-estampa-nueva",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 3061,
+      "bytes": 46183,
+      "sha256": "0e933b6d67aa6c9e62e2fdffe0395a422d792148648e7e55b0edd390f3872871"
+    },
+    {
+      "key": "audio/pipo/es/album-estampas-nuevas",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 3388,
+      "bytes": 47143,
+      "sha256": "fb598857b04c57e64037d6b364367348f3d66e46bc9db8dfda1b6ca84f65a55d"
+    },
+    {
+      "key": "audio/pipo/es/album-juega-para-ganarla",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 1578,
+      "bytes": 39958,
+      "sha256": "3e6e0eb184cd2f3a83fdb8e159997d4375255358c5fb10344140046fcb2009e5"
+    },
+    {
+      "key": "audio/pipo/es/album-pagina-completa",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 3024,
+      "bytes": 46209,
+      "sha256": "9d44f777a3efeeef440b04cf9f00875eb0e324add51b14604e84462114f11ac6"
+    },
+    {
+      "key": "audio/pipo/es/album-te-falta",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 1096,
+      "bytes": 38125,
+      "sha256": "870df8a9f2d891e80a4374d844dc0e402656459148ca1a4003eb040aa5ecb502"
+    },
+    {
+      "key": "audio/pipo/es/album-toca-jugar",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 1587,
+      "bytes": 40146,
+      "sha256": "d34439ce516a05d78a1dfb5399856967a89d9b9fb59d5e9b489435a737e5c07a"
+    },
+    {
+      "key": "audio/pipo/es/buenas-noches",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 5271,
+      "bytes": 54846,
+      "sha256": "c91c80b1efec200745e4a63f5ce49e46c96cfa9747ef2675ae7a81b559fe7977"
+    },
+    {
+      "key": "audio/pipo/es/busqueda-busca-sonido",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 2277,
+      "bytes": 43470,
+      "sha256": "4da5bdc2335e999aaaf3180857e6587f8f521144e83742edf39b1b86c12ed40b"
+    },
+    {
+      "key": "audio/pipo/es/busqueda-encontraste",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 1662,
+      "bytes": 40412,
+      "sha256": "1caf7a7df6b4095023c761bcf05c16ef45b2e866aa62d3ad0e490186a15cbe5f"
+    },
+    {
+      "key": "audio/pipo/es/busqueda-estamos-buscando",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 1664,
+      "bytes": 40534,
+      "sha256": "4e5ff3974c46e1756f44ebca525603d30973f1b29f8fbcb06a5ee18ac8955b00"
+    },
+    {
+      "key": "audio/pipo/es/casi",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 1626,
+      "bytes": 40274,
+      "sha256": "c212a04449b62303a29d56eba2f4a0d7b65611724dc5318eb137edf70aad207d"
+    },
+    {
+      "key": "audio/pipo/es/inicio-estampa-ganada",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 3375,
+      "bytes": 47249,
+      "sha256": "205f91414f8020fe5ad6dc46194e1b279a25bad3f196e90d3aa50f52140bdf9f"
+    },
+    {
+      "key": "audio/pipo/es/inicio-estampas-ganadas",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 2721,
+      "bytes": 45067,
+      "sha256": "1870b429c5d0e07a75ef9f2ae1ce7be2e8d883cdcc604bb94363d6dd49a9b6e3"
+    },
+    {
+      "key": "audio/pipo/es/instruccion-arma",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 1379,
+      "bytes": 39305,
+      "sha256": "2b9685601dea9cfbafca343714defb168c92a2272116428d99d5faaa97248cfb"
+    },
+    {
+      "key": "audio/pipo/es/instruccion-busca-sonido",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 2727,
+      "bytes": 45088,
+      "sha256": "fb23a2132d2d97bfc593b2c2f5911702a67c4b6b91d169cb1bf19d51ac0902e1"
+    },
+    {
+      "key": "audio/pipo/es/instruccion-cual-es",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 800,
+      "bytes": 36886,
+      "sha256": "c81698d33d301b25b499277ffc18cb90bf463dbccd7fc3521e8bea862c6fd1ae"
+    },
+    {
+      "key": "audio/pipo/es/instruccion-cuantos-hay-total",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 1589,
+      "bytes": 40100,
+      "sha256": "7dfa589d27528ea4d450e990c5b925e2008d864dd0881eb2c4b3507d877444e2"
+    },
+    {
+      "key": "audio/pipo/es/instruccion-cuantos-hay",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 997,
+      "bytes": 37660,
+      "sha256": "516efdcc002cc1bb8cf3affa5c69755d4a35435978e278660b122740c97683ed"
+    },
+    {
+      "key": "audio/pipo/es/instruccion-cuantos-quedan",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 1076,
+      "bytes": 38130,
+      "sha256": "0a14c225a26d03fb675d41013f4d8d3ced8a72bef87a599e1121ac0aa9345681"
+    },
+    {
+      "key": "audio/pipo/es/instruccion-donde-esta",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 1067,
+      "bytes": 37744,
+      "sha256": "9abfd46acb85d86a1a272b42a9f36058a7790c78f79ebcf5c310dbedf9580070"
+    },
+    {
+      "key": "audio/pipo/es/instruccion-que-vehiculo-sonido",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 2155,
+      "bytes": 42676,
+      "sha256": "bd251283ceaf5cbbf4f0999b7b1a53423dee5e804903f62de9905c192ec43f98"
+    },
+    {
+      "key": "audio/pipo/es/instruccion-quien-es",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 790,
+      "bytes": 36349,
+      "sha256": "0de9f9893e253a3d6d50ba4eb1e5a822e2e532ee889b1ebe9bdf0a1833f44de7"
+    },
+    {
+      "key": "audio/pipo/es/instruccion-quien-hace-sonido",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 1665,
+      "bytes": 40448,
+      "sha256": "3f0280d53161c540b30f87fae1bf47644b67393515961554fb289b8454244cb3"
+    },
+    {
+      "key": "audio/pipo/es/instruccion-toca-para-escuchar",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 1893,
+      "bytes": 41370,
+      "sha256": "3ab87a6c60f72775335efe6618e79ea22a1e6f1cce7f4e79a5370d7c63098d4e"
+    },
+    {
+      "key": "audio/pipo/es/instruccion-toca",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 636,
+      "bytes": 35548,
+      "sha256": "c8fa01facc6a87f6dbfefb0d7664b9c9911a20aaaba567ceea8e19503d7b986a"
+    },
+    {
+      "key": "audio/pipo/es/medalla-nueva",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 1271,
+      "bytes": 38804,
+      "sha256": "7ef2b97895c72e39c62e512c7fdd00b6ce95de4d0618d217272d89a00d8f194d"
+    },
+    {
+      "key": "audio/pipo/es/resultado-buen-intento",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 1421,
+      "bytes": 39322,
+      "sha256": "5ca91b21ea158fb7c9c3ca3ee1ff2e7e8c9ca39bba8a07f129feda6647b227bd"
+    },
+    {
+      "key": "audio/pipo/es/rompecabezas-es",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 1407,
+      "bytes": 39343,
+      "sha256": "4c0212d2853339cad9f2a3ffe1761def3671879a949be4a9fd317e3136f52769"
+    },
+    {
+      "key": "audio/pipo/es/saludo-1",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 2063,
+      "bytes": 41866,
+      "sha256": "b0e9fa954be45336cf2fe2cdad38fadc22d0d51cde09a4f991cf337ec0e083a2"
+    },
+    {
+      "key": "audio/pipo/es/saludo-2",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 2706,
+      "bytes": 44334,
+      "sha256": "3ec356f7c05557063808412a021938dee576109b437142250fb565887c377c6c"
+    },
+    {
+      "key": "audio/pipo/es/saludo-3",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 2899,
+      "bytes": 45718,
+      "sha256": "fc1430db1cc0902bb0a037ee7667bfe014939d7831ce286dc5504282e9dca4d6"
+    },
+    {
+      "key": "audio/pipo/es/saludo-4",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 2177,
+      "bytes": 42615,
+      "sha256": "d72ad22339ee4a5504b403486296dd47455fb79e789df2c64154700c18ab30d8"
+    },
+    {
+      "key": "audio/pipo/es/toque-1",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 2346,
+      "bytes": 43212,
+      "sha256": "29240253b17ff343bfaf993164be60c9941fedd29c61092d1a97ae5b32d25795"
+    },
+    {
+      "key": "audio/pipo/es/toque-2",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 1186,
+      "bytes": 37815,
+      "sha256": "99a9669740d5622857b7a4dfc2518d47f89294e6d4c6e56ef4cb0e179bd9cdc2"
+    },
+    {
+      "key": "audio/pipo/es/toque-3",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 2027,
+      "bytes": 42053,
+      "sha256": "7e5c39c1b2b4ea07d4fd5fee273df76c436e0d005955c0735d532e43d98ec854"
+    },
+    {
+      "key": "audio/pipo/es/toque-4",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 1718,
+      "bytes": 40673,
+      "sha256": "99e642d5f86a85c02bf778ae90f65605801f0c390baa3a31e8efeb0dcc148553"
+    },
+    {
+      "key": "audio/pipo/es/toque-5",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 3188,
+      "bytes": 46813,
+      "sha256": "89343101541f614ca3efc24bc8ead0ea991ae4b8b0a948e8647b158942dccd63"
+    },
+    {
+      "key": "audio/pipo/es/video-queda-poquito",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 3632,
+      "bytes": 48775,
+      "sha256": "72334e81925ff01f5dd154c2d3e4e7299df8503fb9c42d025a0cc3fbde7b09f8"
+    },
+    {
+      "key": "audio/pipo/es/video-sabias-que",
+      "kind": "AUDIO",
+      "ext": "m4a",
+      "mime": "audio/mp4",
+      "durationMs": 1297,
+      "bytes": 38912,
+      "sha256": "3a58a1a939dff030c001a4a947aa57ba4fa5fbe7f9a6653c5f776f919bc47ada"
     }
   ]
 }
