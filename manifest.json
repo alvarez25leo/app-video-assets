@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T21:49:23+00:00",
+  "generatedAt": "2026-09-19T21:55:51+00:00",
   "assets": [
     {
       "key": "images/animals/antelope/illustration",
@@ -322,6 +322,22 @@
       "sha256": "8bbca6a620805db4045216304048081d16b857a87b3f3e0c06f887485e29003b"
     },
     {
+      "key": "images/animals/chimpanzee/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 244732,
+      "sha256": "9d63d342e3f197ea7d86290ec45c4e1035b085ef7bd1255f956fe5412b0dd668"
+    },
+    {
       "key": "images/animals/clownfish/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -384,6 +400,22 @@
       "height": 1024,
       "bytes": 161802,
       "sha256": "0d12244d0d797931bd5cb69754357cd29ccadc57d6767734c6bfaec9d379176c"
+    },
+    {
+      "key": "images/animals/cuckoo/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 130520,
+      "sha256": "74ea1bc5c1991252bc795ba053497cc41a395c1606161876961037f09b298c6a"
     },
     {
       "key": "images/animals/deer/illustration",
@@ -512,6 +544,22 @@
       "height": 1024,
       "bytes": 192448,
       "sha256": "551806496cfee5fff25c9e4fbb7c661bacbc9dfe05113e801a57db2d88d3561f"
+    },
+    {
+      "key": "images/animals/gecko/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 177582,
+      "sha256": "3c4a9b8760959cc8cf0ef6488c858e648bbb9515c1813971ca3830c6dd8c6745"
     },
     {
       "key": "images/animals/giraffe/illustration",
@@ -1392,6 +1440,22 @@
       "height": 1024,
       "bytes": 300856,
       "sha256": "af9773440ae97d77f0369badd3b9cc651275f5dfa53731e892fa5fc564e0028d"
+    },
+    {
+      "key": "images/animals/wolf/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 175710,
+      "sha256": "f5dbf3a070be8c5479584116aea2384e9562758c901dfc19d7c810ff4607a71a"
     },
     {
       "key": "images/animals/zebra/illustration",
