@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T22:37:02+00:00",
+  "generatedAt": "2026-09-19T22:42:09+00:00",
   "assets": [
     {
       "key": "images/animals/antelope/illustration",
@@ -562,6 +562,22 @@
       "sha256": "30347bcab2803c6e836e30f7ddbe78e1335c35d85cdee2930bfd6f443c02ff13"
     },
     {
+      "key": "images/animals/eagle/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 106410,
+      "sha256": "17043e1b3afa8a9b3f7e97ab84227cca41892cb11e605b172257cdbc331888b1"
+    },
+    {
       "key": "images/animals/elephant/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -818,6 +834,22 @@
       "sha256": "f27db613b746ab5eacc6de3b663b13a768c0d876b9fb1c85f24949500a3183e6"
     },
     {
+      "key": "images/animals/great-horned-owl/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 160530,
+      "sha256": "71c4f7d1fd746c44072886f05d23118cffc570a3ad217396f92a617f67c32910"
+    },
+    {
       "key": "images/animals/grey-squirrel/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -880,6 +912,22 @@
       "height": 1024,
       "bytes": 181510,
       "sha256": "ef7e392f52893d6fd7bd3d5b77c36bcf5d86a9277f35ec90ca9e6d6d6b0cd4e5"
+    },
+    {
+      "key": "images/animals/hawk/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 169902,
+      "sha256": "9f767c521de23e7dee0028b608acc3962faa5a1a41a29c80ce4a3efe0d98ac5f"
     },
     {
       "key": "images/animals/hermit-crab/illustration",
