@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T20:38:17+00:00",
+  "generatedAt": "2026-09-19T20:42:20+00:00",
   "assets": [
     {
       "key": "images/animals/antelope/illustration",
@@ -66,6 +66,22 @@
       "sha256": "7ecdfdbff81cd520b24f3929859649c4663727fc45b464882b183f99d12e52a8"
     },
     {
+      "key": "images/animals/buffalo/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 178016,
+      "sha256": "e20d8a62c4a6f4867de82b0b3322556e057ca70228735a595e68f7a20fde669a"
+    },
+    {
       "key": "images/animals/bull/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -80,6 +96,38 @@
       "height": 1024,
       "bytes": 138436,
       "sha256": "c2fde873d802ebe49cdc4c2bcdf497a76cd08f2f60f39a944927d54af4d62600"
+    },
+    {
+      "key": "images/animals/camel/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 172274,
+      "sha256": "786668f3bb9a926b41d8006ccddfdd376b57e4ce320db4716379995f3cb23bdb"
+    },
+    {
+      "key": "images/animals/capybara/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 240376,
+      "sha256": "89a91cdad5fe8a59ba2228f7552bcc14fb8ace91a1772d438d1f4cf9864a12c4"
     },
     {
       "key": "images/animals/cat/illustration",
