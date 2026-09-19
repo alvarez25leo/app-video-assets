@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T21:55:51+00:00",
+  "generatedAt": "2026-09-19T22:00:20+00:00",
   "assets": [
     {
       "key": "images/animals/antelope/illustration",
@@ -560,6 +560,54 @@
       "height": 1024,
       "bytes": 177582,
       "sha256": "3c4a9b8760959cc8cf0ef6488c858e648bbb9515c1813971ca3830c6dd8c6745"
+    },
+    {
+      "key": "images/animals/giant-anteater/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 235526,
+      "sha256": "fa3ee06ff408f303e71551e9a0995aac3e8540be1ba70912b19876575385dc0e"
+    },
+    {
+      "key": "images/animals/giant-panda/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 231488,
+      "sha256": "9dc596ad9d5003a776ef919a520c53c4f411c31d1307d8600a75ec2d1db46ad5"
+    },
+    {
+      "key": "images/animals/gibbon/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 238832,
+      "sha256": "6829d4122469dddf61c9cca514d647f0efca130e5993ad360f9b798546e80269"
     },
     {
       "key": "images/animals/giraffe/illustration",
