@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T21:30:00+00:00",
+  "generatedAt": "2026-09-19T21:34:03+00:00",
   "assets": [
     {
       "key": "images/animals/antelope/illustration",
@@ -610,6 +610,22 @@
       "sha256": "f27db613b746ab5eacc6de3b663b13a768c0d876b9fb1c85f24949500a3183e6"
     },
     {
+      "key": "images/animals/grey-squirrel/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 289218,
+      "sha256": "771407819f3b7440b8569e8fa92865b5d5bed15e5c3224dfbd3af54f0afaa474"
+    },
+    {
       "key": "images/animals/guinea-pig/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -706,6 +722,22 @@
       "sha256": "78b8bdcfb8ea5924f18d3076aaff43b722f7d4cdd3103a56b6df602e988ba5e6"
     },
     {
+      "key": "images/animals/hummingbird/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 180028,
+      "sha256": "490ff4636c4ea79e14e162966576cbab730003992c0775106206bb5a8a6e2527"
+    },
+    {
       "key": "images/animals/hyena/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -768,6 +800,22 @@
       "height": 1024,
       "bytes": 87476,
       "sha256": "a87a69bc452c547d8814f3fadebfadee2b151b251920231399096e5526bead0c"
+    },
+    {
+      "key": "images/animals/kookaburra/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 183714,
+      "sha256": "6cb1853866ab1f4fe78cc739f9bbc88863a3823d95751b9728dfb769c72346b1"
     },
     {
       "key": "images/animals/lion/illustration",
