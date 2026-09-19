@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-09-19T20:34:09+00:00",
+  "generatedAt": "2026-09-19T20:38:17+00:00",
   "assets": [
+    {
+      "key": "images/animals/antelope/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 119164,
+      "sha256": "bc3ffdb9f36a1513ac4b6b8a289c8671f61b0357b7b8b67c35732600581d1e92"
+    },
+    {
+      "key": "images/animals/armadillo/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 192228,
+      "sha256": "5bd5d0042ab83f905ca87602564a2397938f8af5e1f44fef6c7dfc7ab2d7afe5"
+    },
+    {
+      "key": "images/animals/baboon/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 238296,
+      "sha256": "b2bec98e7dcbd6583975523e35cf732901c20dd1c143192baec379a5a0308e87"
+    },
     {
       "key": "images/animals/bear/illustration",
       "kind": "IMAGE",
