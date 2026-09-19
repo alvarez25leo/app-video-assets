@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T20:30:24+00:00",
+  "generatedAt": "2026-09-19T20:34:09+00:00",
   "assets": [
     {
       "key": "images/animals/bear/illustration",
@@ -418,6 +418,22 @@
       "sha256": "7e569abbb39b346a7188d4ac21a2b407e175f6830d8a9b5e35f4bb1c86865a77"
     },
     {
+      "key": "images/animals/quail/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 147412,
+      "sha256": "8fd02351486783e7580a7dbf102d857ea610a1d331026afc264e1002aadf9987"
+    },
+    {
       "key": "images/animals/rabbit/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -528,6 +544,22 @@
       "height": 1024,
       "bytes": 253276,
       "sha256": "bb0780a6e5569e9afd8a1c5aa96fbc0db34d95a04c7667acd84278a5598e6368"
+    },
+    {
+      "key": "images/animals/turkey/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 209882,
+      "sha256": "9d6eda98a03c3096112cf8439c47c64d48117a8cc02dd0cfe9e9627d999c39e8"
     },
     {
       "key": "images/animals/turtle/illustration",
