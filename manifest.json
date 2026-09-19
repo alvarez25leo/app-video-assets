@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T23:04:00+00:00",
+  "generatedAt": "2026-09-19T23:16:45+00:00",
   "assets": [
     {
       "key": "images/animals/antelope/illustration",
@@ -1314,6 +1314,22 @@
       "sha256": "cb6d425f3c4ebda7ca6d6c289d44837ca203d8cc82d1e2672fa1e8b507133435"
     },
     {
+      "key": "images/animals/magpie/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 151820,
+      "sha256": "437256d302bd2d75930e1e2b76196fd5a0289e333f4989796a197f250beb5235"
+    },
+    {
       "key": "images/animals/marmoset/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -1362,6 +1378,38 @@
       "sha256": "769c06bbb337f504334cfcc0d30c03db02ef8ce62fd9555968bcf5bae3bbc6f8"
     },
     {
+      "key": "images/animals/merlin/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 171046,
+      "sha256": "47c5f618ec9c3b08047b0fa5c689eedf35e08d2005e147eb639eb9d7807aa288"
+    },
+    {
+      "key": "images/animals/mole/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 248824,
+      "sha256": "05107bbf66966473f30b98fdb4cb85e969adb72812f30c8596dc199b2b8d335f"
+    },
+    {
       "key": "images/animals/monkey/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -1392,6 +1440,22 @@
       "height": 1024,
       "bytes": 173546,
       "sha256": "e2bb0f29e7ec4c7f0c75241b99c5022eeb531dfac290387f8ee7d383bd7ecc52"
+    },
+    {
+      "key": "images/animals/mouse/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 215818,
+      "sha256": "0fe03b940e8adae62e657143abfb22ebcb1bd86dc2eb549e1e8981a0b84df3a2"
     },
     {
       "key": "images/animals/nightingale/illustration",
@@ -1602,6 +1666,22 @@
       "sha256": "7e569abbb39b346a7188d4ac21a2b407e175f6830d8a9b5e35f4bb1c86865a77"
     },
     {
+      "key": "images/animals/pigeon/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 107772,
+      "sha256": "74c9d65ff7e6576328fb5918fc98bc075a3cf352163ac865533925bc45e4a921"
+    },
+    {
       "key": "images/animals/porcupine/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -1616,6 +1696,22 @@
       "height": 1024,
       "bytes": 313714,
       "sha256": "bf860cdb2de7bec05605bde90205b71dffe10bdf9fc9d95d8ef3922e23e9b64b"
+    },
+    {
+      "key": "images/animals/prairie-dog/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 218856,
+      "sha256": "9c43d9bfba6af8b47059da877a6b7d01e6bb7816095d69e4e2f650392b713ac1"
     },
     {
       "key": "images/animals/ptarmigan/illustration",
@@ -1696,6 +1792,22 @@
       "height": 1024,
       "bytes": 240106,
       "sha256": "3c46fb5632c43c507e8c995117e99068c274cf175093dfcffda306fde5631e59"
+    },
+    {
+      "key": "images/animals/rattlesnake/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 203886,
+      "sha256": "a65e7902589da19da521b1c96d7eaa4aae407d52014788c965116b61c8cb83f7"
     },
     {
       "key": "images/animals/red-panda/illustration",
@@ -1904,6 +2016,22 @@
       "height": 1024,
       "bytes": 247710,
       "sha256": "27080979224d47769d7a7eb91ba03a046e99af4b6a1da061cbba5844fb77876d"
+    },
+    {
+      "key": "images/animals/sparrow/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 198126,
+      "sha256": "1971f93e91794cd9c9899be729654e88cd33eef9f0b1857529b91873cde7dc03"
     },
     {
       "key": "images/animals/starfish/illustration",
