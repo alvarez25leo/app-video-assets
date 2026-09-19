@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T21:38:41+00:00",
+  "generatedAt": "2026-09-19T21:43:19+00:00",
   "assets": [
     {
       "key": "images/animals/antelope/illustration",
@@ -1026,6 +1026,22 @@
       "sha256": "7e569abbb39b346a7188d4ac21a2b407e175f6830d8a9b5e35f4bb1c86865a77"
     },
     {
+      "key": "images/animals/porcupine/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 313714,
+      "sha256": "bf860cdb2de7bec05605bde90205b71dffe10bdf9fc9d95d8ef3922e23e9b64b"
+    },
+    {
       "key": "images/animals/python/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -1074,6 +1090,22 @@
       "sha256": "ddabd13a9bcdc0b7f30ce469b49e9cf9b11f454180cea1c8fdd7331312b8ef5c"
     },
     {
+      "key": "images/animals/raccoon/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 240106,
+      "sha256": "3c46fb5632c43c507e8c995117e99068c274cf175093dfcffda306fde5631e59"
+    },
+    {
       "key": "images/animals/rhino/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -1088,6 +1120,22 @@
       "height": 1024,
       "bytes": 201306,
       "sha256": "5033cafce38355965e7904ecfb5c941dfcf6f0b8139b27dbc3f622a76af004c1"
+    },
+    {
+      "key": "images/animals/robin/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 171326,
+      "sha256": "02f37ca63346d8c85fa42a4197773c8f2c9ed81acfb3b8741f2bd34d5419ca47"
     },
     {
       "key": "images/animals/rooster/illustration",
