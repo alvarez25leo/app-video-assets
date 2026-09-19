@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T21:13:15+00:00",
+  "generatedAt": "2026-09-19T21:21:34+00:00",
   "assets": [
     {
       "key": "images/animals/antelope/illustration",
@@ -50,6 +50,38 @@
       "sha256": "b2bec98e7dcbd6583975523e35cf732901c20dd1c143192baec379a5a0308e87"
     },
     {
+      "key": "images/animals/badger/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 223078,
+      "sha256": "097c0f75c4035747e3336e53462b472697bcd65a084de0fd37ec238871b0dcbf"
+    },
+    {
+      "key": "images/animals/bat/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 196806,
+      "sha256": "292b659a9888c5c116abd6d4814ba22c52cb29457ca964626c4d0cd2597f24c2"
+    },
+    {
       "key": "images/animals/bear/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -80,6 +112,38 @@
       "height": 1024,
       "bytes": 74156,
       "sha256": "ba1d475513c02b25ce043ae7f30c6bd29f818a3bdb821b9f58704060a82820ec"
+    },
+    {
+      "key": "images/animals/bison/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 195786,
+      "sha256": "89e6410c4364585bc53199b559b8d0e3701842beafd6824889e7c2fb111aa69d"
+    },
+    {
+      "key": "images/animals/blackbird/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 136334,
+      "sha256": "15879760605c25da3a6b09f36c41bd05be54fd4f84c599b3881f9c1e4e471c88"
     },
     {
       "key": "images/animals/buffalo/illustration",
@@ -128,6 +192,22 @@
       "height": 1024,
       "bytes": 172274,
       "sha256": "786668f3bb9a926b41d8006ccddfdd376b57e4ce320db4716379995f3cb23bdb"
+    },
+    {
+      "key": "images/animals/canary/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 137432,
+      "sha256": "2734f715dddcb35a500e5867a230156d5363ed19018c77452218f27fb4372c91"
     },
     {
       "key": "images/animals/capybara/illustration",
@@ -432,6 +512,22 @@
       "height": 1024,
       "bytes": 156412,
       "sha256": "f27db613b746ab5eacc6de3b663b13a768c0d876b9fb1c85f24949500a3183e6"
+    },
+    {
+      "key": "images/animals/guinea-pig/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 222478,
+      "sha256": "3dc6cd79748c546d8fe84f4939542ba8dbaeae11ce3d9f563b667ae05036f289"
     },
     {
       "key": "images/animals/guineafowl/illustration",
