@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T20:42:20+00:00",
+  "generatedAt": "2026-09-19T20:46:53+00:00",
   "assets": [
     {
       "key": "images/animals/antelope/illustration",
@@ -144,6 +144,22 @@
       "height": 1024,
       "bytes": 197694,
       "sha256": "96082f312d34b09236dff7c146904124dae6db2a82dd933bb0ada45a8b9a9a06"
+    },
+    {
+      "key": "images/animals/cheetah/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 204512,
+      "sha256": "62b461979787ed02abf80a0765d9fc935cc4e0e3d0a8cff22b40dbd15cbc49de"
     },
     {
       "key": "images/animals/chicken/illustration",
@@ -322,6 +338,22 @@
       "sha256": "36e7e50d479bd252b2d32761b36c165f5388e3bcb727a675cfb971e4d251efb2"
     },
     {
+      "key": "images/animals/gnu/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 171226,
+      "sha256": "db737dca6b59d96523834adf5746f55327a6ce286b928e8be427b77b24d471e2"
+    },
+    {
       "key": "images/animals/goat/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -368,6 +400,22 @@
       "height": 1024,
       "bytes": 75460,
       "sha256": "d1e069b5355efb6874c177e7862e9b313d1e0e741f1c2907366ee56d36d7d55e"
+    },
+    {
+      "key": "images/animals/goshawk/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 156412,
+      "sha256": "f27db613b746ab5eacc6de3b663b13a768c0d876b9fb1c85f24949500a3183e6"
     },
     {
       "key": "images/animals/guineafowl/illustration",
