@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T21:09:11+00:00",
+  "generatedAt": "2026-09-19T21:13:15+00:00",
   "assets": [
     {
       "key": "images/animals/antelope/illustration",
@@ -834,6 +834,38 @@
       "sha256": "e63f38a8fb6ef01fc02150ae03481d259fe5d235d5c72ebfb60fef46beed4194"
     },
     {
+      "key": "images/animals/sea-lion/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 162566,
+      "sha256": "c011705dcc9530946ced0827b376dcd1b0f4fabc79d86876dab9c62b9cf5de7f"
+    },
+    {
+      "key": "images/animals/seagull/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 96810,
+      "sha256": "1e10db6871ff29abed7aab6aa326181a3730859daeda4e893c03df1fa06ae87a"
+    },
+    {
       "key": "images/animals/seal/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -944,6 +976,22 @@
       "height": 1024,
       "bytes": 147682,
       "sha256": "53df91b24e264f0a984bf6265a77b731c1f643be75bd5609a56a449b10537d87"
+    },
+    {
+      "key": "images/animals/walrus/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 136776,
+      "sha256": "78afaefa140303584dd6fd7de5c37994b4549467f522dd307a91374a4369a5f7"
     },
     {
       "key": "images/animals/whale/illustration",
