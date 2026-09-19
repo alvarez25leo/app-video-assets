@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T22:00:20+00:00",
+  "generatedAt": "2026-09-19T22:08:56+00:00",
   "assets": [
     {
       "key": "images/animals/antelope/illustration",
@@ -690,6 +690,22 @@
       "sha256": "d1e069b5355efb6874c177e7862e9b313d1e0e741f1c2907366ee56d36d7d55e"
     },
     {
+      "key": "images/animals/gorilla/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 228786,
+      "sha256": "2f2e08d0d13d4e0dbc93e7eb34e73da5bc7521663bc43a7ff06daee7ddf32c8b"
+    },
+    {
       "key": "images/animals/goshawk/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -866,6 +882,22 @@
       "sha256": "e1399b888735130ebcf55303f3651e1b27101f696ed208d7cc4f13ca56df27e3"
     },
     {
+      "key": "images/animals/jaguar/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 230776,
+      "sha256": "62dc0684319d33d53d73fe177b1ef17d1795ee9959def03249b07183eeb454cb"
+    },
+    {
       "key": "images/animals/kangaroo/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -896,6 +928,22 @@
       "height": 1024,
       "bytes": 87476,
       "sha256": "a87a69bc452c547d8814f3fadebfadee2b151b251920231399096e5526bead0c"
+    },
+    {
+      "key": "images/animals/koala/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 288252,
+      "sha256": "ade4e54743c93aa1e29b38667c1de946e43a77ec4d316445a7a98e37c8b650b1"
     },
     {
       "key": "images/animals/kookaburra/illustration",
@@ -944,6 +992,22 @@
       "height": 1024,
       "bytes": 131038,
       "sha256": "a3d078f3de1cdb57eee0a2de834be70846e008c71dbb737610cf2337e3cc9dc7"
+    },
+    {
+      "key": "images/animals/marmoset/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 311160,
+      "sha256": "3d5ad568667a9194b9f39ecd29c3322cfba95b50e622d5d0475c6506656130be"
     },
     {
       "key": "images/animals/meerkat/illustration",
@@ -1024,6 +1088,38 @@
       "height": 1024,
       "bytes": 189404,
       "sha256": "ae44360251c7c8d490f6dc161eb1249dc1c79581eafb68afd0ad4373a37c7cda"
+    },
+    {
+      "key": "images/animals/okapi/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 136728,
+      "sha256": "bd2378ec0f0b0129bb5ab1352325ed2fed44d20c7f28aa633d5a79c4af7ebbde"
+    },
+    {
+      "key": "images/animals/orangutan/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 255208,
+      "sha256": "475782407e3f3965a0588e7ab99ca3eb394a10db6e299cc5c4601687318a4b88"
     },
     {
       "key": "images/animals/ostrich/illustration",
