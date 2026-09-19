@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T21:43:19+00:00",
+  "generatedAt": "2026-09-19T21:49:23+00:00",
   "assets": [
     {
       "key": "images/animals/antelope/illustration",
@@ -1138,6 +1138,22 @@
       "sha256": "02f37ca63346d8c85fa42a4197773c8f2c9ed81acfb3b8741f2bd34d5419ca47"
     },
     {
+      "key": "images/animals/roe-deer/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 152462,
+      "sha256": "919c5101d61cb735575823c020c3e340c070a57dbfeef9d6a5439c2304b7d130"
+    },
+    {
       "key": "images/animals/rooster/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -1248,6 +1264,22 @@
       "height": 1024,
       "bytes": 127324,
       "sha256": "0c5bf65b49a248b28c2d3012e98e2ecf1e0d9879ea32ea0a56fbcccf76c8bdea"
+    },
+    {
+      "key": "images/animals/tawny-frogmouth/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 291492,
+      "sha256": "1c49820c414f8c964e8d9f37740301ce28e356d9e935b60aaf8de593c3b878be"
     },
     {
       "key": "images/animals/tiger/illustration",
