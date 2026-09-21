@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T14:19:37+00:00",
+  "generatedAt": "2026-09-21T14:51:45+00:00",
   "assets": [
     {
       "key": "images/animals/ankylosaurus/illustration",
@@ -3906,6 +3906,22 @@
       "sha256": "2ce5e7b319565d755e2075745b4aec1dacd33be3fd1646df386e9f57d9dd4d7a"
     },
     {
+      "key": "images/plants/apple-tree/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 194730,
+      "sha256": "29bd9ca268b63d4bb487b651fbd1aea540c4a4e3130f3304ce6a79c12f11399f"
+    },
+    {
       "key": "images/plants/bamboo/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -4352,6 +4368,374 @@
       "height": 1024,
       "bytes": 170232,
       "sha256": "18ac666aa7488e97791aa09fa2e8cee3a4658d5f1265f1b3457dd1048533641e"
+    },
+    {
+      "key": "images/professions/agronomist/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 122082,
+      "sha256": "12f2baec90e3fd21fab9c2259b443b3f9788e311e38b32d1f3d95e4754c5a4f9"
+    },
+    {
+      "key": "images/professions/architect/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 123126,
+      "sha256": "95c20e68a908fd8066600bf5c6c52ac74c099fc2a1d7809a0a5caf5343134f61"
+    },
+    {
+      "key": "images/professions/baker/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 100424,
+      "sha256": "9dbe3fa5332dbd8275d6705f33f13efd3c38a05bcc0e09c2571bd87772c7ea78"
+    },
+    {
+      "key": "images/professions/beekeeper/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 182704,
+      "sha256": "746639691cad74b8d6273e9925ce48242b6b7cd1a271c6215ff0e40862e7c582"
+    },
+    {
+      "key": "images/professions/builder/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 116424,
+      "sha256": "666a46e2ec2430140c3224576966f1a20306d64a60976686f88effb6b0881126"
+    },
+    {
+      "key": "images/professions/carpenter/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 122632,
+      "sha256": "e8bdb072ed579cfa5cb61c8aa614bf0a4b4656b172ca5c6ec2dd7b977e51e4df"
+    },
+    {
+      "key": "images/professions/chef/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 95442,
+      "sha256": "ce66ef62c2201ff17a765d3e580cd3b503c18fc00e5be2cfd2d360a93338c18e"
+    },
+    {
+      "key": "images/professions/dentist/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 103778,
+      "sha256": "8f53c19e09ebce92a9526ba7a54fd9f5eef5025628d6cb0b5a0ff38789bfa607"
+    },
+    {
+      "key": "images/professions/doctor/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 103218,
+      "sha256": "4a06e0c0285011750eb33ac2d50121340d92b113d1f39145be436dafcd99383a"
+    },
+    {
+      "key": "images/professions/electrician/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 91188,
+      "sha256": "36b55beb00a4f609e5d06d05e67407833d476bc11e5ff0e54b5e1a211b1dc3da"
+    },
+    {
+      "key": "images/professions/engineer/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 86308,
+      "sha256": "eb9c80d55fc6c325a4c3512acf33f4bc95e4fd4abe9d8667d1153a4240be6e11"
+    },
+    {
+      "key": "images/professions/farmer/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 157986,
+      "sha256": "1f29d3e528850464f8487bfe461603b2e11e6cb044949e75589d668ae1eacd54"
+    },
+    {
+      "key": "images/professions/firefighter/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 114562,
+      "sha256": "5b5217d9161121bd1516d9e73935140dd7209dea227822e122bb94faf0cd2e11"
+    },
+    {
+      "key": "images/professions/fisher/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 160526,
+      "sha256": "39a548f666c875152f592832fccb08b14a3c6faa818895720077ad8c1470685f"
+    },
+    {
+      "key": "images/professions/lifeguard/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 99968,
+      "sha256": "41dbafa0def1e5896278b1079610a5bc1703b5e1405c914db2696d6c6158e9f7"
+    },
+    {
+      "key": "images/professions/mechanic/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 111506,
+      "sha256": "ba197e520dbbafe7ac0ba35770da6eb54fce9b04cbc3289f36952e8e1ea51957"
+    },
+    {
+      "key": "images/professions/nurse/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 95986,
+      "sha256": "8373ec92e07eeb63ed10ec402cf213e0b2671acc050f0539128e75153947607b"
+    },
+    {
+      "key": "images/professions/plumber/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 135988,
+      "sha256": "98b1df6b4d1581fc39e16e48f84279e6eafabc77964d81215e18c349cb9b62c4"
+    },
+    {
+      "key": "images/professions/police/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 88994,
+      "sha256": "34c6b2c46ef7cfda282c9f99fa1f0945c9382fc9fbf96b813ae71ab2ba599e47"
+    },
+    {
+      "key": "images/professions/programmer/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 109766,
+      "sha256": "df52e37a6006ffbb7531eede4fb1e29f2956d38e30dbfa91f5dd38b7aa3c41ee"
+    },
+    {
+      "key": "images/professions/rancher/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 161896,
+      "sha256": "ff6ef435bf743db33990e19a33a5ec01d521c5aae04bbb525fcd2976af848562"
+    },
+    {
+      "key": "images/professions/teacher/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 100508,
+      "sha256": "6b37abad4e855c651a17a7e807e241ab3ea47564871b0600bd64095468c26683"
+    },
+    {
+      "key": "images/professions/vet/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 89416,
+      "sha256": "c2f4a006f1b87f2c5631b7197cd1f7f207ccc359f3c5f74503c2395e953103b1"
     },
     {
       "key": "audio/animals/ankylosaurus/fact.es",
