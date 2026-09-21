@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T13:42:28+00:00",
+  "generatedAt": "2026-09-21T13:47:08+00:00",
   "assets": [
     {
       "key": "images/animals/ankylosaurus/illustration",
@@ -3922,6 +3922,22 @@
       "sha256": "05a85a82a356dec5457e9c91cf888824f1819cc40a90671cb3bf6b4eaeb4a113"
     },
     {
+      "key": "images/plants/basil/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 188598,
+      "sha256": "5065cbbef73ddd95bedeec65153dd6985b193a3879d0f564b6f6a2bde04a9fd4"
+    },
+    {
       "key": "images/plants/cactus/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -3938,6 +3954,22 @@
       "sha256": "476ba5aa2f78c82ac70a31badfd00e6fb967c8e12b480224cc6b2b8be068a51c"
     },
     {
+      "key": "images/plants/cotton/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 227008,
+      "sha256": "84110151f832c5a38c7c9e18808ed504a0a2498df9d55aff8f59d3f6e09935c8"
+    },
+    {
       "key": "images/plants/fern/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -3952,6 +3984,22 @@
       "height": 1024,
       "bytes": 365388,
       "sha256": "cf2f1df36df3079c504c82b34d91ed038012e77abfe77e30d4d748bb9d756343"
+    },
+    {
+      "key": "images/plants/mint/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 254524,
+      "sha256": "fcd24919ab0a216c75fad5f1d3e7380d1ca0bfd1aa4975689c8291847c557456"
     },
     {
       "key": "images/plants/palm-tree/illustration",
