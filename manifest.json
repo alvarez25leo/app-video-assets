@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T14:00:55+00:00",
+  "generatedAt": "2026-09-21T14:19:37+00:00",
   "assets": [
     {
       "key": "images/animals/ankylosaurus/illustration",
@@ -3922,6 +3922,22 @@
       "sha256": "05a85a82a356dec5457e9c91cf888824f1819cc40a90671cb3bf6b4eaeb4a113"
     },
     {
+      "key": "images/plants/banana-plant/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 220226,
+      "sha256": "04182387b0722f5884bef1425f9d41a995032aa8fcb841c4046a4f5954090767"
+    },
+    {
       "key": "images/plants/basil/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -3936,6 +3952,38 @@
       "height": 1024,
       "bytes": 188598,
       "sha256": "5065cbbef73ddd95bedeec65153dd6985b193a3879d0f564b6f6a2bde04a9fd4"
+    },
+    {
+      "key": "images/plants/bean/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 149792,
+      "sha256": "43d980b18d475850c7030bf0f614097b53a4620dae76d19bc869468fa277e84c"
+    },
+    {
+      "key": "images/plants/cacao-tree/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 216094,
+      "sha256": "1865e242f965c0d4060dac8cd5d60681f90b2d8222dc12e6d396315370c3e10c"
     },
     {
       "key": "images/plants/cactus/illustration",
@@ -3986,6 +4034,22 @@
       "sha256": "08cfad24faa79e3d3aaba2978ae618bd6c02542dc0cfb3df5fa347c43a337b75"
     },
     {
+      "key": "images/plants/coffee-plant/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 226876,
+      "sha256": "5d42d3438a685f41d1aefb99b6c93cf0baf4dacf9f44e21d21d652855fe600ec"
+    },
+    {
       "key": "images/plants/corn/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -4034,6 +4098,54 @@
       "sha256": "cf2f1df36df3079c504c82b34d91ed038012e77abfe77e30d4d748bb9d756343"
     },
     {
+      "key": "images/plants/grapevine/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 257332,
+      "sha256": "7fab9b435c0a353ca6e6079aec800a09a168791c2ba2a38e3cfc8c40ac11c55e"
+    },
+    {
+      "key": "images/plants/lemon-tree/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 183126,
+      "sha256": "916dccee07c81fbcd114fb3157417990e5b8be759e744031028f7dfb41ff992e"
+    },
+    {
+      "key": "images/plants/lettuce/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 186028,
+      "sha256": "2d9da17491c9a6ebd52ebeed6a608b142d7d5535bcac6af10200c3221d2f4959"
+    },
+    {
       "key": "images/plants/mint/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -4048,6 +4160,22 @@
       "height": 1024,
       "bytes": 254524,
       "sha256": "fcd24919ab0a216c75fad5f1d3e7380d1ca0bfd1aa4975689c8291847c557456"
+    },
+    {
+      "key": "images/plants/orange-tree/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 177708,
+      "sha256": "d4990703d0abe50c1729ca4b51b280a4339793fbe5cfdbb56cfe907d5057aec8"
     },
     {
       "key": "images/plants/palm-tree/illustration",
@@ -4066,6 +4194,38 @@
       "sha256": "268d7a0ba1567382ab670081f406849ea6815d979f0cd4f6e6be935f13915cd1"
     },
     {
+      "key": "images/plants/papaya-tree/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 198380,
+      "sha256": "93f55c2a3fa18b4725489a29aee3742a7ac830fdbfc87330b81cdd345a399c2b"
+    },
+    {
+      "key": "images/plants/pineapple-plant/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 229632,
+      "sha256": "cb1ade2799327fca6b4514897083764a353eefe9bd94adc974f3641b85e516d4"
+    },
+    {
       "key": "images/plants/potato/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -4080,6 +4240,22 @@
       "height": 1024,
       "bytes": 243952,
       "sha256": "c1f22439952493b072bff46a110460b660e3b37bd1124671af6cf64f928d991d"
+    },
+    {
+      "key": "images/plants/pumpkin/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 117070,
+      "sha256": "48556eaf433c4d08e5ed6c3beae3523baf25c4b0892579ef59c4cd4ccfef6966"
     },
     {
       "key": "images/plants/rice/illustration",
@@ -4128,6 +4304,22 @@
       "height": 1024,
       "bytes": 215412,
       "sha256": "e9f772b1bb09651d2d8d4b6b02e06a6bb0705148a31dfdd3bef623b006b25403"
+    },
+    {
+      "key": "images/plants/strawberry-plant/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 222300,
+      "sha256": "3b18ad7031557e46f97d928290dcaa050ad6fdaa6478430daf7121618adaeedf"
     },
     {
       "key": "images/plants/tomato/illustration",
