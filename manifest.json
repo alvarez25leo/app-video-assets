@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T13:19:14+00:00",
+  "generatedAt": "2026-09-21T13:32:34+00:00",
   "assets": [
     {
       "key": "images/animals/ankylosaurus/illustration",
@@ -3090,6 +3090,22 @@
       "sha256": "69c572b19be3c1daa966348d6ccc54f2d171a9f9afc28cfb1ba83bf9740f8df1"
     },
     {
+      "key": "images/flowers/bougainvillea/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 207884,
+      "sha256": "454577092fafefef5cf32b7340cf7bf5ebd7e218fe2e637fada094b9c9d6ae68"
+    },
+    {
       "key": "images/flowers/carnation/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -3170,6 +3186,22 @@
       "sha256": "da0b254160b93ff5beef566b9216d47553e958275dc77636b29a15869e519f11"
     },
     {
+      "key": "images/flowers/hibiscus/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 198226,
+      "sha256": "9996db90086810afe34c1afa251ef4922bbe024ad38d82292a613dedb1c18694"
+    },
+    {
       "key": "images/flowers/hydrangea/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -3184,6 +3216,102 @@
       "height": 1024,
       "bytes": 202460,
       "sha256": "a953e74d5bf5d943b4ec7159426d1ba92f4ff928c6a3ee72a3e5aea6b98fc641"
+    },
+    {
+      "key": "images/flowers/iris/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 156618,
+      "sha256": "2e0fbb3f3c5b514918178aeba395378c63af7be77cf68ad6d57dfdc251b4b777"
+    },
+    {
+      "key": "images/flowers/jasmine/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 187484,
+      "sha256": "586272d717ccac1eead335dc8573ea5c7eb7113366da24e4b603fcdfd465a385"
+    },
+    {
+      "key": "images/flowers/lavender/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 130564,
+      "sha256": "189d9b59e7895697a4674c12506f3b58c625dad2b7baa9ab31bbd1ee94be4ffb"
+    },
+    {
+      "key": "images/flowers/lotus/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 132418,
+      "sha256": "facd5ad7d6083dfbaf0f02b56afedb206e83ea0362f8391d5fc13259c68edcdc"
+    },
+    {
+      "key": "images/flowers/orchid/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 219784,
+      "sha256": "2d2265ae5bc78440ca13ca965d1067e31f247600f8b1444fab2c3cff2bdd68bf"
+    },
+    {
+      "key": "images/flowers/poppy/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 250956,
+      "sha256": "0574fbb321c7565b1ee45604f8a60df08fbcb0a9dce9dd5f56636a74182d5ac4"
     },
     {
       "key": "images/flowers/rose/illustration",
@@ -3248,6 +3376,22 @@
       "height": 1024,
       "bytes": 175082,
       "sha256": "3be6af51637789379ce287d6689061783dd4a77524ea93796bb14e56a9877ba1"
+    },
+    {
+      "key": "images/flowers/white-lily/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 146972,
+      "sha256": "e3c79398ed066e0bc6d66b877eb6c11e67d84d6b341574e0a1763141a63b6ef4"
     },
     {
       "key": "images/fruits/apple/illustration",
