@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T03:49:08+00:00",
+  "generatedAt": "2026-09-21T13:19:14+00:00",
   "assets": [
     {
       "key": "images/animals/ankylosaurus/illustration",
@@ -3088,6 +3088,166 @@
       "height": 683,
       "bytes": 98312,
       "sha256": "69c572b19be3c1daa966348d6ccc54f2d171a9f9afc28cfb1ba83bf9740f8df1"
+    },
+    {
+      "key": "images/flowers/carnation/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 136778,
+      "sha256": "63186f58e7021f01f1e5ff0c32a2f264c4815a469fadbc710abab85e931e60c8"
+    },
+    {
+      "key": "images/flowers/chrysanthemum/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 208248,
+      "sha256": "868bd5b330b727014f7ec860e693386281c1477d1efab7e97b06ae273947e45f"
+    },
+    {
+      "key": "images/flowers/dahlia/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 213046,
+      "sha256": "2e08c48a7bfd264fb6d20b388b5618d607a1831b984c13bf65f88c6324599586"
+    },
+    {
+      "key": "images/flowers/daisy/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 127516,
+      "sha256": "76e0851c19800f87d6126adbe11e8de7ff14c24dc5807df98203b9a46a1067b0"
+    },
+    {
+      "key": "images/flowers/geranium/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 210852,
+      "sha256": "da0b254160b93ff5beef566b9216d47553e958275dc77636b29a15869e519f11"
+    },
+    {
+      "key": "images/flowers/hydrangea/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 202460,
+      "sha256": "a953e74d5bf5d943b4ec7159426d1ba92f4ff928c6a3ee72a3e5aea6b98fc641"
+    },
+    {
+      "key": "images/flowers/rose/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 114244,
+      "sha256": "970f1d43e68d53be428ea73924c017b1244410288c1e09c61551f5f0917b7ff9"
+    },
+    {
+      "key": "images/flowers/sunflower/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 152002,
+      "sha256": "52d40b566f461ed51746f8b163c8024e601a10cc9df852480734637789d1d188"
+    },
+    {
+      "key": "images/flowers/tulip/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 90028,
+      "sha256": "cb29c0627395cd010fd8d83635501e0af6625114b39842f6350ca0d5558431f9"
+    },
+    {
+      "key": "images/flowers/violet/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 175082,
+      "sha256": "3be6af51637789379ce287d6689061783dd4a77524ea93796bb14e56a9877ba1"
     },
     {
       "key": "images/fruits/apple/illustration",

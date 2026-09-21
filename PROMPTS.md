@@ -1186,6 +1186,8 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 Crea una imagen de un perezoso.
 
 Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+
+IMPORTANTE: diseño de personaje 100 % original. No debe parecerse a ningún personaje conocido de películas, series, videojuegos, libros ni marcas (ni en la forma, ni en los colores característicos, ni en la expresión). Solo debe reconocerse como el animal u objeto descrito.
 ```
 
 #### Tapir · `animals/tapir`
@@ -1689,6 +1691,8 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 Crea una imagen de una abeja.
 
 Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+
+IMPORTANTE: diseño de personaje 100 % original. No debe parecerse a ningún personaje conocido de películas, series, videojuegos, libros ni marcas (ni en la forma, ni en los colores característicos, ni en la expresión). Solo debe reconocerse como el animal u objeto descrito.
 ```
 
 #### Escarabajo · `animals/beetle`
@@ -2172,9 +2176,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una rosa.
+Crea una imagen de una rosa roja con pétalos aterciopelados en capas y un tallo verde corto con una hoja.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Girasol · `flowers/sunflower`
@@ -2183,9 +2187,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un girasol.
+Crea una imagen de un girasol grande con pétalos amarillos brillantes alrededor de un centro marrón redondo.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Tulipán · `flowers/tulip`
@@ -2194,9 +2198,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un tulipán.
+Crea una imagen de un tulipán rosado con pétalos en forma de copa cerrada y hojas verdes largas.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Margarita · `flowers/daisy`
@@ -2205,9 +2209,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una margarita.
+Crea una imagen de una margarita blanca con pétalos delgados alrededor de un centro amarillo redondo.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Clavel · `flowers/carnation`
@@ -2216,9 +2220,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un clavel.
+Crea una imagen de un clavel rojo con pétalos rizados y ondulados en capas.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Violeta · `flowers/violet`
@@ -2227,9 +2231,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una violeta.
+Crea una imagen de una violeta morada pequeña con cinco pétalos redondeados y hojas verdes en forma de corazón.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Geranio · `flowers/geranium`
@@ -2238,9 +2242,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un geranio.
+Crea una imagen de un geranio con un racimo redondo de florecitas rosa fucsia y hojas verdes redondeadas.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Dalia · `flowers/dahlia`
@@ -2249,9 +2253,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una dalia.
+Crea una imagen de una dalia naranja con muchos pétalos puntiagudos dispuestos en capas simétricas.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Hortensia · `flowers/hydrangea`
@@ -2260,9 +2264,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una hortensia.
+Crea una imagen de una hortensia con un racimo grande y redondo de florecitas azules y moradas.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Crisantemo · `flowers/chrysanthemum`
@@ -2271,9 +2275,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un crisantemo.
+Crea una imagen de un crisantemo amarillo con pétalos delgados, curvos y muy abundantes.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 ### Flores del mundo (10)
@@ -2284,9 +2288,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una orquídea.
+Crea una imagen de una orquídea blanca y morada con pétalos grandes y un labelo curvo característico.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Lirio · `flowers/iris`
@@ -2295,9 +2299,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un lirio.
+Crea una imagen de un lirio morado con pétalos altos y ondulados y una franja amarilla en el centro.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Lavanda · `flowers/lavender`
@@ -2306,9 +2310,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una lavanda.
+Crea una imagen de una ramita de lavanda con florecitas moradas pequeñas alineadas en una espiga y hojas verde grisáceas.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Jazmín · `flowers/jasmine`
@@ -2317,9 +2321,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un jazmín.
+Crea una imagen de una ramita de jazmín con florecitas blancas pequeñas en forma de estrella y hojas verde oscuro.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Hibisco · `flowers/hibiscus`
@@ -2328,9 +2332,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un hibisco.
+Crea una imagen de un hibisco rojo grande con cinco pétalos abiertos y un pistilo largo y amarillo que sobresale.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Amapola · `flowers/poppy`
@@ -2339,9 +2343,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una amapola.
+Crea una imagen de una amapola roja con pétalos delgados como de papel y un centro negro.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Azucena · `flowers/white-lily`
@@ -2350,9 +2354,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una azucena.
+Crea una imagen de una azucena blanca con pétalos grandes en forma de trompeta y estambres dorados.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Bugambilia · `flowers/bougainvillea`
@@ -2361,9 +2365,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una bugambilia.
+Crea una imagen de una ramita de bugambilia con brácteas moradas fucsia en forma de papel alrededor de florecitas blancas diminutas.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Flor de loto · `flowers/lotus`
@@ -2372,9 +2376,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una flor de loto.
+Crea una imagen de una flor de loto rosada con pétalos grandes en forma de copa abierta sobre una hoja redonda.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Campanilla · `flowers/bellflower`
@@ -2383,9 +2387,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una campanilla.
+Crea una imagen de una campanilla azul con pétalos unidos en forma de campana colgante y tallo delgado.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 ### Plantas curiosas (6)
@@ -2396,9 +2400,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un cactus.
+Crea una imagen de un cactus redondo verde con espinitas suaves y una florecita rosada en la punta.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Sábila · `plants/aloe`
@@ -2407,9 +2411,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una sábila.
+Crea una imagen de una planta de sábila con hojas gruesas y puntiagudas de color verde azulado y bordes dentados suaves.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Helecho · `plants/fern`
@@ -2418,9 +2422,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un helecho.
+Crea una imagen de un helecho con hojas verdes largas y muy divididas en forma de pluma.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Bambú · `plants/bamboo`
@@ -2429,9 +2433,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un bambú.
+Crea una imagen de unos tallos de bambú verdes con segmentos marcados y hojas alargadas en la punta.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Palmera · `plants/palm-tree`
@@ -2440,9 +2444,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una palmera.
+Crea una imagen de una palmera pequeña con tronco delgado marrón y hojas verdes grandes en abanico en la copa.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Algodón · `plants/cotton`
@@ -2451,9 +2455,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un algodón.
+Crea una imagen de una planta de algodón con capullos blancos y esponjosos abriéndose entre hojas verdes.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 ### Hierbas que huelen rico (5)
@@ -2464,9 +2468,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una menta.
+Crea una imagen de una ramita de menta con hojas verdes ovaladas y bordes dentados.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Albahaca · `plants/basil`
@@ -2475,9 +2479,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una albahaca.
+Crea una imagen de una ramita de albahaca con hojas verdes brillantes, ovaladas y redondeadas.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Romero · `plants/rosemary`
@@ -2486,9 +2490,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un romero.
+Crea una imagen de una ramita de romero con hojas verdes finas como agujitas y florecitas azules pequeñas.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Manzanilla · `plants/chamomile`
@@ -2497,9 +2501,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una manzanilla.
+Crea una imagen de una ramita de manzanilla con florecitas blancas pequeñas de centro amarillo y hojas finas y plumosas.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Hierbabuena · `plants/spearmint`
@@ -2508,9 +2512,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una hierbabuena.
+Crea una imagen de una ramita de hierbabuena con hojas verdes puntiagudas y bordes dentados.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 ### Del huerto (9)
@@ -2521,9 +2525,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un maíz.
+Crea una imagen de una mazorca de maíz amarilla envuelta en hojas verdes con las barbas doradas asomando en la punta.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Trigo · `plants/wheat`
@@ -2532,9 +2536,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un trigo.
+Crea una imagen de una espiga de trigo dorada con los granos alineados y una barbita fina en la punta, con tallo verde.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Arroz · `plants/rice`
@@ -2543,9 +2547,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un arroz.
+Crea una imagen de una espiga de arroz con granos pequeños agrupados colgando y tallo verde delgado.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Papa · `plants/potato`
@@ -2554,9 +2558,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una papa.
+Crea una imagen de una papa marrón ovalada con hojitas verdes brotando y algunas raicitas pequeñas.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Tomate · `plants/tomato`
@@ -2565,9 +2569,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un tomate.
+Crea una imagen de una planta de tomate con un tomate rojo redondo colgando entre hojas verdes y una rama fina.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Zanahoria · `plants/carrot`
@@ -2576,9 +2580,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una zanahoria.
+Crea una imagen de una zanahoria naranja con la punta afilada y un manojo de hojas verdes plumosas arriba.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Lechuga · `plants/lettuce`
@@ -2587,9 +2591,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una lechuga.
+Crea una imagen de una lechuga con hojas verdes onduladas y crujientes formando una cabeza redonda.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Calabaza · `plants/pumpkin`
@@ -2598,9 +2602,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una calabaza.
+Crea una imagen de una calabaza naranja redonda con surcos marcados y un tallo verde curvo arriba.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Frijol · `plants/bean`
@@ -2609,9 +2613,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un frijol.
+Crea una imagen de una vaina de frijol verde alargada con los frijolitos marcados adentro y una hoja verde.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 ### Árboles y plantas frutales (10)
@@ -2622,9 +2626,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una planta de fresa.
+Crea una imagen de una planta de fresa con una fresa roja colgando, hojas verdes dentadas y una florecita blanca.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Planta de café · `plants/coffee-plant`
@@ -2633,9 +2637,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una planta de café.
+Crea una imagen de una ramita de planta de café con granos rojos brillantes en racimo y hojas verde oscuro brillantes.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Árbol de cacao · `plants/cacao-tree`
@@ -2644,9 +2648,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un árbol de cacao.
+Crea una imagen de una ramita de árbol de cacao con una mazorca de cacao amarilla y alargada colgando entre hojas verdes grandes.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Planta de uva · `plants/grapevine`
@@ -2655,9 +2659,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una planta de uva.
+Crea una imagen de una ramita de vid con un racimo de uvas moradas colgando entre hojas verdes y zarcillos enroscados.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Planta de piña · `plants/pineapple-plant`
@@ -2666,9 +2670,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una planta de piña.
+Crea una imagen de una planta de piña con una piña amarilla y marrón en el centro de una roseta de hojas verdes puntiagudas.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Platanera · `plants/banana-plant`
@@ -2677,9 +2681,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una platanera.
+Crea una imagen de una platanera con un racimo de plátanos amarillos colgando entre hojas verdes anchas.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Árbol de papaya · `plants/papaya-tree`
@@ -2688,9 +2692,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un árbol de papaya.
+Crea una imagen de una ramita de árbol de papaya con una papaya naranja colgando y hojas verdes grandes en forma de estrella.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Naranjo · `plants/orange-tree`
@@ -2699,9 +2703,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un naranjo.
+Crea una imagen de una ramita de naranjo con una naranja colgando entre hojas verde oscuro brillantes.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Limonero · `plants/lemon-tree`
@@ -2710,9 +2714,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un limonero.
+Crea una imagen de una ramita de limonero con un limón amarillo colgando entre hojas verdes brillantes.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Manzano · `plants/apple-tree`
@@ -2721,9 +2725,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un manzano.
+Crea una imagen de una ramita de manzano con una manzana roja colgando entre hojas verdes y una pequeña flor blanca.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil, tierna y colorida, con el mismo acabado brillante y redondeado que el resto de la colección, pero SIN CARA: es una planta o una flor, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar, y tampoco brazos ni piernas. Debe verse como la planta o flor real, simplificada y con colores vivos y saturados, pétalos y hojas suaves y redondeadas, como una ilustración de libro infantil. Un solo sujeto completo, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin maceta, sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 ### Nos cuidan (8)
@@ -3298,9 +3302,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje pr
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un auto.
+Crea una imagen de un auto familiar compacto rojo brillante con techo blanco, faros redondos y ruedas grandes con rines plateados.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Taxi · `vehicles/taxi`
@@ -3309,9 +3313,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un taxi.
+Crea una imagen de un taxi amarillo con un cartel de taxi en el techo (sin texto), franjas a cuadros negras en la puerta y ruedas grandes.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Autobús · `vehicles/bus`
@@ -3320,9 +3324,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un autobús.
+Crea una imagen de un autobús urbano naranja con ventanas grandes en fila y ruedas negras robustas.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Camioneta · `vehicles/pickup`
@@ -3331,9 +3335,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una camioneta.
+Crea una imagen de una camioneta pickup azul con cabina y caja de carga descubierta atrás, ruedas grandes todoterreno.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Camión · `vehicles/truck`
@@ -3342,9 +3346,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un camión.
+Crea una imagen de un camión de carga verde con cabina redondeada y una caja rectangular tipo contenedor atrás.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Motocicleta · `vehicles/motorcycle`
@@ -3353,9 +3357,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una motocicleta.
+Crea una imagen de una motocicleta roja y negra con manubrio ancho, asiento acolchado y dos ruedas grandes con rines dorados.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Bicicleta · `vehicles/bicycle`
@@ -3364,9 +3368,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una bicicleta.
+Crea una imagen de una bicicleta infantil celeste con canasta delantera de mimbre y ruedas con rayos plateados.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Triciclo · `vehicles/tricycle`
@@ -3375,9 +3379,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un triciclo.
+Crea una imagen de un triciclo rojo de juguete con una rueda delantera grande, dos ruedas traseras pequeñas y borlas de colores en el manubrio.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Scooter · `vehicles/scooter`
@@ -3386,9 +3390,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un scooter.
+Crea una imagen de un scooter (patinete) verde de dos ruedas con manubrio en T y plataforma ancha.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 ### Ayudan y rescatan (5)
@@ -3399,9 +3403,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una ambulancia.
+Crea una imagen de una ambulancia blanca con una franja roja ondulada al costado y una luz giratoria roja apagada en el techo.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Camión de bomberos · `vehicles/fire-truck`
@@ -3410,9 +3414,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un camión de bomberos.
+Crea una imagen de un camión de bomberos rojo brillante con una escalera dorada plegada en el techo y una manguera enrollada al costado.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Patrulla de policía · `vehicles/police-car`
@@ -3421,9 +3425,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una patrulla de policía.
+Crea una imagen de una patrulla de policía blanca y negra a cuadros con una luz giratoria azul y roja apagada en el techo.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Camión de basura · `vehicles/garbage-truck`
@@ -3432,9 +3436,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un camión de basura.
+Crea una imagen de un camión de basura verde oscuro con una tolva trasera grande de compactador.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Grúa · `vehicles/tow-truck`
@@ -3443,9 +3447,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una grúa.
+Crea una imagen de una grúa amarilla con una plataforma inclinada y un gancho grande en la parte trasera.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 ### En la obra y el campo (6)
@@ -3456,9 +3460,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una excavadora.
+Crea una imagen de una excavadora amarilla con orugas negras y un brazo articulado terminado en una pala dentada.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Tractor · `vehicles/tractor`
@@ -3467,9 +3471,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un tractor.
+Crea una imagen de un tractor verde con ruedas traseras enormes de rines amarillos y ruedas delanteras pequeñas.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Volquete · `vehicles/dump-truck`
@@ -3478,9 +3482,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un volquete.
+Crea una imagen de un volquete naranja con una tolva trasera grande y basculante, cargada de tierra.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Mezcladora de cemento · `vehicles/cement-mixer`
@@ -3489,9 +3493,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una mezcladora de cemento.
+Crea una imagen de una mezcladora de cemento amarilla con un tambor rayado girando en la parte trasera.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Apisonadora · `vehicles/road-roller`
@@ -3500,9 +3504,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una apisonadora.
+Crea una imagen de una apisonadora naranja con un rodillo cilíndrico metálico grande adelante.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Montacargas · `vehicles/forklift`
@@ -3511,9 +3515,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un montacargas.
+Crea una imagen de un montacargas amarillo con dos horquillas metálicas adelante sosteniendo una tarima de cajas.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 ### Sobre rieles (3)
@@ -3524,9 +3528,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un tren.
+Crea una imagen de una locomotora de tren azul y amarilla con chimenea redondeada y ruedas metálicas sobre rieles.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Metro · `vehicles/subway`
@@ -3535,9 +3539,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un metro.
+Crea una imagen de un vagón de metro plateado y azul con puertas anchas y ventanas grandes en fila.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Tranvía · `vehicles/tram`
@@ -3546,9 +3550,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un tranvía.
+Crea una imagen de un tranvía verde y blanco con ventanas panorámicas redondeadas y una pequeña antena en el techo.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 ### En el aire (5)
@@ -3559,9 +3563,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un avión.
+Crea una imagen de un avión comercial blanco con alas y cola azules y una franja celeste a lo largo del fuselaje.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Helicóptero · `vehicles/helicopter`
@@ -3570,9 +3574,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un helicóptero.
+Crea una imagen de un helicóptero rojo y blanco con una hélice principal grande arriba y una cola delgada con hélice pequeña.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Avioneta · `vehicles/small-plane`
@@ -3581,9 +3585,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una avioneta.
+Crea una imagen de una avioneta amarilla de una sola hélice frontal y alas cortas.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Globo aerostático · `vehicles/hot-air-balloon`
@@ -3592,9 +3596,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un globo aerostático.
+Crea una imagen de un globo aerostático con el globo a rayas de colores (rojo, amarillo y azul) y una canasta de mimbre colgando.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Cohete espacial · `vehicles/rocket`
@@ -3603,9 +3607,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un cohete espacial.
+Crea una imagen de un cohete espacial blanco y rojo con forma de cápsula puntiaguda y tres aletas triangulares en la base.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 ### En el agua (8)
@@ -3616,9 +3620,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un barco.
+Crea una imagen de un barco de carga azul y blanco con chimenea roja y varios contenedores de colores apilados en cubierta.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Lancha · `vehicles/motorboat`
@@ -3627,9 +3631,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una lancha.
+Crea una imagen de una lancha blanca y roja con motor fuera de borda y parabrisas curvo.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Velero · `vehicles/sailboat`
@@ -3638,9 +3642,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un velero.
+Crea una imagen de un velero blanco con una vela triangular grande a rayas azules y casco de madera clara.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Ferry · `vehicles/ferry`
@@ -3649,9 +3653,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un ferry.
+Crea una imagen de un ferry blanco y azul de varios pisos con ventanas en fila y una banderita en el mástil.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Submarino · `vehicles/submarine`
@@ -3660,9 +3664,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un submarino.
+Crea una imagen de un submarino amarillo redondeado con una torreta pequeña arriba y una hélice trasera.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Moto acuática · `vehicles/water-scooter`
@@ -3671,9 +3675,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una moto acuática.
+Crea una imagen de una moto acuática roja y negra con manubrio y asiento tipo motocicleta sobre el agua.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Canoa · `vehicles/canoe`
@@ -3682,9 +3686,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de una canoa.
+Crea una imagen de una canoa de madera marrón clara, alargada y con las puntas curvas hacia arriba.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 #### Kayak · `vehicles/kayak`
@@ -3693,9 +3697,9 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y origin
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un kayak.
+Crea una imagen de un kayak amarillo, angosto y alargado, con una abertura circular arriba.
 
-Estilo: ilustración 3D infantil, tierna y amigable, con diseño propio y original: colores vivos, formas redondeadas, ojos grandes y brillantes, sonrisa pequeña y serena. Debe verse como un animal real simplificado, con la anatomía natural de su especie (en cuatro patas si corresponde), no como un personaje de caricatura de película: sin cejas humanas, sin expresiones exageradas, sin poses humanas, sin ropa ni accesorios. Un solo sujeto de cuerpo entero, centrado, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo. Debe verse igual de claro en miniatura (128 px) que en grande.
+Estilo: ilustración 3D infantil tipo juguete, con el mismo acabado tierno y colorido que el resto de la colección (colores vivos, formas redondeadas, superficies brillantes tipo plástico de juguete), pero SIN CARA: es un vehículo, no un personaje. No le dibujes ojos, cejas, boca ni ninguna expresión facial en ningún lugar del vehículo (ni en los faros, ni en el parabrisas, ni en la carrocería), y tampoco brazos ni piernas. Debe verse como el vehículo real simplificado y reconocible de un vistazo, con proporciones achatadas y amigables de juguete (ruedas grandes, formas suaves y redondeadas), sin logotipos, sin placas, sin texto ni números. Un solo vehículo completo, centrado, en vista de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años: nada aterrador ni agresivo (las luces de emergencia se ven apagadas, sin destello encendido). Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
 
 ## 2. Portadas de categorías
@@ -3915,7 +3919,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 - **Tamaño:** 1024×1024, con fondo
 
 ```text
-Crea una imagen de portada para la categoría infantil «Vehículos»: una escena alegre sobre vehículos.
+Crea una imagen de portada para la categoría infantil «Vehículos»: un auto rojo, un autobús naranja y una bicicleta celeste juntos en una calle de ciudad alegre.
 
 Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
@@ -3926,7 +3930,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 - **Tamaño:** 1024×1024, con fondo
 
 ```text
-Crea una imagen de portada para la categoría infantil «En la calle»: una escena alegre sobre en la calle.
+Crea una imagen de portada para la categoría infantil «En la calle»: un auto rojo, un taxi amarillo y una bicicleta celeste circulando por una calle de ciudad soleada.
 
 Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
@@ -3937,7 +3941,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 - **Tamaño:** 1024×1024, con fondo
 
 ```text
-Crea una imagen de portada para la categoría infantil «Ayudan y rescatan»: una escena alegre sobre ayudan y rescatan.
+Crea una imagen de portada para la categoría infantil «Ayudan y rescatan»: una ambulancia blanca, un camión de bomberos rojo y una patrulla de policía juntos, con las luces apagadas, listos para ayudar.
 
 Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
@@ -3948,7 +3952,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 - **Tamaño:** 1024×1024, con fondo
 
 ```text
-Crea una imagen de portada para la categoría infantil «En la obra y el campo»: una escena alegre sobre en la obra y el campo.
+Crea una imagen de portada para la categoría infantil «En la obra y el campo»: una excavadora amarilla, un tractor verde y un volquete naranja trabajando juntos en una obra.
 
 Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
@@ -3959,7 +3963,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 - **Tamaño:** 1024×1024, con fondo
 
 ```text
-Crea una imagen de portada para la categoría infantil «Sobre rieles»: una escena alegre sobre sobre rieles.
+Crea una imagen de portada para la categoría infantil «Sobre rieles»: un tren azul y amarillo avanzando sobre rieles junto a un tranvía verde.
 
 Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
@@ -3970,7 +3974,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 - **Tamaño:** 1024×1024, con fondo
 
 ```text
-Crea una imagen de portada para la categoría infantil «En el aire»: una escena alegre sobre en el aire.
+Crea una imagen de portada para la categoría infantil «En el aire»: un avión blanco, un helicóptero rojo y un globo aerostático de colores volando juntos entre nubes.
 
 Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
@@ -3981,7 +3985,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 - **Tamaño:** 1024×1024, con fondo
 
 ```text
-Crea una imagen de portada para la categoría infantil «En el agua»: una escena alegre sobre en el agua.
+Crea una imagen de portada para la categoría infantil «En el agua»: un barco de carga, un velero blanco y una lancha roja navegando juntos en el mar.
 
 Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
@@ -3992,7 +3996,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 - **Tamaño:** 1024×1024, con fondo
 
 ```text
-Crea una imagen de portada para la categoría infantil «Flores y plantas»: una escena alegre sobre flores y plantas.
+Crea una imagen de portada para la categoría infantil «Flores y plantas»: un girasol grande, un cactus en maceta y una zanahoria con hojas juntos en un jardín soleado.
 
 Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
@@ -4003,7 +4007,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 - **Tamaño:** 1024×1024, con fondo
 
 ```text
-Crea una imagen de portada para la categoría infantil «Flores del jardín»: una escena alegre sobre flores del jardín.
+Crea una imagen de portada para la categoría infantil «Flores del jardín»: un ramo alegre de rosas, tulipanes y margaritas de colores en un jardín soleado.
 
 Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
@@ -4014,7 +4018,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 - **Tamaño:** 1024×1024, con fondo
 
 ```text
-Crea una imagen de portada para la categoría infantil «Flores del mundo»: una escena alegre sobre flores del mundo.
+Crea una imagen de portada para la categoría infantil «Flores del mundo»: una orquídea, un hibisco rojo y una flor de loto rosada en un jardín exótico y colorido.
 
 Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
@@ -4025,7 +4029,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 - **Tamaño:** 1024×1024, con fondo
 
 ```text
-Crea una imagen de portada para la categoría infantil «Plantas curiosas»: una escena alegre sobre plantas curiosas.
+Crea una imagen de portada para la categoría infantil «Plantas curiosas»: un cactus con flor, una sábila y una palmera pequeña juntos en macetas de colores.
 
 Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
@@ -4036,7 +4040,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 - **Tamaño:** 1024×1024, con fondo
 
 ```text
-Crea una imagen de portada para la categoría infantil «Hierbas que huelen rico»: una escena alegre sobre hierbas que huelen rico.
+Crea una imagen de portada para la categoría infantil «Hierbas que huelen rico»: unas ramitas de menta, albahaca y romero creciendo juntas en macetas sobre una repisa soleada.
 
 Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
@@ -4047,7 +4051,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 - **Tamaño:** 1024×1024, con fondo
 
 ```text
-Crea una imagen de portada para la categoría infantil «Del huerto»: una escena alegre sobre del huerto.
+Crea una imagen de portada para la categoría infantil «Del huerto»: una zanahoria, un tomate y una mazorca de maíz creciendo juntos en un huerto.
 
 Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
@@ -4058,7 +4062,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 - **Tamaño:** 1024×1024, con fondo
 
 ```text
-Crea una imagen de portada para la categoría infantil «Árboles y plantas frutales»: una escena alegre sobre árboles y plantas frutales.
+Crea una imagen de portada para la categoría infantil «Árboles y plantas frutales»: un manzano, un naranjo y una platanera con frutas maduras en un huerto soleado.
 
 Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
 ```
