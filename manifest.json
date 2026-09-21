@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T14:51:45+00:00",
+  "generatedAt": "2026-09-21T15:06:02+00:00",
   "assets": [
     {
       "key": "images/animals/ankylosaurus/illustration",
@@ -4402,6 +4402,22 @@
       "sha256": "95c20e68a908fd8066600bf5c6c52ac74c099fc2a1d7809a0a5caf5343134f61"
     },
     {
+      "key": "images/professions/astronaut/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 121058,
+      "sha256": "1ab9aacc277a9ccb5c6ed020907038064615d0b9351aa91bc8b96888da0c65b8"
+    },
+    {
       "key": "images/professions/baker/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -4450,6 +4466,22 @@
       "sha256": "666a46e2ec2430140c3224576966f1a20306d64a60976686f88effb6b0881126"
     },
     {
+      "key": "images/professions/bus-driver/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 85954,
+      "sha256": "305955227051ac373f6f5ad4f9ad3cc7708be21482f2d85661c4634792afdb25"
+    },
+    {
       "key": "images/professions/carpenter/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -4480,6 +4512,22 @@
       "height": 1024,
       "bytes": 95442,
       "sha256": "ce66ef62c2201ff17a765d3e580cd3b503c18fc00e5be2cfd2d360a93338c18e"
+    },
+    {
+      "key": "images/professions/delivery-driver/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 86254,
+      "sha256": "4b5d4eb93c7100934082cab0467c9c4a7f28164bddf0bfa47d3afc444c023611"
     },
     {
       "key": "images/professions/dentist/illustration",
@@ -4594,6 +4642,22 @@
       "sha256": "39a548f666c875152f592832fccb08b14a3c6faa818895720077ad8c1470685f"
     },
     {
+      "key": "images/professions/hairdresser/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 128258,
+      "sha256": "e595fa65be4c037cd20ea84754036ab53ebf3033c0687e4576effb52761d7989"
+    },
+    {
       "key": "images/professions/lifeguard/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -4608,6 +4672,22 @@
       "height": 1024,
       "bytes": 99968,
       "sha256": "41dbafa0def1e5896278b1079610a5bc1703b5e1405c914db2696d6c6158e9f7"
+    },
+    {
+      "key": "images/professions/mail-carrier/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 99854,
+      "sha256": "2c57a9872d943dd71da157b8f94fc9d8fa3e897afde809be6f9da6e437a22300"
     },
     {
       "key": "images/professions/mechanic/illustration",
@@ -4640,6 +4720,22 @@
       "height": 1024,
       "bytes": 95986,
       "sha256": "8373ec92e07eeb63ed10ec402cf213e0b2671acc050f0539128e75153947607b"
+    },
+    {
+      "key": "images/professions/pilot/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 97580,
+      "sha256": "ee16d3d9f95b8f631e8e9007154030edb076de9623d0599d34e5eee6f68e1d7b"
     },
     {
       "key": "images/professions/plumber/illustration",
@@ -4704,6 +4800,70 @@
       "height": 1024,
       "bytes": 161896,
       "sha256": "ff6ef435bf743db33990e19a33a5ec01d521c5aae04bbb525fcd2976af848562"
+    },
+    {
+      "key": "images/professions/sailor/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 110570,
+      "sha256": "c0b95e6c83dbd7c77b9032f02b0db708b253fde73cdbb072fd9c682a8e24c985"
+    },
+    {
+      "key": "images/professions/seller/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 163288,
+      "sha256": "372dcf3a443f50b9a04f9c0d718a2ab63f7ff87ae02a66ce2fea1ff6950e07d3"
+    },
+    {
+      "key": "images/professions/tailor/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 122910,
+      "sha256": "cd899721fc391e5e15b8366260a44420a581c712305cb7dc996945b1b060260b"
+    },
+    {
+      "key": "images/professions/taxi-driver/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 80254,
+      "sha256": "46c6c8260a96f0086c5a4b1b6f073bcff0da6bcfe40dcce0a6f129f432cf4345"
     },
     {
       "key": "images/professions/teacher/illustration",
