@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T13:47:08+00:00",
+  "generatedAt": "2026-09-21T13:51:46+00:00",
   "assets": [
     {
       "key": "images/animals/ankylosaurus/illustration",
@@ -3954,6 +3954,22 @@
       "sha256": "476ba5aa2f78c82ac70a31badfd00e6fb967c8e12b480224cc6b2b8be068a51c"
     },
     {
+      "key": "images/plants/chamomile/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 321302,
+      "sha256": "08cfad24faa79e3d3aaba2978ae618bd6c02542dc0cfb3df5fa347c43a337b75"
+    },
+    {
       "key": "images/plants/cotton/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -4016,6 +4032,38 @@
       "height": 1024,
       "bytes": 150598,
       "sha256": "268d7a0ba1567382ab670081f406849ea6815d979f0cd4f6e6be935f13915cd1"
+    },
+    {
+      "key": "images/plants/rosemary/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 291730,
+      "sha256": "fc75b43a4263b206ec798fb7a25ea0c07f1afce64072de31e426c1c15476f6f8"
+    },
+    {
+      "key": "images/plants/spearmint/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 215412,
+      "sha256": "e9f772b1bb09651d2d8d4b6b02e06a6bb0705148a31dfdd3bef623b006b25403"
     },
     {
       "key": "audio/animals/ankylosaurus/fact.es",
