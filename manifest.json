@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-20T13:57:34+00:00",
+  "generatedAt": "2026-09-21T03:49:08+00:00",
   "assets": [
+    {
+      "key": "images/animals/ankylosaurus/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 200768,
+      "sha256": "57c66c9abcb9f3762e2492b2ea260ae6b5a5371428afdf17ba331091bbc285fe"
+    },
     {
       "key": "images/animals/antelope/illustration",
       "kind": "IMAGE",
@@ -16,6 +32,22 @@
       "height": 1024,
       "bytes": 119164,
       "sha256": "bc3ffdb9f36a1513ac4b6b8a289c8671f61b0357b7b8b67c35732600581d1e92"
+    },
+    {
+      "key": "images/animals/archaeopteryx/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 229368,
+      "sha256": "7511fc55bbbab7d55b3cd8b0d57e81fa6ab0284af75e4f58fe69013ea04ffda4"
     },
     {
       "key": "images/animals/armadillo/illustration",
@@ -114,6 +146,38 @@
       "sha256": "7f03b29d388c7a62a3c55561d789eb1333970f044dc3d552ff32150821c5b768"
     },
     {
+      "key": "images/animals/bee/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 214320,
+      "sha256": "103f0c8bd065e2ab93f02d9f6c4f25104e22754c94b14bd91e42aa696a4866d1"
+    },
+    {
+      "key": "images/animals/beetle/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 184662,
+      "sha256": "f85563eb9b24f3e9ab55c387fa2dfdf98aad11df39cc6388117ad0d6cb1f7e06"
+    },
+    {
       "key": "images/animals/beluga/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -178,6 +242,22 @@
       "sha256": "824ac94ba61e0b8e2c8c4f6207fd094c30e671c6ec7085ee31034d82fa7731a0"
     },
     {
+      "key": "images/animals/brachiosaurus/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 122892,
+      "sha256": "e7f8f15ea4d8798992c7d0f5904b42205d8f7c2358bcf4c40c263ada4f4fed5a"
+    },
+    {
       "key": "images/animals/buffalo/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -208,6 +288,38 @@
       "height": 1024,
       "bytes": 138436,
       "sha256": "c2fde873d802ebe49cdc4c2bcdf497a76cd08f2f60f39a944927d54af4d62600"
+    },
+    {
+      "key": "images/animals/bumblebee/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 313308,
+      "sha256": "6f2849a793c3897ba1ffc1c95613f0ca3e4af1554fe334a5562ec6d83d56ecdb"
+    },
+    {
+      "key": "images/animals/butterfly/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 194668,
+      "sha256": "12ad8e7eb0ad7481441d596fd613f9deff68aedc10f58eaaf2c5b6224c92c564"
     },
     {
       "key": "images/animals/camel/illustration",
@@ -290,6 +402,22 @@
       "sha256": "96082f312d34b09236dff7c146904124dae6db2a82dd933bb0ada45a8b9a9a06"
     },
     {
+      "key": "images/animals/ceratosaurus/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 171450,
+      "sha256": "7dcdc92bb32596b878d81e2bdcffdc6dc53383f4eb753989a62dfe990115ed1a"
+    },
+    {
       "key": "images/animals/chaffinch/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -370,6 +498,22 @@
       "sha256": "59db9aaef00bd08f82de5d7f5c4a6f8e6f3a6d321a3336bd62ff2078912a65fd"
     },
     {
+      "key": "images/animals/cicada/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 223142,
+      "sha256": "df71ae7f72bd1b48c60f400ad4db14cd694d72e0ef23e1f1a7ccfddf10e022d0"
+    },
+    {
       "key": "images/animals/clownfish/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -384,6 +528,22 @@
       "height": 1024,
       "bytes": 110868,
       "sha256": "1f6b4549859fc76e8cae2137286e56a057d90180898109d83eb4b52358bffbbb"
+    },
+    {
+      "key": "images/animals/coelophysis/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 136406,
+      "sha256": "08db1958aa19f48105cfaee2a01d8f2e9f5476236d09cb237d693c841aa9e5e6"
     },
     {
       "key": "images/animals/cougar/illustration",
@@ -448,6 +608,22 @@
       "height": 1024,
       "bytes": 204304,
       "sha256": "d1cc2a9a1c1492adde96560e0e04a52d77294feb46bd58f16f04c444465d8b8b"
+    },
+    {
+      "key": "images/animals/cricket/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 186716,
+      "sha256": "d1f0f4d026f68e72020e06c9dce68ccf6759ae49ec6bfe5d9a8e03b99e4d1b80"
     },
     {
       "key": "images/animals/crocodile/illustration",
@@ -672,6 +848,22 @@
       "height": 1024,
       "bytes": 87324,
       "sha256": "075709b865fc888c5b8ecc6b4f0f0735dea162525187c498a3008cabe59fb981"
+    },
+    {
+      "key": "images/animals/fly/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 253894,
+      "sha256": "878e10ba7d4c608af5a93778ec99a07d60bcebe1830a384b0bdaf3f49f40a430"
     },
     {
       "key": "images/animals/fox/illustration",
@@ -1442,6 +1634,38 @@
       "sha256": "e2bb0f29e7ec4c7f0c75241b99c5022eeb531dfac290387f8ee7d383bd7ecc52"
     },
     {
+      "key": "images/animals/mosasaurus/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 142784,
+      "sha256": "14d1c0cf6a194aff62d6ad1f0605cbbcbb16b882ef47db9631859f7c7611a250"
+    },
+    {
+      "key": "images/animals/mosquito/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 209630,
+      "sha256": "96a60147632634f17895eb65a05baf702c963587cad83e78854029d20d5449a5"
+    },
+    {
       "key": "images/animals/mouse/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -1586,6 +1810,22 @@
       "sha256": "9cd13e077024628fa472191bd690e0d15451130131a42199562c1eaeec465256"
     },
     {
+      "key": "images/animals/peacock/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 269192,
+      "sha256": "4ae7ca9625faad9366e207e98ba7e2479b73a3fe876ccdb3dc51dbb1b2c0a49b"
+    },
+    {
       "key": "images/animals/pelican/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -1728,6 +1968,22 @@
       "height": 1024,
       "bytes": 135684,
       "sha256": "62158422f8cc0f60f9f0234236e0d5df2a90fd84bb74cfba6f8b4602f5dce6d6"
+    },
+    {
+      "key": "images/animals/pteranodon/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 163570,
+      "sha256": "ed08131d865dbe1225bb4e79af1fe405e144202e64603a9abdd6bb945004b256"
     },
     {
       "key": "images/animals/python/illustration",
@@ -2050,6 +2306,22 @@
       "sha256": "0c5bf65b49a248b28c2d3012e98e2ecf1e0d9879ea32ea0a56fbcccf76c8bdea"
     },
     {
+      "key": "images/animals/stegosaurus/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 233070,
+      "sha256": "f9ceb33a0ee9c9597ecf757172fbca10f289e3aaf5b3cbd87662d56062379735"
+    },
+    {
       "key": "images/animals/stoat/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -2082,6 +2354,22 @@
       "sha256": "721f4248ea28e6341df6f40b9114c690391c9fce79de1f3baf344437365eb1ab"
     },
     {
+      "key": "images/animals/swallow/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 132112,
+      "sha256": "97bdaa512f507c01633e3a871c98c8f5c000c936a2c1ee16b39682e8ff737819"
+    },
+    {
       "key": "images/animals/swan/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -2112,6 +2400,22 @@
       "height": 1024,
       "bytes": 189598,
       "sha256": "0ce8ab11fe2870bf3debb3e1275237ce9e3c41e15c112acb6bc3051b65a25df8"
+    },
+    {
+      "key": "images/animals/tarantula/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 307596,
+      "sha256": "b5efa4027045dd7101ea5a16780f34752a2a98a23887969a4961405ceee6dec1"
     },
     {
       "key": "images/animals/tawny-frogmouth/illustration",
@@ -2178,6 +2482,22 @@
       "sha256": "c65725a0a19fc4e55c1e753eedfba3dc215ba2819eebce76e5bb1073d311370a"
     },
     {
+      "key": "images/animals/triceratops/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 225594,
+      "sha256": "7fb26eb3b78b7a872c5719cdb6d3da72f7040cd9002a38cc44cb73944f159db1"
+    },
+    {
       "key": "images/animals/turkey/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -2210,6 +2530,22 @@
       "sha256": "683562f73abdf328be5878b84244410d9a74f0e72532f869d14733182d514b88"
     },
     {
+      "key": "images/animals/tyrannosaurus/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 168568,
+      "sha256": "33aa5a56f0585b5183975ee6e73b0c06d3c85a34359e921647cb8d10bfee67d0"
+    },
+    {
       "key": "images/animals/vulture/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -2240,6 +2576,22 @@
       "height": 1024,
       "bytes": 136776,
       "sha256": "78afaefa140303584dd6fd7de5c37994b4549467f522dd307a91374a4369a5f7"
+    },
+    {
+      "key": "images/animals/western-meadowlark/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 157754,
+      "sha256": "1272550c1e90c33ec6c6375b008dfc4e7d871aafbe589a0b5f2c4b0094909e5f"
     },
     {
       "key": "images/animals/whale/illustration",
