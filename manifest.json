@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T13:51:46+00:00",
+  "generatedAt": "2026-09-21T14:00:55+00:00",
   "assets": [
     {
       "key": "images/animals/ankylosaurus/illustration",
@@ -3954,6 +3954,22 @@
       "sha256": "476ba5aa2f78c82ac70a31badfd00e6fb967c8e12b480224cc6b2b8be068a51c"
     },
     {
+      "key": "images/plants/carrot/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 153748,
+      "sha256": "4ead6144ac5eeb84a2d1185a4ad1cd51149d78c181e18ad1696e1fbd3ed54194"
+    },
+    {
       "key": "images/plants/chamomile/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -3968,6 +3984,22 @@
       "height": 1024,
       "bytes": 321302,
       "sha256": "08cfad24faa79e3d3aaba2978ae618bd6c02542dc0cfb3df5fa347c43a337b75"
+    },
+    {
+      "key": "images/plants/corn/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 196238,
+      "sha256": "945b631ad6d9b28cbd29718cc9ed562c94b32f3386a7fdd813c25e129852acaa"
     },
     {
       "key": "images/plants/cotton/illustration",
@@ -4034,6 +4066,38 @@
       "sha256": "268d7a0ba1567382ab670081f406849ea6815d979f0cd4f6e6be935f13915cd1"
     },
     {
+      "key": "images/plants/potato/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 243952,
+      "sha256": "c1f22439952493b072bff46a110460b660e3b37bd1124671af6cf64f928d991d"
+    },
+    {
+      "key": "images/plants/rice/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 251660,
+      "sha256": "07e8e100d7a4656b7ac8335af9f4725a5d8f3798557d05782699f4880523aa1f"
+    },
+    {
       "key": "images/plants/rosemary/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -4064,6 +4128,38 @@
       "height": 1024,
       "bytes": 215412,
       "sha256": "e9f772b1bb09651d2d8d4b6b02e06a6bb0705148a31dfdd3bef623b006b25403"
+    },
+    {
+      "key": "images/plants/tomato/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 189400,
+      "sha256": "56e73dbb2e3e39ddea502792314428ffc021c87b82108fe2656bd9baa5639dee"
+    },
+    {
+      "key": "images/plants/wheat/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 170232,
+      "sha256": "18ac666aa7488e97791aa09fa2e8cee3a4658d5f1265f1b3457dd1048533641e"
     },
     {
       "key": "audio/animals/ankylosaurus/fact.es",
