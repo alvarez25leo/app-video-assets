@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T15:06:02+00:00",
+  "generatedAt": "2026-09-22T01:14:28+00:00",
   "assets": [
     {
       "key": "images/animals/ankylosaurus/illustration",
@@ -3074,6 +3074,38 @@
       "sha256": "332712438bd9a47248c48a307ba7f0cf7bb8d80097183a4e775961ead1b413b5"
     },
     {
+      "key": "images/categories/plants/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 768,
+      "bytes": 139788,
+      "sha256": "032f940d4611853877295ab085abaf1fa2e8aa27d3833ffbe3376b6abff8a385"
+    },
+    {
+      "key": "images/categories/professions/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 768,
+      "bytes": 185134,
+      "sha256": "38ca59d55d4f281dca14b8c6bc5412a11140cb8738b3920b1d0b264275c8173c"
+    },
+    {
       "key": "images/categories/shapes/cover",
       "kind": "IMAGE",
       "ext": "webp",
@@ -3088,6 +3120,22 @@
       "height": 683,
       "bytes": 98312,
       "sha256": "69c572b19be3c1daa966348d6ccc54f2d171a9f9afc28cfb1ba83bf9740f8df1"
+    },
+    {
+      "key": "images/categories/vehicles/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 576,
+      "bytes": 82954,
+      "sha256": "90c7f17b9252613d298b21c15f5be2ede7edbdb3c0f573a1aefca786395671bc"
     },
     {
       "key": "images/flowers/bellflower/illustration",
