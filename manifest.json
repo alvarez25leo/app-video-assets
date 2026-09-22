@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T01:38:12+00:00",
+  "generatedAt": "2026-09-22T02:06:18+00:00",
   "assets": [
     {
       "key": "images/animals/ankylosaurus/illustration",
@@ -2946,6 +2946,22 @@
       "sha256": "9061ac0e8ac04277628564bc458f8d50c4b1cd0ef6308e56572abb3792afd36b"
     },
     {
+      "key": "images/categories/animals-dinosaurs/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 245344,
+      "sha256": "29cd8f6c5dadd2877362b5e2905c005dc634d5d7b4a92cdd210c28849cd0be24"
+    },
+    {
       "key": "images/categories/animals-farm/cover",
       "kind": "IMAGE",
       "ext": "webp",
@@ -3202,6 +3218,118 @@
       "sha256": "032f940d4611853877295ab085abaf1fa2e8aa27d3833ffbe3376b6abff8a385"
     },
     {
+      "key": "images/categories/professions-art/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 187094,
+      "sha256": "a907085a46f06a661b3b13a2f9ea29aae91cfc1d6334d327b434edc146adebbc"
+    },
+    {
+      "key": "images/categories/professions-build/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 195650,
+      "sha256": "289304f5fc08e54ae1fae79715fd0c1b5b49a43a58a2f02d0dd78c1a35ddd5ac"
+    },
+    {
+      "key": "images/categories/professions-care/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 163492,
+      "sha256": "f08804965546a2f29558bf9db4be9ad752fe9cfbe6539be7a09e6aa3b1fc7140"
+    },
+    {
+      "key": "images/categories/professions-food/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 269614,
+      "sha256": "804839f3562f9887e1229bb6bdc05c9348d097ab2a87130a4790bf4dd86ef1ef"
+    },
+    {
+      "key": "images/categories/professions-nature/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 236616,
+      "sha256": "94f5ebbbcf1b21e7e1835c9478ba45f34de28d78a344fd7cb8ba245abefd824e"
+    },
+    {
+      "key": "images/categories/professions-service/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 202008,
+      "sha256": "5c7f8cc8e6320a121d8ba3cf68cc71d1b0ec807e7655f1392584f206b09105b6"
+    },
+    {
+      "key": "images/categories/professions-travel/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 174250,
+      "sha256": "0111292d218a0f8c4407fc6f89f0bfdc7bae6a498c6f0d7aacc6389cce005dea"
+    },
+    {
       "key": "images/categories/professions/cover",
       "kind": "IMAGE",
       "ext": "webp",
@@ -3232,6 +3360,102 @@
       "height": 683,
       "bytes": 98312,
       "sha256": "69c572b19be3c1daa966348d6ccc54f2d171a9f9afc28cfb1ba83bf9740f8df1"
+    },
+    {
+      "key": "images/categories/vehicles-air/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 132118,
+      "sha256": "d441d448af98b464ebce4e9534416882b3c63b6f28ddbd9226b97e525b34c0e1"
+    },
+    {
+      "key": "images/categories/vehicles-rail/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 208730,
+      "sha256": "94cb4946f6c3e82f05ed8114d802beffa57ea06231ab729f9461173dc90f1eec"
+    },
+    {
+      "key": "images/categories/vehicles-rescue/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 161752,
+      "sha256": "dc7e845bd33406ccce643c3f5aa411856573b9256264057942cf7dc5fa141824"
+    },
+    {
+      "key": "images/categories/vehicles-street/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 173448,
+      "sha256": "a958b9001febe695f33bfed1da516217a7f37b082242d0fa97bd2d003ca41525"
+    },
+    {
+      "key": "images/categories/vehicles-water/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 188316,
+      "sha256": "4fadd41a61f5cf66670559aa186ede3b1253bcc902e51a863e2f4989da434fdc"
+    },
+    {
+      "key": "images/categories/vehicles-work/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 221422,
+      "sha256": "1d443f1a1fca304276109ce4af2df6fa072e39f2320e13071e81f014b19e212b"
     },
     {
       "key": "images/categories/vehicles/cover",
