@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T01:14:28+00:00",
+  "generatedAt": "2026-09-22T01:38:12+00:00",
   "assets": [
     {
       "key": "images/animals/ankylosaurus/illustration",
@@ -2914,6 +2914,38 @@
       "sha256": "3062cbc2bf9a4a198c147f8f5f5c7f3e17313917352b8a6573ea871b3aa19047"
     },
     {
+      "key": "images/categories/animals-countryside/chatgpt-image-error",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 546,
+      "bytes": 22094,
+      "sha256": "54b9bd2488fcf713f27bc9dfa2320e53f9ffe4631356e0c0d9757ccce7cafb42"
+    },
+    {
+      "key": "images/categories/animals-countryside/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 194578,
+      "sha256": "9061ac0e8ac04277628564bc458f8d50c4b1cd0ef6308e56572abb3792afd36b"
+    },
+    {
       "key": "images/categories/animals-farm/cover",
       "kind": "IMAGE",
       "ext": "webp",
@@ -2928,6 +2960,86 @@
       "height": 1024,
       "bytes": 231890,
       "sha256": "af4463cff727519a16ec5be17544c1c6c4add4f3403b3eb7878cd4717588ef8e"
+    },
+    {
+      "key": "images/categories/animals-forest/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 269510,
+      "sha256": "ed92a56d4045e4c5dae203aae0b33417b781023a3a7ed8ac321231d5459ab989"
+    },
+    {
+      "key": "images/categories/animals-insects/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 208784,
+      "sha256": "5e24c9eaacd9723b649441e7d4ad5b354fef3a18d17223743fdab53ecbaa67b6"
+    },
+    {
+      "key": "images/categories/animals-jungle/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 264142,
+      "sha256": "d9f72c76ef726d3709f46d628b1393b72d9962757472701ef8875ce85cb240c9"
+    },
+    {
+      "key": "images/categories/animals-lake/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 188926,
+      "sha256": "9c5e5b8496a048c1343f01e1c4504cd19a8764f402690995f7603ccb8469e4f6"
+    },
+    {
+      "key": "images/categories/animals-mountain/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 273518,
+      "sha256": "5a7ec3ec95c8e48d338dc85fc39a1851108a33993dd549db09bdf1f581966b40"
     },
     {
       "key": "images/categories/animals-pets/cover",
