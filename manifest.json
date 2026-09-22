@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T02:06:18+00:00",
+  "generatedAt": "2026-09-22T02:14:02+00:00",
   "assets": [
     {
       "key": "images/animals/ankylosaurus/illustration",
@@ -3200,6 +3200,102 @@
       "height": 683,
       "bytes": 144846,
       "sha256": "332712438bd9a47248c48a307ba7f0cf7bb8d80097183a4e775961ead1b413b5"
+    },
+    {
+      "key": "images/categories/plants-fruit/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 250224,
+      "sha256": "589f9206f535df2b654214d89a93023ee94ae43cbdc91d78685b7cca9206e498"
+    },
+    {
+      "key": "images/categories/plants-garden/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 214494,
+      "sha256": "7d247120d9c11eaf552520bbcf6f094957580d8a4fdc9435823d6b6c21e7dc5f"
+    },
+    {
+      "key": "images/categories/plants-herbs/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 169964,
+      "sha256": "48e509d3d81eff7635f6a8350912ee9d572cd431defb1856663745cefa7ec364"
+    },
+    {
+      "key": "images/categories/plants-special/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 245208,
+      "sha256": "a14952b57b2db52c4d5e964153363dfe1362c469b70ac99c005bc6a2c196a792"
+    },
+    {
+      "key": "images/categories/plants-veggies/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 200688,
+      "sha256": "64ac29d75a34e0f685fce187fbdccfa4e2a16003c0874b6ee2af5cb19e6f36e3"
+    },
+    {
+      "key": "images/categories/plants-world/cover",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 220440,
+      "sha256": "83ad94a63fcd5b65e31f7b978de30d4f312da831cf94cf75518143a5bb532c65"
     },
     {
       "key": "images/categories/plants/cover",
