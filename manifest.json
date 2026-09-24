@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T23:58:25+00:00",
+  "generatedAt": "2026-09-24T00:08:02+00:00",
   "assets": [
     {
       "key": "images/animals/ankylosaurus/illustration",
@@ -5682,6 +5682,54 @@
       "sha256": "a75f7c7412cf44f0ebfcac067a1490b2d5a74ff754c9562dac29ea5e92344fec"
     },
     {
+      "key": "images/vehicles/cement-mixer/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 143166,
+      "sha256": "75cebe681821f9907d43d7efe0072539b92ca23e746cc2b5ef0e7977c1923ad7"
+    },
+    {
+      "key": "images/vehicles/dump-truck/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 132496,
+      "sha256": "2a93809e97256d73928ef47ec5c93ee328002a63b968e646f3871fec8c2b7029"
+    },
+    {
+      "key": "images/vehicles/excavator/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 152268,
+      "sha256": "4895fe1f0210abf9ea0cee0e730e780c03160084204d9722331efa5c40e0bd49"
+    },
+    {
       "key": "images/vehicles/fire-truck/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -5696,6 +5744,22 @@
       "height": 1024,
       "bytes": 174406,
       "sha256": "60ab082e7e88cc9b32ff160828ce27238645eb9d7a09f11e9298511f5d774405"
+    },
+    {
+      "key": "images/vehicles/garbage-truck/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 143672,
+      "sha256": "93ac64ed7bb86260647f8f79d38ef4e466a3c2e28bb51cd9ec69b09c7709d038"
     },
     {
       "key": "images/vehicles/motorcycle/illustration",
@@ -5776,6 +5840,38 @@
       "height": 1024,
       "bytes": 125232,
       "sha256": "6800a6c823617ba125464ba08e25f48f2adb8f11f04cf655314f6f2195b52319"
+    },
+    {
+      "key": "images/vehicles/tow-truck/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 151568,
+      "sha256": "3fa33ddad32a9be91b86e4cc4d7994d3ea1446814bfc48f97ea1b10a76fccaa0"
+    },
+    {
+      "key": "images/vehicles/tractor/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 133070,
+      "sha256": "2439e677f800038cd272853ccdb75072d3fc05af6ff5e07e8b67552a0002ed80"
     },
     {
       "key": "images/vehicles/tricycle/illustration",
