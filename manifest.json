@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T23:40:10+00:00",
+  "generatedAt": "2026-09-23T23:58:25+00:00",
   "assets": [
     {
       "key": "images/animals/ankylosaurus/illustration",
@@ -5616,6 +5616,198 @@
       "height": 1024,
       "bytes": 182720,
       "sha256": "a31af19fbcfeb796fb0118ced14216553ff6b0a5ae4c6047d22683e646bc319b"
+    },
+    {
+      "key": "images/vehicles/ambulance/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 98852,
+      "sha256": "2fdd95b7b1e3630a2388282ec5291fc59f4d52cb741542c511369b27d7926f61"
+    },
+    {
+      "key": "images/vehicles/bicycle/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 251162,
+      "sha256": "47e396c09225bf22cec6eaac2d031352fb594a34cb2ec34ffa3e7faf7799e9c3"
+    },
+    {
+      "key": "images/vehicles/bus/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 124748,
+      "sha256": "3a4988147a100b29ee0f3b3170228f6e572e9630a96817e86fec95d6d681d91b"
+    },
+    {
+      "key": "images/vehicles/car/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 131926,
+      "sha256": "a75f7c7412cf44f0ebfcac067a1490b2d5a74ff754c9562dac29ea5e92344fec"
+    },
+    {
+      "key": "images/vehicles/fire-truck/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 174406,
+      "sha256": "60ab082e7e88cc9b32ff160828ce27238645eb9d7a09f11e9298511f5d774405"
+    },
+    {
+      "key": "images/vehicles/motorcycle/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 187358,
+      "sha256": "67b2fa483613e0c9cc5dd41c00a599b25ffa1c729e98a56f31f0a7dd80297fae"
+    },
+    {
+      "key": "images/vehicles/pickup/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 116966,
+      "sha256": "b31c3db6b1b53ce285cbb146b325a0db5e9114361b24bb37e0d4d09650f5e44d"
+    },
+    {
+      "key": "images/vehicles/police-car/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 105020,
+      "sha256": "e5ba9e3c8dac0dc986e1183a7abb3fee7f5d44bb6e07c0beac24964899252b71"
+    },
+    {
+      "key": "images/vehicles/scooter/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 109374,
+      "sha256": "7ec3ce2421ae85a0a45b9d240ddfa9bfdc8d144d0a8e856195755575381a4004"
+    },
+    {
+      "key": "images/vehicles/taxi/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 125232,
+      "sha256": "6800a6c823617ba125464ba08e25f48f2adb8f11f04cf655314f6f2195b52319"
+    },
+    {
+      "key": "images/vehicles/tricycle/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 179350,
+      "sha256": "6ffe7e3fa0e7fd9e3d88addc81358f8beadf30750990d63933bb38da021da556"
+    },
+    {
+      "key": "images/vehicles/truck/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 128746,
+      "sha256": "94596be4f4840eeb5b5e26fb2c838f06cf18184430e9c641180e875436d6c764"
     },
     {
       "key": "audio/animals/ankylosaurus/fact.es",
