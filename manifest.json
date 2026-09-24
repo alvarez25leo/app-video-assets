@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T00:08:02+00:00",
+  "generatedAt": "2026-09-24T00:31:25+00:00",
   "assets": [
     {
       "key": "images/animals/ankylosaurus/illustration",
@@ -5618,6 +5618,22 @@
       "sha256": "a31af19fbcfeb796fb0118ced14216553ff6b0a5ae4c6047d22683e646bc319b"
     },
     {
+      "key": "images/vehicles/airplane/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 88426,
+      "sha256": "29101763813e52685c7dbb92b4010e3ef572c418da5a767bf32bde76a1300a9a"
+    },
+    {
       "key": "images/vehicles/ambulance/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -5730,6 +5746,22 @@
       "sha256": "4895fe1f0210abf9ea0cee0e730e780c03160084204d9722331efa5c40e0bd49"
     },
     {
+      "key": "images/vehicles/ferry/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 127894,
+      "sha256": "544e6add5d1d4899febb2dd057e0b684e0395583da19ddfab0c79d36fe0c5d63"
+    },
+    {
       "key": "images/vehicles/fire-truck/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -5746,6 +5778,22 @@
       "sha256": "60ab082e7e88cc9b32ff160828ce27238645eb9d7a09f11e9298511f5d774405"
     },
     {
+      "key": "images/vehicles/forklift/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 140762,
+      "sha256": "d54b1dffcf07a231fc5456fba059d79d05e161320bafa9eda683a4147f7b20e1"
+    },
+    {
       "key": "images/vehicles/garbage-truck/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -5760,6 +5808,54 @@
       "height": 1024,
       "bytes": 143672,
       "sha256": "93ac64ed7bb86260647f8f79d38ef4e466a3c2e28bb51cd9ec69b09c7709d038"
+    },
+    {
+      "key": "images/vehicles/helicopter/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 155066,
+      "sha256": "100b25291f69716f74538e598956367fe13ba785d165cebe43cd463e82f2cfa5"
+    },
+    {
+      "key": "images/vehicles/hot-air-balloon/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 107468,
+      "sha256": "40c011916f249818d59eb8ef22ae35fffa3f2da296b6d3f98247c78799a7dc66"
+    },
+    {
+      "key": "images/vehicles/motorboat/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 102658,
+      "sha256": "99bceca2262338581958fdc57197d91265f7fbd4c10c919ac6faa1bf8402663e"
     },
     {
       "key": "images/vehicles/motorcycle/illustration",
@@ -5810,6 +5906,54 @@
       "sha256": "e5ba9e3c8dac0dc986e1183a7abb3fee7f5d44bb6e07c0beac24964899252b71"
     },
     {
+      "key": "images/vehicles/road-roller/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 121280,
+      "sha256": "6a9ba89e074bf820b811451736ab49e76b64457cf50553933dd325d9c45ac984"
+    },
+    {
+      "key": "images/vehicles/rocket/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 76230,
+      "sha256": "3480246b7a2f188c9af3e78169f32975ed02363370ab50a16ad1236d5508a0ee"
+    },
+    {
+      "key": "images/vehicles/sailboat/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 105656,
+      "sha256": "7495464101bcc69401712a32520d0191c0e73571f85d0e6ae8de2dd74f44a5bb"
+    },
+    {
       "key": "images/vehicles/scooter/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -5824,6 +5968,70 @@
       "height": 1024,
       "bytes": 109374,
       "sha256": "7ec3ce2421ae85a0a45b9d240ddfa9bfdc8d144d0a8e856195755575381a4004"
+    },
+    {
+      "key": "images/vehicles/ship/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 111506,
+      "sha256": "5afa321ce6456a11ef279cc5afead00b8ceb1146cef671886731569a25d94d5c"
+    },
+    {
+      "key": "images/vehicles/small-plane/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 100696,
+      "sha256": "aecb25dd76b8f5b72a17c81649991a74684630b3daa8ca4e5e99d8b543b32130"
+    },
+    {
+      "key": "images/vehicles/submarine/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 114664,
+      "sha256": "a7e5e7f92e4a5f00862f41a6f2e2243421f71e42af4e4edfe796a3108dd6418e"
+    },
+    {
+      "key": "images/vehicles/subway/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 111740,
+      "sha256": "5f7499097f0402be3c5c71d101dc8ea700ed919c6bc1717bbfd96cf8505d40eb"
     },
     {
       "key": "images/vehicles/taxi/illustration",
@@ -5872,6 +6080,38 @@
       "height": 1024,
       "bytes": 133070,
       "sha256": "2439e677f800038cd272853ccdb75072d3fc05af6ff5e07e8b67552a0002ed80"
+    },
+    {
+      "key": "images/vehicles/train/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 165376,
+      "sha256": "46ca0f0dfa6cc7db0a76533b4e715197c17109982370d8ffe37a5b4318a2b777"
+    },
+    {
+      "key": "images/vehicles/tram/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 129494,
+      "sha256": "ed761eb35154e8326ef16f95a05971f58b6fac7a3fb8bd51f9b419d55ad4a3f3"
     },
     {
       "key": "images/vehicles/tricycle/illustration",
