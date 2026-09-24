@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T00:31:25+00:00",
+  "generatedAt": "2026-09-24T00:54:30+00:00",
   "assets": [
     {
       "key": "images/animals/ankylosaurus/illustration",
@@ -3202,118 +3202,6 @@
       "sha256": "332712438bd9a47248c48a307ba7f0cf7bb8d80097183a4e775961ead1b413b5"
     },
     {
-      "key": "images/categories/plants-fruit/cover",
-      "kind": "IMAGE",
-      "ext": "webp",
-      "mime": "image/webp",
-      "sizes": [
-        128,
-        256,
-        512,
-        1024
-      ],
-      "width": 1024,
-      "height": 1024,
-      "bytes": 250224,
-      "sha256": "589f9206f535df2b654214d89a93023ee94ae43cbdc91d78685b7cca9206e498"
-    },
-    {
-      "key": "images/categories/plants-garden/cover",
-      "kind": "IMAGE",
-      "ext": "webp",
-      "mime": "image/webp",
-      "sizes": [
-        128,
-        256,
-        512,
-        1024
-      ],
-      "width": 1024,
-      "height": 1024,
-      "bytes": 214494,
-      "sha256": "7d247120d9c11eaf552520bbcf6f094957580d8a4fdc9435823d6b6c21e7dc5f"
-    },
-    {
-      "key": "images/categories/plants-herbs/cover",
-      "kind": "IMAGE",
-      "ext": "webp",
-      "mime": "image/webp",
-      "sizes": [
-        128,
-        256,
-        512,
-        1024
-      ],
-      "width": 1024,
-      "height": 1024,
-      "bytes": 169964,
-      "sha256": "48e509d3d81eff7635f6a8350912ee9d572cd431defb1856663745cefa7ec364"
-    },
-    {
-      "key": "images/categories/plants-special/cover",
-      "kind": "IMAGE",
-      "ext": "webp",
-      "mime": "image/webp",
-      "sizes": [
-        128,
-        256,
-        512,
-        1024
-      ],
-      "width": 1024,
-      "height": 1024,
-      "bytes": 245208,
-      "sha256": "a14952b57b2db52c4d5e964153363dfe1362c469b70ac99c005bc6a2c196a792"
-    },
-    {
-      "key": "images/categories/plants-veggies/cover",
-      "kind": "IMAGE",
-      "ext": "webp",
-      "mime": "image/webp",
-      "sizes": [
-        128,
-        256,
-        512,
-        1024
-      ],
-      "width": 1024,
-      "height": 1024,
-      "bytes": 200688,
-      "sha256": "64ac29d75a34e0f685fce187fbdccfa4e2a16003c0874b6ee2af5cb19e6f36e3"
-    },
-    {
-      "key": "images/categories/plants-world/cover",
-      "kind": "IMAGE",
-      "ext": "webp",
-      "mime": "image/webp",
-      "sizes": [
-        128,
-        256,
-        512,
-        1024
-      ],
-      "width": 1024,
-      "height": 1024,
-      "bytes": 220440,
-      "sha256": "83ad94a63fcd5b65e31f7b978de30d4f312da831cf94cf75518143a5bb532c65"
-    },
-    {
-      "key": "images/categories/plants/cover",
-      "kind": "IMAGE",
-      "ext": "webp",
-      "mime": "image/webp",
-      "sizes": [
-        128,
-        256,
-        512,
-        1024
-      ],
-      "width": 1024,
-      "height": 768,
-      "bytes": 139788,
-      "sha256": "032f940d4611853877295ab085abaf1fa2e8aa27d3833ffbe3376b6abff8a385"
-    },
-    {
       "key": "images/categories/professions-art/cover",
       "kind": "IMAGE",
       "ext": "webp",
@@ -3470,8 +3358,8 @@
       ],
       "width": 1024,
       "height": 1024,
-      "bytes": 132118,
-      "sha256": "d441d448af98b464ebce4e9534416882b3c63b6f28ddbd9226b97e525b34c0e1"
+      "bytes": 95220,
+      "sha256": "95307027ebf60c12292f8ab17f89dc12c55b774cdf283049af969e036ecfa863"
     },
     {
       "key": "images/categories/vehicles-rail/cover",
@@ -3486,8 +3374,8 @@
       ],
       "width": 1024,
       "height": 1024,
-      "bytes": 208730,
-      "sha256": "94cb4946f6c3e82f05ed8114d802beffa57ea06231ab729f9461173dc90f1eec"
+      "bytes": 238664,
+      "sha256": "50ca077e200943642ab02e33019d313caa016a64c1327e2720527db0123c10c5"
     },
     {
       "key": "images/categories/vehicles-rescue/cover",
@@ -3502,8 +3390,8 @@
       ],
       "width": 1024,
       "height": 1024,
-      "bytes": 161752,
-      "sha256": "dc7e845bd33406ccce643c3f5aa411856573b9256264057942cf7dc5fa141824"
+      "bytes": 158400,
+      "sha256": "6500dd17bba4fae3800bf49c6e411303041df0c25f739b99497ac22a0ae0e5d7"
     },
     {
       "key": "images/categories/vehicles-street/cover",
@@ -3518,24 +3406,8 @@
       ],
       "width": 1024,
       "height": 1024,
-      "bytes": 173448,
-      "sha256": "a958b9001febe695f33bfed1da516217a7f37b082242d0fa97bd2d003ca41525"
-    },
-    {
-      "key": "images/categories/vehicles-water/cover",
-      "kind": "IMAGE",
-      "ext": "webp",
-      "mime": "image/webp",
-      "sizes": [
-        128,
-        256,
-        512,
-        1024
-      ],
-      "width": 1024,
-      "height": 1024,
-      "bytes": 188316,
-      "sha256": "4fadd41a61f5cf66670559aa186ede3b1253bcc902e51a863e2f4989da434fdc"
+      "bytes": 159636,
+      "sha256": "4dfcccee5589eb8c600bd047f3ec2ef392a49a6f56e7e806bd12485d41957c23"
     },
     {
       "key": "images/categories/vehicles-work/cover",
@@ -3550,8 +3422,8 @@
       ],
       "width": 1024,
       "height": 1024,
-      "bytes": 221422,
-      "sha256": "1d443f1a1fca304276109ce4af2df6fa072e39f2320e13071e81f014b19e212b"
+      "bytes": 263608,
+      "sha256": "1296352c2b9b2ef3240457d016f3ab46b94aee4cf27e23ed04425a4d53f0de0a"
     },
     {
       "key": "images/categories/vehicles/cover",
@@ -3565,9 +3437,9 @@
         1024
       ],
       "width": 1024,
-      "height": 576,
-      "bytes": 82954,
-      "sha256": "90c7f17b9252613d298b21c15f5be2ede7edbdb3c0f573a1aefca786395671bc"
+      "height": 1024,
+      "bytes": 165918,
+      "sha256": "dd04a79cf2435436cde555e87338b2bd86ed4ed98796cf9efd0eb955b27ac6fe"
     },
     {
       "key": "images/flowers/bellflower/illustration",
@@ -5330,6 +5202,22 @@
       "sha256": "133b91267f497dc3657b0a0a67456dfd73fb3a2668bb281972ba898fb0d4e080"
     },
     {
+      "key": "images/professions/musician/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 112618,
+      "sha256": "c06c413edc20180520e1ecef4b2c8392a98a75d30d4c764e3b68bbc59ed21b21"
+    },
+    {
       "key": "images/professions/nurse/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -5344,6 +5232,22 @@
       "height": 1024,
       "bytes": 95986,
       "sha256": "8373ec92e07eeb63ed10ec402cf213e0b2671acc050f0539128e75153947607b"
+    },
+    {
+      "key": "images/professions/painter/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 158852,
+      "sha256": "dd9b2c2d2839ce0db82ed41ac0477e69b30b7738bf40bd5717a8c72657bb47c9"
     },
     {
       "key": "images/professions/park-ranger/illustration",
@@ -5682,6 +5586,22 @@
       "sha256": "3a4988147a100b29ee0f3b3170228f6e572e9630a96817e86fec95d6d681d91b"
     },
     {
+      "key": "images/vehicles/canoe/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 76410,
+      "sha256": "4b532cc763eddb3bf9d1986b1ddcd64bd5405d42c6ebb1772b12c3158bd54581"
+    },
+    {
       "key": "images/vehicles/car/illustration",
       "kind": "IMAGE",
       "ext": "webp",
@@ -5840,6 +5760,22 @@
       "height": 1024,
       "bytes": 107468,
       "sha256": "40c011916f249818d59eb8ef22ae35fffa3f2da296b6d3f98247c78799a7dc66"
+    },
+    {
+      "key": "images/vehicles/kayak/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 77784,
+      "sha256": "3b42ea05bb13c1285736070f5a5d5328c7475c077d6b79889abeb88faeb64239"
     },
     {
       "key": "images/vehicles/motorboat/illustration",
@@ -6144,6 +6080,22 @@
       "height": 1024,
       "bytes": 128746,
       "sha256": "94596be4f4840eeb5b5e26fb2c838f06cf18184430e9c641180e875436d6c764"
+    },
+    {
+      "key": "images/vehicles/water-scooter/illustration",
+      "kind": "IMAGE",
+      "ext": "webp",
+      "mime": "image/webp",
+      "sizes": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "width": 1024,
+      "height": 1024,
+      "bytes": 149730,
+      "sha256": "4d5b7e5f66f2b749b3083e12827a6e1492ddf0257a456cc8d8d10fca98731458"
     },
     {
       "key": "audio/animals/ankylosaurus/fact.es",

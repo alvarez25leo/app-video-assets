@@ -3114,6 +3114,8 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje pr
 Crea una imagen de un pintor con boina y delantal lleno de manchas de colores, sosteniendo una paleta y un pincel; piel clara y bigote castaño.
 
 Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
+
+IMPORTANTE: diseño de personaje 100 % original. No debe parecerse a ningún personaje conocido de películas, series, videojuegos, libros ni marcas (ni en la forma, ni en los colores característicos, ni en la expresión). Solo debe reconocerse como el animal u objeto descrito.
 ```
 
 #### Músico · `professions/musician`
@@ -3122,7 +3124,7 @@ Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje pr
 - **Tamaño:** 1024×1024, fondo transparente
 
 ```text
-Crea una imagen de un músico con camisa de colores tocando una guitarra acústica; piel morena y cabello negro rizado.
+Crea una imagen de un músico con chaleco azul marino y corbatín rojo, tocando un saxofón dorado; piel clara y cabello canoso corto.
 
 Estilo: ilustración 3D infantil, tierna y amigable, con diseño de personaje propio y original: proporciones suaves y redondeadas (cabeza un poco grande, cuerpo de adulto bajito), ojos grandes y brillantes, sonrisa amable con la boca cerrada y colores vivos. Es una persona adulta trabajando, cercana y simpática, pensada para niños de 3 a 6 años. El uniforme y la herramienta deben reconocerse de un vistazo, sin logotipos, sin letras ni números en la ropa y sin marcas reales. Un solo personaje de cuerpo entero, de pie, en pose de tres cuartos, ocupando cerca del 80 % del lienzo. Iluminación suave de estudio. FONDO TRANSPARENTE (PNG con canal alfa), sin suelo, sin sombras proyectadas, sin texto, sin marcos y sin marcas de agua. Cuadrado 1024×1024. Nada aterrador: sin armas, sin fuego, sin sangre ni heridas. Debe verse igual de claro en miniatura (128 px) que en grande.
 ```
@@ -3921,7 +3923,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 ```text
 Crea una imagen de portada para la categoría infantil «Vehículos»: un auto rojo, un autobús naranja y una bicicleta celeste juntos en una calle de ciudad alegre.
 
-Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años. Los vehículos de la escena no llevan cara: sin ojos, cejas ni boca en ninguno de ellos (son objetos, no personajes).
 ```
 
 #### En la calle
@@ -3932,7 +3934,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 ```text
 Crea una imagen de portada para la categoría infantil «En la calle»: un auto rojo, un taxi amarillo y una bicicleta celeste circulando por una calle de ciudad soleada.
 
-Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años. Los vehículos de la escena no llevan cara: sin ojos, cejas ni boca en ninguno de ellos (son objetos, no personajes).
 ```
 
 #### Ayudan y rescatan
@@ -3943,7 +3945,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 ```text
 Crea una imagen de portada para la categoría infantil «Ayudan y rescatan»: una ambulancia blanca, un camión de bomberos rojo y una patrulla de policía juntos, con las luces apagadas, listos para ayudar.
 
-Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años. Los vehículos de la escena no llevan cara: sin ojos, cejas ni boca en ninguno de ellos (son objetos, no personajes).
 ```
 
 #### En la obra y el campo
@@ -3954,7 +3956,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 ```text
 Crea una imagen de portada para la categoría infantil «En la obra y el campo»: una excavadora amarilla, un tractor verde y un volquete naranja trabajando juntos en una obra.
 
-Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años. Los vehículos de la escena no llevan cara: sin ojos, cejas ni boca en ninguno de ellos (son objetos, no personajes).
 ```
 
 #### Sobre rieles
@@ -3965,7 +3967,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 ```text
 Crea una imagen de portada para la categoría infantil «Sobre rieles»: un tren azul y amarillo avanzando sobre rieles junto a un tranvía verde.
 
-Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años. Los vehículos de la escena no llevan cara: sin ojos, cejas ni boca en ninguno de ellos (son objetos, no personajes).
 ```
 
 #### En el aire
@@ -3976,7 +3978,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 ```text
 Crea una imagen de portada para la categoría infantil «En el aire»: un avión blanco, un helicóptero rojo y un globo aerostático de colores volando juntos entre nubes.
 
-Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años. Los vehículos de la escena no llevan cara: sin ojos, cejas ni boca en ninguno de ellos (son objetos, no personajes).
 ```
 
 #### En el agua
@@ -3987,7 +3989,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 ```text
 Crea una imagen de portada para la categoría infantil «En el agua»: un barco de carga, un velero blanco y una lancha roja navegando juntos en el mar.
 
-Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años. Los vehículos de la escena no llevan cara: sin ojos, cejas ni boca en ninguno de ellos (son objetos, no personajes).
 ```
 
 #### Flores y plantas
@@ -3998,7 +4000,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 ```text
 Crea una imagen de portada para la categoría infantil «Flores y plantas»: un girasol grande, un cactus en maceta y una zanahoria con hojas juntos en un jardín soleado.
 
-Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años. Las flores, plantas y macetas de la escena no llevan cara: sin ojos, cejas ni boca en ninguna (son plantas y objetos, no personajes).
 ```
 
 #### Flores del jardín
@@ -4009,7 +4011,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 ```text
 Crea una imagen de portada para la categoría infantil «Flores del jardín»: un ramo alegre de rosas, tulipanes y margaritas de colores en un jardín soleado.
 
-Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años. Las flores, plantas y macetas de la escena no llevan cara: sin ojos, cejas ni boca en ninguna (son plantas y objetos, no personajes).
 ```
 
 #### Flores del mundo
@@ -4020,7 +4022,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 ```text
 Crea una imagen de portada para la categoría infantil «Flores del mundo»: una orquídea, un hibisco rojo y una flor de loto rosada en un jardín exótico y colorido.
 
-Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años. Las flores, plantas y macetas de la escena no llevan cara: sin ojos, cejas ni boca en ninguna (son plantas y objetos, no personajes).
 ```
 
 #### Plantas curiosas
@@ -4031,7 +4033,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 ```text
 Crea una imagen de portada para la categoría infantil «Plantas curiosas»: un cactus con flor, una sábila y una palmera pequeña juntos en macetas de colores.
 
-Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años. Las flores, plantas y macetas de la escena no llevan cara: sin ojos, cejas ni boca en ninguna (son plantas y objetos, no personajes).
 ```
 
 #### Hierbas que huelen rico
@@ -4042,7 +4044,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 ```text
 Crea una imagen de portada para la categoría infantil «Hierbas que huelen rico»: unas ramitas de menta, albahaca y romero creciendo juntas en macetas sobre una repisa soleada.
 
-Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años. Las flores, plantas y macetas de la escena no llevan cara: sin ojos, cejas ni boca en ninguna (son plantas y objetos, no personajes).
 ```
 
 #### Del huerto
@@ -4053,7 +4055,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 ```text
 Crea una imagen de portada para la categoría infantil «Del huerto»: una zanahoria, un tomate y una mazorca de maíz creciendo juntos en un huerto.
 
-Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años. Las flores, plantas y macetas de la escena no llevan cara: sin ojos, cejas ni boca en ninguna (son plantas y objetos, no personajes).
 ```
 
 #### Árboles y plantas frutales
@@ -4064,7 +4066,7 @@ Estilo: ilustración 3D de animación infantil con diseño de personaje original
 ```text
 Crea una imagen de portada para la categoría infantil «Árboles y plantas frutales»: un manzano, un naranjo y una platanera con frutas maduras en un huerto soleado.
 
-Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años.
+Estilo: ilustración 3D de animación infantil con diseño de personaje original, colores vivos, luz cálida, escena alegre con fondo completo. Composición centrada con aire en los bordes (la app puede recortarlos). Sin texto, sin letras, sin marcas de agua. Cuadrado 1024×1024. Para niños de 3 a 6 años. Las flores, plantas y macetas de la escena no llevan cara: sin ojos, cejas ni boca en ninguna (son plantas y objetos, no personajes).
 ```
 
 #### Animales del bosque
